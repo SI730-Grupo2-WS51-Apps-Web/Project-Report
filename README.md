@@ -1369,3 +1369,1573 @@ ___
 <br><br>
 ___
 <br>
+
+# Capítulo IV: Product Design 
+
+## 4.1. Style Guidelines
+
+## 4.1.1. General Style Guidelines
+
+<br><br>
+
+**Logotipos**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/24.%20Logo%20Akira%20Vertical.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/25.%20Logo%20Akira%20Horizontal.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/26.%20Logo%20Akira%20Cabeza.png)
+
+<br><br>
+
+**Fonts**
+
+- Montserrat Light (Diseñado por Julieta Ulanovsky)
+
+Esta fuente es moderna, legible y versátil. La elegimos ya que su estilo limpio y minimalista complementa la estética del logo, transmitiendo una imagen de profesionalismo y seriedad.
+
+
+<br><br>
+
+**Paleta de colores**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/27.%20Paleta%20de%20Colores.png)
+
+**Significado de Paleta de color:**
+
+Se seleccionó el color rojo ya que evoca energía y emoción, transmitiendo la vitalidad que se encuentra en la cultura asiática. Este se asocia a la buena suerte y la prosperidad en la cultura asiática, lo que refuerza la idea de que los usuarios pueden encontrar productos de calidad y oportunidades en nuestra plataforma.
+
+
+
+<br><br>
+___
+<br>
+
+## 4.1.2. Web Style Guidelines
+
+**Tamaño de pantalla Web: tamaño**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/28.%20Pantalla%20Web.png)
+
+Referencia de tamaño: 1440 x 1024
+
+<br>
+
+**Paleta de colores**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/27.%20Paleta%20de%20Colores.png)
+
+
+<br><br>
+
+**Tipografía**
+
+- Montserrat Light (Diseñado por Julieta Ulanovsky)
+
+- Japan Brush (Diseñado por Intype)
+
+<br><br>
+
+**Tamaño de fuente**
+
+- Tamaño máximo de fuente: 65 pts.
+
+- Tamaño mínimo de fuente: 16 pts.
+
+<br><br>
+
+**Input Text:**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/29.%20Inputs.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/30.%20Inputs.png)
+
+
+<br><br>
+
+**Despliegues:**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/31.%20Seleccion%20de%20opciones.png)
+
+
+<br><br>
+
+**Botones:**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/32.%20Botones.PNG)
+
+
+<br><br>
+
+**Extras:**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/33.%20Elementos%20Extra.PNG)
+
+
+<br><br>
+___
+<br>
+
+## 4.2. Information Architecture
+
+## 4.2.1. Organization Systems
+
+Link para mejor visualización de los organization systems: https://miro.com/app/board/uXjVPTYasuY=/#tpicker-content 
+
+Como equipo hemos decidido utilizar una estructura jerárquica (visual hierarchy) tanto para la app como para la página web con el objetivo de lograr una experiencia de usuario satisfactoria. La estructura será para ambos segmentos objetivos:
+
+<br><br>
+
+**Para jóvenes fanáticos – página web**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/34.%20Organization%20system%20Fanaticos.png)
+
+
+<br><br>
+
+**Para vendedores de productos del entretenimiento asiático  – página web**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/35.%20Organization%20system%20Vendedores.png)
+
+
+<br><br>
+___
+<br>
+
+## 4.2.2. Labeling Systems
+
+Nuestro sistema de etiquetado dentro del navbar consta de dos apartados, primero explicaremos la parte visual que el usuario puede ver directamente cuando entra a la página web. Está compuesta por un hamburger icon que desplegará el segundo apartado del sistema de etiquetado, una etiqueta de “Contáctanos” para que el usuario pueda acceder a nuestro número, correo y redes sociales, el carrito de compras del usuario y el botón de perfil de usuario. Además, en ciertas pestañas, se visualiza el input “Buscar”, para que el usuario pueda buscar un producto dentro de toda la plataforma Akira.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/36.%20Labeling%20System.png)
+
+<br>
+
+El segundo apartado se muestra cuando el usuario le da click al hamburger icon del navbar, el cual contiene las etiquetas K-Pop, Anime, Lectura, New Ingresos, Lo más Top, Preguntas Frecuentes y Contáctanos.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/37.%20Labeling%20System.png)
+
+<br><br>
+___
+<br>
+
+## 4.2.3. SEO Tags and Meta Tags 
+
+**a. SEO Tags**
+
+Title Tag:
+
+- Akira - Tu tienda online de entretenimiento asiático | Lambders
+
+Meta Description Tag
+
+- "Explora Akira, donde encontrarás una amplia selección de productos de entretenimiento asiático, desde kpop hasta anime y mangas. Encuentra tus artistas favoritos, los últimos lanzamientos y coleccionables exclusivos. ¡Explora el mundo del entretenimiento asiático con Akira, la tienda de Lambders.".
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/38.%20SEO%20Tags%20and%20meta%20tags.png)
+
+Figura: Ejemplo de aplicación de los SEO Tags
+
+<br><br>
+
+**b. Meta Tags**
+
+Meta Robots Tag: Empleamos index y follow para que AKIRA pueda ser mostrada en los motores de búsqueda:
+- <meta name = " robots " content = " index , follow " >
+
+Meta Author Tag: Ya que el nombre del startup es Lamders, colocamos lo siguiente:
+- <meta name="author" content="Lambders Inc.">
+
+<br><br>
+___
+<br>
+
+## 4.2.4. Searching Systems 
+
+El sistema de búsqueda se basa en un input de Buscar, donde el usuario podrá ingresar el nombre de algún producto que esté buscando o el nombre de algun anime, grupo de k-pop o relacionado, para luego proceder a darle la tecla enter o presionar la lupa en la zona derecha del input para proceder con la búsqueda. Asimismo, al realizar la búsqueda, se maneja un sistema de filtros de búsqueda, donde el usuario podrá seleccionar el tipo de producto que está buscando, o el artista de su interés. Este filtro se modificará dependiendo a qué rubro de Akira le pertenece la búsqueda del usuario (Anime, K-Pop o Lectura).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/39.%20Searching%20Systems.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/40.%20Searching%20Systems.png)
+
+
+<br><br>
+___
+<br>
+
+## 4.2.5. Navigation Systems
+
+Los Sistemas de navegación están representados en el navbar de inicio de sesión, el navbar de Home/Inicio, en las etiquetas dentro de el hamburger icon y en la misma página de Inicio, en el apartado de Descubre Nuestras Categorías, donde los usuarios podrán darle click a la categoría K-Pop, Anime y Lectura, y navegar libremente por estos rubros dentro de Akira.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/41.%20Navigation%20System.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/42.%20Navigation%20System.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/43.%20Navigation%20System.png)
+
+<br><br>
+___
+<br>
+
+## 4.3. Landing Page UI Design
+
+## 4.3.1. Landing Page Wireframe
+
+**a. Wireframes para Inicio de Sesión dentro de AKIRA**
+
+El usuario, posterior al ingreso de AKIRA en su navegador web preferido, deberán iniciar sesión para poder acceder a la plataforma, ingresando su correo electrónico y contraseña ya registradas. 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**b. Wireframes para Registro de cuenta dentro de AKIRA**
+
+Sea el caso que el usuario no se haya registrado con anterioridad para poder iniciar sesión, deberá acceder a esta pantalla de registro e ingresar su Nombre, Apellido, Correo y Contraseña.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+
+**c. Wireframes de medios de Contacto con AKIRA**
+
+Cuando el usuario le de click a la opción “Contactanos” dentro del navbar, podrá visualizar las maneras de contactar a AKIRA, tanto mediante su correo, teléfono o redes sociales.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**d. Wireframes de cuenta del usuario dentro de AKIRA**
+
+Si el usuario ya creó su cuenta correctamente, al presionar el botón de usuario dentro del navbar, podrá visualizar los datos de su cuenta, tanto datos personales como nombre, apellido y correo, como su dirección, tarjeta vinculada y si tiene compras en curso.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**e. Wireframes Edición de datos personales en cuenta de usuario**
+
+Si el usuario desea editar alguna información de su cuenta, primero deberá darle click al botón de lápiz correspondiente al segmento de información que desea modificar. En este caso, editaremos los datos personales (parte izquierda de la pantalla).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Podrá acceder a la visualización de edición de datos personales, donde podrá modificar sus datos anteriormente registrados en el “Registro de Cuenta”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**f. Wireframes Edición de dirección en cuenta de usuario**
+
+Si el usuario desea editar o agregar su dirección para que el paquete de compra llegue a un destino, deberá darle click al botón de lápiz al lado de “Dirección”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Podrá acceder a la visualización de edición de dirección, donde podrá agregar o modificar los datos de su dirección, como el número de departamento, distrito, ciudad, provincia, país, código postal y referencia de dirección.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**g. Wireframes Edición de método de pago en cuenta de usuario**
+
+Si el usuario desea editar o agregar un método de pago para que el carrito de compra pueda ser pagado, deberá darle click al botón de lápiz al lado de “Tarjeta Vinculada”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Podrá acceder a la visualización de edición de método de pago, donde podrá modificar o agregar una tarjeta para poder pagar los productos de Akira. Colocará su número de tarjeta, nombre del propietario, fecha de vencimiento y CVV.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**h. Wireframes Visualización de compra en curso específica**
+
+Si el usuario desea visualizar cómo va alguno de sus pedidos (si es que ha realizado alguno), deberá darle click al número de track correspondiente.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Así, podrá acceder a la información del número de su envío en curso, donde verá a detalle los productos que pidió dentro de este paquete, el monto que pagó y en qué etapa de envío se encuentra (en este caso, el paquete se encuentra en aduanas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**i. Wireframes Visualización de Carrito, checkOut y Compra**
+
+Cuando el usuario presiona el botón de carrito dentro del navbar, podrá visualizar los productos que ha agregado a su carrito, con una imagen de estos, su descripción, precio y cantidad a comprar, además de un pequeño resumen de compra como el precio de todos los productos (subtotal), los gastos de envío y el total a pagar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Si el cliente decidió proceder con la compra y presionó “Ir a CheckOut”, se le redireccionará al apartado CheckOut, donde podrá visualizar la dirección donde se realizará la entrega, el método de pago que se usará para comprar el carrito y el resumen de gastos. Si todo está conforme, presionará “Comprar”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará una compra exitosa.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**j. Wireframes de Inicio de plataforma AKIRA**
+
+Visualización del inicio/home de AKIRA, pantalla que presenta el navbar, un carrusel con los nuevos productos de la tienda y una pequeña descripción de estos.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**k. Wireframes de rubros dentro de AKIRA**
+
+Al bajar, podrá visualizar las categorías con las que trabaja AKIRA, tanto K-Pop, Anime y Lectura (conformado por mangas y manhuas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**l. Wireframes de nuevos ingresos por rubro**
+
+Visualizará los nuevos ingresos de AKIRA en cuanto a productos por cada rubro, mostramos el ejemplo del rubro de KPOP.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Del rubro de ANIME:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Y del rubro de Lectura
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Además, cuando el usuario pase su cursor por algún producto de su interés, la imagen del producto se oscurecerá y se mostrarán detalles del mismo. Mostramos un ejemplo con el rubro de lectura,
+
+
+<br><br>
+
+**m. Wireframes de conjunto de distribuidores y aliados de AKIRA**
+
+Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar confianza a nuestra comunidad de clientes sobre la autenticidad de los productos.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**n. Wireframes de Footer**
+
+Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, información de cuenta, menú y nuestras redes sociales.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**ñ. Wireframes de despliegue del Hamburger Icon**
+
+Cuando el usuario presione el icono de Hamburger en la zona izquierda del navbar, se desplegará un Pop Up con la distribución de nuestras categorías de productos (Kpop, Anime y Lectura), además de Nuevos Ingresos y Lo Más Top (o lo más vendido), preguntas frecuentes y contacto con AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Observamos las categorías principales desplegadas.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Demostración de despliegue de opción dentro del rubro de Kpop, en este caso, los grupos de artistas femeninas.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+La misma lógica para el desplegable de grupos masculinos y el resto de subcategorías en otros rubros, como en Anime (figuras y chibis), y lectura (mangas y manhuas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**o. Wireframes de búsquedas específicas**
+
+Cuando el usuario ingresa algún valor dentro del input de Buscar, le aparecerán los resultados relacionados a su búsqueda, en este caso, el usuario buscó al grupo de Kpop “Red Velvet”, por lo que le aparecieron los resultados de los productos de este grupo. Además, se despliega en la zona izquierda de la pantalla, un apartado de filtros de búsqueda, para perfeccionar su preferencia de búsqueda (en el caso de Kpop, dividiéndose en Álbumes, Lightsticks y Photobooks).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**p. Wireframes de productos y detalles**
+
+Cuando el usuario le de click a algún producto de su interés, se redireccionará a una pantalla con los detalles del producto, como su precio, stock disponible, imágenes de referencia y la cantidad que el usuario desee comprar. Además de botones para comprar o añadir al carrito.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**q. Wireframes de perfil de rubro**
+
+Cuando el usuario, en la pantalla de inicio, le dé click a un rubro en particular, como muestra el siguiente wireframe: 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Se dirigirá al perfil del rubro, en este caso, de K-pop, el cual mostrará un carrusel con los nuevos productos de Kpop dentro de AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Además, mostrará todos los artistas de los que existen productos dentro de AKIRA mediante carruseles con imágenes.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+La misma lógica para el resto de rubros, aquí mostramos el del rubro de Lectura.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+<br><br>
+___
+<br>
+
+
+## 4.3.2. Landing Page Mock-up 
+
+**a. Mock-ups para Inicio de Sesión dentro de AKIRA**
+
+El usuario, posterior al ingreso de AKIRA en su navegador web preferido, deberán iniciar sesión para poder acceder a la plataforma, ingresando su correo electrónico y contraseña ya registradas. 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**b. Mock-ups para Registro de cuenta dentro de AKIRA**
+
+Sea el caso que el usuario no se haya registrado con anterioridad para poder iniciar sesión, deberá acceder a esta pantalla de registro e ingresar su Nombre, Apellido, Correo y Contraseña.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+
+**c. Mock-ups de medios de Contacto con AKIRA**
+
+Cuando el usuario le de click a la opción “Contactanos” dentro del navbar, podrá visualizar las maneras de contactar a AKIRA, tanto mediante su correo, teléfono o redes sociales.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**d. Mock-ups de cuenta del usuario dentro de AKIRA **
+
+Si el usuario ya creó su cuenta correctamente, al presionar el botón de usuario dentro del navbar, podrá visualizar los datos de su cuenta, tanto datos personales como nombre, apellido y correo, como su dirección, tarjeta vinculada y si tiene compras en curso.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**e. Mock-ups Edición de datos personales en cuenta de usuario**
+
+Si el usuario desea editar alguna información de su cuenta, primero deberá darle click al botón de lápiz correspondiente al segmento de información que desea modificar. En este caso, editaremos los datos personales (parte izquierda de la pantalla).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Podrá acceder a la visualización de edición de datos personales, donde podrá modificar sus datos anteriormente registrados en el “Registro de Cuenta”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**f. Mock-ups Edición de dirección en cuenta de usuario**
+
+Si el usuario desea editar o agregar su dirección para que el paquete de compra llegue a un destino, deberá darle click al botón de lápiz al lado de “Dirección”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Podrá acceder a la visualización de edición de dirección, donde podrá agregar o modificar los datos de su dirección, como el número de departamento, distrito, ciudad, provincia, país, código postal y referencia de dirección.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**g. Mock-ups Edición de método de pago en cuenta de usuario**
+
+Si el usuario desea editar o agregar un método de pago para que el carrito de compra pueda ser pagado, deberá darle click al botón de lápiz al lado de “Tarjeta Vinculada”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Podrá acceder a la visualización de edición de método de pago, donde podrá modificar o agregar una tarjeta para poder pagar los productos de Akira. Colocará su número de tarjeta, nombre del propietario, fecha de vencimiento y CVV.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**h. Mock-ups Visualización de compra en curso específica**
+
+Si el usuario desea visualizar cómo va alguno de sus pedidos (si es que ha realizado alguno), deberá darle click al número de track correspondiente.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Así, podrá acceder a la información del número de su envío en curso, donde verá a detalle los productos que pidió dentro de este paquete, el monto que pagó y en qué etapa de envío se encuentra (en este caso, el paquete se encuentra en aduanas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**i. Mock-ups Visualización de Carrito, checkOut y Compra**
+
+Cuando el usuario presiona el botón de carrito dentro del navbar, podrá visualizar los productos que ha agregado a su carrito, con una imagen de estos, su descripción, precio y cantidad a comprar, además de un pequeño resumen de compra como el precio de todos los productos (subtotal), los gastos de envío y el total a pagar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Si el cliente decidió proceder con la compra y presionó “Ir a CheckOut”, se le redireccionará al apartado CheckOut, donde podrá visualizar la dirección donde se realizará la entrega, el método de pago que se usará para comprar el carrito y el resumen de gastos. Si todo está conforme, presionará “Comprar”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará una compra exitosa.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**j. Mock-ups de Inicio de plataforma AKIRA**
+
+Visualización del inicio/home de AKIRA, pantalla que presenta el navbar, un carrusel con los nuevos productos de la tienda y una pequeña descripción de estos.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**k. Mock-ups de rubros dentro de AKIRA**
+
+Al bajar, podrá visualizar las categorías con las que trabaja AKIRA, tanto K-Pop, Anime y Lectura (conformado por mangas y manhuas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**l. Mock-ups de nuevos ingresos por rubro**
+
+Visualizará los nuevos ingresos de AKIRA en cuanto a productos por cada rubro, mostramos el ejemplo del rubro de KPOP
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Del rubro de ANIME:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Y del rubro de Lectura
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Además, cuando el usuario pase su cursor por algún producto de su interés, la imagen del producto se oscurecerá y se mostrarán detalles del mismo. Visualizamos el del rubro de Kpop.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+El de Anime.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Y el de Lectura.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**m. Mock-ups de conjunto de distribuidores y aliados de AKIRA**
+
+Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar confianza a nuestra comunidad de clientes sobre la autenticidad de los productos.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**n. Mock-ups de Footer**
+
+Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, información de cuenta, menú y nuestras redes sociales.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**ñ. Mock-ups de despliegue del Hamburger Icon**
+
+Cuando el usuario presione el icono de Hamburger en la zona izquierda del navbar, se desplegará un Pop Up con la distribución de nuestras categorías de productos (Kpop, Anime y Lectura), además de Nuevos Ingresos y Lo Más Top (o lo más vendido), preguntas frecuentes y contacto con AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Observamos las categorías principales desplegadas.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Demostración de despliegue de opción dentro del rubro de Kpop, en este caso, los grupos de artistas femeninas.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+La misma lógica para el desplegable de grupos masculinos y el resto de subcategorías en otros rubros, como en Anime (figuras y chibis), y lectura (mangas y manhuas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**o. Mock-ups de búsquedas específicas**
+
+Cuando el usuario ingresa algún valor dentro del input de Buscar, le aparecerán los resultados relacionados a su búsqueda, en este caso, el usuario buscó al grupo de Kpop “Red Velvet”, por lo que le aparecieron los resultados de los productos de este grupo. Además, se despliega en la zona izquierda de la pantalla, un apartado de filtros de búsqueda, para perfeccionar su preferencia de búsqueda (en el caso de Kpop, dividiéndose en Álbumes, Lightsticks y Photobooks).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Igualmente, para el rubro de ANIME
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Y el rubro de Lectura
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**p. Mock-ups de productos y detalles**
+
+Cuando el usuario le de click a algún producto de su interés, se redireccionará a una pantalla con los detalles del producto, como su precio, stock disponible, imágenes de referencia y la cantidad que el usuario desee comprar. Además de botones para comprar o añadir al carrito.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Igualmente, para el rubro de ANIME
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Y el rubro de Lectura
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+<br><br>
+
+**q. Mock-ups de perfil de rubro**
+
+Cuando el usuario, en la pantalla de inicio, le dé click a un rubro en particular, como muestra el siguiente wireframe: 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Se dirigirá al perfil del rubro, en este caso, de K-pop, el cual mostrará un carrusel con los nuevos productos de Kpop dentro de AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Además, mostrará todos los artistas de los que existen productos dentro de AKIRA mediante carruseles con imágenes.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+La misma lógica para el resto de rubros, como el Anime
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Y el rubro de la Lectura
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+<br><br>
+___
+<br>
+
+## 4.4. Web Applications UX/UI Design
+## 4.4.1. Web Applications Wireframes
+
+**a. Wireframes antes de entrar a la app de AKIRA**
+
+El usuario debe presionar la palabra “GO” antes de entrar a la aplicación de AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**b. Wireframes elección de iniciar sesión o registrarse dentro de Akira**
+
+El usuario, posterior al ingreso de AKIRA, tendrá que elegir entre iniciar sesión con una cuenta ya existente o registrarse para crear una nueva cuenta.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+
+**c. Wireframes para Inicio de Sesión y registro de cuenta dentro de AKIRA**
+
+El usuario, al elegir iniciar sesión, tendrá que poner el correo y contraseña que registró anteriormente para poder continuar. En el caso de que el usuario no tenga una cuenta, para poder iniciar sesión, tendrá que registrar su Nombre, Apellido, Correo y Contraseña.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+
+**d. Wireframes de medios de Contacto con AKIRA** 
+
+Cuando el usuario entre a la opción de “Contáctanos” el cual se encuentra en “Categories”, podrá visualizar las maneras que puede utilizar para contactar a AKIRA tanto en correo, teléfono o redes sociales.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**e. Wireframes de cuenta del usuario dentro de AKIRA** 
+
+Después de la creación de la cuenta del usuario, al seleccionar “Profile” en el tab bar, el usuario podrá visualizar los datos de su cuenta tanto sus datos personales como sus nombres, apellidos, teléfono y correo, como su dirección, tarjeta vinculada y si tiene compras en curso.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**f. Wireframes Edición de datos personales en cuenta de usuario**
+
+Si el usuario desea editar alguna parte de la información de su cuenta, debe de presionar el botón de lápiz correspondiente a la información que desea modificar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Para el caso de editar la “Cuenta”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**g. Wireframes Edición de dirección en cuenta de usuario**
+
+Si el usuario desea editar o agregar su dirección para que el paquete de compra llegue a la dirección asignada, deberá de presionar el botón de lápiz correspondiente a la información que desea modificar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Para el caso de editar la “Dirección”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**h. Wireframes Edición de método de pago en cuenta de usuario**
+
+Si el usuario desea editar o agregar un método de pago para que el carrito de compra pueda ser pagado, deberá de presionar el botón de lápiz correspondiente a la información que desea modificar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Para el caso de “Tarjeta Vinculada”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**i. Wireframes Visualización de compra en curso específica** 
+
+Si el usuario desea editar visualizar cómo van sus pedidos (si es que ha realizado), deberá de presionar al número de tracking correspondiente.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+De esta manera, podrá acceder a la información del número de su envío en curso, donde verá a detalle los productos que compró dentro del paquete, el monto pagado y en qué etapa de envío se encuentra (en este caso, el paquete se encuentra en aduanas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+
+**j. Wireframes Visualización de Carrito, checkOut y Compra**
+
+Cuando el usuario presione el ícono “cart” en el tab bar, podrá visualizar los productos que ha agregado a su carrito, con una imagen de estos , su descripción, precio y cantidad a comprar. Además, debajo de estos, se encuentra un pequeño resumen de su compra como el precio de todos los productos, los gastos de envío y el total a pagar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Si el cliente decide proseguir con la compra y presionó “Ir a CheckOut”, se le redireccionará al “CheckOut” donde podrá visualizar la dirección donde se realizará la entrega, el método de pago que se utilizará para comprar los productos del carrito y el resumen de gastos. Si el usuario está conforme, presionará “Comprar”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará una compra exitosa.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+<br><br>
+
+
+**k. Wireframes de Inicio de AKIRA**
+
+Por defecto el usuario estará en “Home”, visualizará un carrusel con los nuevos productos de la tienda y una pequeña descripción de estos.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+
+**l. Wireframes de Inicio de AKIRA**
+
+Al bajar, el usuario al presionar cada rubro de las imágenes, podrá visualizar las categorías con las que trabaja AKIRA tanto K-pop, anime y lecturas (conformado por mangas y manhuas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**m. Wireframes de nuevos ingresos por rubro**
+
+El usuario visualizará los nuevos ingresos de Akira en cuanto a productos por cada rubro.
+Para el rubro del K-pop:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+Para el rubro del anime y lectura:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**n. Wireframes de conjunto de distribuidores y aliados de AKIRA**
+
+Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar confianza a nuestra comunidad de clientes sobre la autenticidad de los productos.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**ñ. Wireframes de Footer**
+
+Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, información de cuenta, menú y nuestras redes sociales.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**o. Wireframes de despliegue del Categories Icon**
+
+Cuando el usuario presione el ícono “Categories” en el tab bar, se desplegará la distribución de nuestras categorías de productos (Kpop, Anime y Lectura). Además, de Nuevos Ingresos y Lo más Top (o lo más vendido), preguntas frecuentes y contacto con Akira.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Y observamos las categorías principales desplegadas.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Demostración de despliegue de opción dentro del rubro de Kpop, grupos de artistas femeninas, grupos masculinos y el resto de subcategorías en otros rubros, como en Anime (figuras y chibis), y lectura (mangas y manhuas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**p. Wireframes de búsquedas específicas**
+
+Al presionar el ícono de “Search”, el usuario tendrá que ingresar algún valor dentro del input de Buscar, le aparecerán los resultados relacionados a su búsqueda, en este caso, el usuario buscó al grupo de Kpop “Red Velvet”, por lo que le aparecieron los resultados de los productos de este grupo. Además, en la parte de arriba, hay un apartado de filtros de búsqueda, para perfeccionar su preferencia de búsqueda (en el caso de Kpop, dividiéndose en Álbumes, Lightsticks y Photobooks).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Igualmente, para el rubro de ANIME:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Y el rubro de Lectura:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**q. Wireframes de productos y detalles**
+
+Cuando el usuario presione a algún producto de su interés, se redireccionará a una pantalla con los detalles del producto como el precio, stock disponible, imágenes de referencia y la cantidad que el usuario desee comprar. Además de botones para comprar o añadir al carrito.
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Igualmente, para el rubro de ANIME y el rubro de Lectura.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**r. Wireframes de perfil de rubro**
+
+Cuando el usuario, esté en “Home”, le dé click a un rubro en particular, como muestra el siguiente wireframe: 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Se dirigirá al perfil del rubro, en este caso, de K-pop, el cual mostrará un carrusel con los nuevos productos de Kpop dentro de AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+De la misma forma para el rubro del ANIME y Lectura. Además, mostrará todos los artistas de los que existen productos dentro de AKIRA mediante carruseles con imágenes.
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+___
+<br>
+
+## 4.4.2. Web Applications Wireflow Diagrams 
+
+Visualización de todos los Wireflows: https://lucid.app/lucidchart/4dacd749-2022-4cdd-b012-d02229928cda/edit?viewport_loc=-4156%2C-2970%2C4490%2C2140%2C0_0&invitationId=inv_0bedce79-5ab1-4b13-b4eb-b9d6c6fad844 
+
+<br><br>
+
+**a. Wireflow A: Inicio de Sesión**
+
+*User Goals relacionados A*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+*Happy Path A:* Para poder iniciar sesión en AKIRA, el usuario debe contar con una cuenta existente, ingresar su correo electrónico y contraseña correspondiente para poder ingresar a su cuenta. Si no se ha registrado con anterioridad, deberá hacerlo, dando click en Registro. Aquí, llenará las casillas de Nombre, Apellido, Correo electrónico y Contraseña, para proceder con la creación de la cuenta.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+*Visualización completa del Wireflow A:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**b. Wireflow B: Visualizar Cuenta**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+*Happy Path B:* Para que el usuario pueda visualizar su cuenta, deberá darle click al botón de “Mi Cuenta”, dentro del navbar de AKIRA, y así podrá observar a detalle su cuenta. Visualizará tres contenedores dentro de su cuenta, el primero abarcando sus datos personales (Nombre, Apellido, correo y teléfono), el segundo abarcando sus datos sensibles (dirección y tarjeta vinculada) y el último apartado contendrá sus compras en curso, divididas por número de tracking (si es que realizó alguna compra). Si no realizó alguna compra, no se mostrará ningún número de tracking en este apartado, y si no ingresó algún dato personal o sensible, no aparecerá el dato en la casilla correspondiente, y te permitirá agregar o modificar el dato, dependiendo del caso.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Visualización completa del Wireflow B:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**c. Wireflow C: Buscar productos, artistas o géneros**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+
+*Happy Path C:* El usuario podrá buscar productos, artistas, géneros de lectura, o animes de diversas maneras. La primera será mediante los desplegables encontrados al presionar el Hamburger icon dentro del navbar de AKIRA, donde podrá buscar, de manera genérica, las diferentes categorías de productos asiáticos que ofrece akira, así como sus subcategorías por cada rubro. El segundo método de búsqueda se dará al ingresar texto en el input “Buscar”, dentro del navbar de Akira, donde el usuario podrá ingresar una palabra (como el nombre de su album de kpop, o el género de lectura que desea buscar), y aparecerá una lista de productos relacionados a la búsqueda. El tercer y último método se encuentra en la pantalla de Inicio de Akira, cuando se muestran las tres categorías de productos asiáticos, si el usuario presiona una de estas categorías, será redirigido a pantallas específicas que contendrán únicamente las novedades de la categoría. Por ejemplo, si presiona la categoría de Anime, solo observará los nuevos productos de anime que AKIRA ofrece y todos los animes con los que trabaja Akira. 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Visualización completa del Wireflow C:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**d. Wireflow D: Filtrar búsqueda**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+
+
+*Happy Path D:* Cuando el usuario haya realizado una búsqueda desde el input “Buscar” dentro del navbar, podrá visualizar el campo de Filtros de búsqueda que ofrece AKIRA, los cuales variarán dependiendo a la/s categoría/s relacionadas a la búsqueda.
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+*Visualización completa del Wireflow D:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+<br><br>
+
+**e. Wireflow E: Agregar producto, visualizar y comprar Carrito**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+
+
+*Happy Path E:* Cuando el usuario esté visualizando un producto de su interés y desee agregarlo a su carrito, solo deberá presionar el botón de Agregar al Carrito, asegurándose que la cantidad de producto que esté seleccionada, sea la que el usuario desee (por default, la cantidad de productos a comprar es “1 item”). Para visualizar su carrito, deberá presionar el botón de carrito dentro del navbar de AKIRA, y si desea comprar su carrito, solo deberá visualizar el carrito, presionar “Ir al CheckOut”, revisar que todos los datos de envío sean correctos, y presionar el botón de Comprar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Visualización completa del Wireflow E:*
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**f. Wireflow F: Contactar con AKIRA**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+*Happy Path F:* Cuando el usuario desee contactar con AKIRA, es decir, el soporte técnico o alguien que maneje la página, podrá darle click a “Contáctanos”, opción ubicada dentro del navbar de AKIRA, o también ubicada dentro del Hamburger icon. Cuando acceda a la pantalla de Contactanos, podrá visualizar el correo, teléfono y redes sociales de AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Visualización completa del Wireflow F:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+___
+<br>
+
+## 4.4.2. Web Applications Mock-ups 
+
+**a. Mock-ups antes de entrar a la app de AKIRA** 
+
+El usuario debe presionar la palabra “GO” antes de entrar a la aplicación de AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**b. Mock-ups elección de iniciar sesión o registrarse dentro de Akira**
+
+El usuario, posterior al ingreso de AKIRA, tendrá que elegir entre iniciar sesión con una cuenta ya existente o registrarse para crear una nueva cuenta.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**c. Mock-ups para Inicio de Sesión y registro de cuenta dentro de AKIRA** 
+
+El usuario, al elegir iniciar sesión, tendrá que poner el correo y contraseña que registró anteriormente para poder continuar. En el caso de que el usuario no tenga una cuenta, para poder iniciar sesión, tendrá que registrar su Nombre, Apellido, Correo y Contraseña.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**d. Mock-ups de medios de Contacto con AKIRA** 
+
+Cuando el usuario entre a la opción de “Contáctanos” el cual se encuentra en “Categories”, podrá visualizar las maneras que puede utilizar para contactar a AKIRA tanto en correo, teléfono o redes sociales.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**e. Mock-ups de cuenta del usuario dentro de AKIRA** 
+
+Después de la creación de la cuenta del usuario, al seleccionar “Profile” en el tab bar, el usuario podrá visualizar los datos de su cuenta tanto sus datos personales como sus nombres, apellidos, teléfono y correo, como su dirección, tarjeta vinculada y si tiene compras en curso.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**f. Mock-ups Edición de datos personales en cuenta de usuario**
+
+Si el usuario desea editar alguna parte de la información de su cuenta, debe de presionar el botón de lápiz correspondiente a la información que desea modificar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Para el caso de editar la “Cuenta”.
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**g. Mock-ups Edición de dirección en cuenta de usuario**
+
+Si el usuario desea editar o agregar su dirección para que el paquete de compra llegue a la dirección asignada, deberá de presionar el botón de lápiz correspondiente a la información que desea modificar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Para el caso de editar la “Dirección”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**h. Mock-ups Edición de método de pago en cuenta de usuario**
+
+Si el usuario desea editar o agregar un método de pago para que el carrito de compra pueda ser pagado, deberá de presionar el botón de lápiz correspondiente a la información que desea modificar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Para el caso de “Tarjeta Vinculada”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**i. Mock-ups Visualización de compra en curso específica** 
+
+Si el usuario desea editar visualizar cómo van sus pedidos (si es que ha realizado), deberá de presionar al número de tracking correspondiente.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+De esta manera, podrá acceder a la información del número de su envío en curso, donde verá a detalle los productos que compró dentro del paquete, el monto pagado y en qué etapa de envío se encuentra (en este caso, el paquete se encuentra en aduanas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**j. Mock-ups Visualización de Carrito, checkOut y Compra**
+
+Cuando el usuario presione el ícono “cart” en el tab bar, podrá visualizar los productos que ha agregado a su carrito, con una imagen de estos , su descripción, precio y cantidad a comprar. Además, debajo de estos, se encuentra un pequeño resumen de su compra como el precio de todos los productos, los gastos de envío y el total a pagar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Si el cliente decide proseguir con la compra y presionó “Ir a CheckOut”, se le redireccionará al “CheckOut” donde podrá visualizar la dirección donde se realizará la entrega, el método de pago que se utilizará para comprar los productos del carrito y el resumen de gastos. Si el usuario está conforme, presionará “Comprar”.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará una compra exitosa.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**k. Mock-ups de Inicio de AKIRA**
+
+Por defecto el usuario estará en “Home”, visualizará un carrusel con los nuevos productos de la tienda y una pequeña descripción de estos.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+<br><br>
+
+**l. Mock-ups de Inicio de AKIRA**
+
+Al bajar, el usuario al presionar cada rubro de las imágenes, podrá visualizar las categorías con las que trabaja AKIRA tanto K-pop, anime y lecturas (conformado por mangas y manhuas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**m. Mock-ups de nuevos ingresos por rubro**
+
+El usuario visualizará los nuevos ingresos de Akira en cuanto a productos por cada rubro.
+Para el rubro del K-pop:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+Para el rubro del anime y lectura:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**n. Mock-ups de conjunto de distribuidores y aliados de AKIRA**
+
+Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar confianza a nuestra comunidad de clientes sobre la autenticidad de los productos.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**ñ. Mock-ups de Footer**
+
+Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, información de cuenta, menú y nuestras redes sociales.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**o. Mock-ups de despliegue del Categories Icon**
+
+Cuando el usuario presione el ícono “Categories” en el tab bar, se desplegará la distribución de nuestras categorías de productos (Kpop, Anime y Lectura). Además, de Nuevos Ingresos y Lo más Top (o lo más vendido), preguntas frecuentes y contacto con Akira.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Y observamos las categorías principales desplegadas.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+
+Demostración de despliegue de opción dentro del rubro de Kpop, grupos de artistas femeninas, grupos masculinos y el resto de subcategorías en otros rubros, como en Anime (figuras y chibis), y lectura (mangas y manhuas).
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**p. Mock-ups de búsquedas específicas**
+
+Al presionar el ícono de “Search”, el usuario tendrá que ingresar algún valor dentro del input de Buscar, le aparecerán los resultados relacionados a su búsqueda, en este caso, el usuario buscó al grupo de Kpop “Red Velvet”, por lo que le aparecieron los resultados de los productos de este grupo. Además, en la parte de arriba, hay un apartado de filtros de búsqueda, para perfeccionar su preferencia de búsqueda (en el caso de Kpop, dividiéndose en Álbumes, Lightsticks y Photobooks).
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Igualmente, para el rubro de ANIME:
+
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Y el rubro de Lectura:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**q. Mock-ups de productos y detalles**
+
+Cuando el usuario presione a algún producto de su interés, se redireccionará a una pantalla con los detalles del producto como el precio, stock disponible, imágenes de referencia y la cantidad que el usuario desee comprar. Además de botones para comprar o añadir al carrito.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Igualmente, para el rubro de ANIME y el rubro de Lectura.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+<br><br>
+
+
+**r. Mock-ups de perfil de rubro**
+
+Cuando el usuario, esté en “Home”, le dé click a un rubro en particular, como muestra el siguiente wireframe: 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Se dirigirá al perfil del rubro, en este caso, de K-pop, el cual mostrará un carrusel con los nuevos productos de Kpop dentro de AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+De la misma forma para el rubro del ANIME y Lectura. Además, mostrará todos los artistas de los que existen productos dentro de AKIRA mediante carruseles con imágenes.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+___
+<br>
+
+## 4.4.3. Web Applications User Flow Diagrams
+
+<br><br>
+
+**a. User Flow Diagram A: Inicio de Sesión**
+
+*User Goals relacionados A*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+*Happy Path A:* Para poder iniciar sesión en AKIRA, el usuario debe contar con una cuenta existente, ingresar su correo electrónico y contraseña correspondiente para poder ingresar a su cuenta. Si no se ha registrado con anterioridad, deberá hacerlo, dando click en Registro. Aquí, llenará las casillas de Nombre, Apellido, Correo electrónico y Contraseña, para proceder con la creación de la cuenta.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+*Unhappy Path A:* Texto
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+
+*Visualización completa del Wireflow A:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**b. User Flow Diagram B: Visualizar Cuenta**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+*Happy Path B:* Para que el usuario pueda visualizar su cuenta, deberá darle click al botón de “Mi Cuenta”, dentro del navbar de AKIRA, y así podrá observar a detalle su cuenta. Visualizará tres contenedores dentro de su cuenta, el primero abarcando sus datos personales (Nombre, Apellido, correo y teléfono), el segundo abarcando sus datos sensibles (dirección y tarjeta vinculada) y el último apartado contendrá sus compras en curso, divididas por número de tracking (si es que realizó alguna compra). Si no realizó alguna compra, no se mostrará ningún número de tracking en este apartado, y si no ingresó algún dato personal o sensible, no aparecerá el dato en la casilla correspondiente, y te permitirá agregar o modificar el dato, dependiendo del caso.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+*Unhappy Path B:* Texto
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+*Visualización completa del Wireflow B:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**c. User Flow Diagram C: Buscar productos, artistas o géneros**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+
+*Happy Path C:* El usuario podrá buscar productos, artistas, géneros de lectura, o animes de diversas maneras. La primera será mediante los desplegables encontrados al presionar el Hamburger icon dentro del navbar de AKIRA, donde podrá buscar, de manera genérica, las diferentes categorías de productos asiáticos que ofrece akira, así como sus subcategorías por cada rubro. El segundo método de búsqueda se dará al ingresar texto en el input “Buscar”, dentro del navbar de Akira, donde el usuario podrá ingresar una palabra (como el nombre de su album de kpop, o el género de lectura que desea buscar), y aparecerá una lista de productos relacionados a la búsqueda. El tercer y último método se encuentra en la pantalla de Inicio de Akira, cuando se muestran las tres categorías de productos asiáticos, si el usuario presiona una de estas categorías, será redirigido a pantallas específicas que contendrán únicamente las novedades de la categoría. Por ejemplo, si presiona la categoría de Anime, solo observará los nuevos productos de anime que AKIRA ofrece y todos los animes con los que trabaja Akira. 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+*Unhappy Path C:* Texto
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Visualización completa del Wireflow C:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**d. User Flow Diagram D: Filtrar búsqueda**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+
+
+*Happy Path D:* Cuando el usuario haya realizado una búsqueda desde el input “Buscar” dentro del navbar, podrá visualizar el campo de Filtros de búsqueda que ofrece AKIRA, los cuales variarán dependiendo a la/s categoría/s relacionadas a la búsqueda.
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+*Unhappy Path D:* Texto
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Visualización completa del Wireflow D:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+<br><br>
+
+**e. User Flow Diagram E: Agregar producto, visualizar y comprar Carrito**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+
+
+*Happy Path E:* Cuando el usuario esté visualizando un producto de su interés y desee agregarlo a su carrito, solo deberá presionar el botón de Agregar al Carrito, asegurándose que la cantidad de producto que esté seleccionada, sea la que el usuario desee (por default, la cantidad de productos a comprar es “1 item”). Para visualizar su carrito, deberá presionar el botón de carrito dentro del navbar de AKIRA, y si desea comprar su carrito, solo deberá visualizar el carrito, presionar “Ir al CheckOut”, revisar que todos los datos de envío sean correctos, y presionar el botón de Comprar.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Unhappy Path E:* Texto
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+*Visualización completa del Wireflow E:*
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**f. User Flow Diagram F: Contactar con AKIRA**
+
+*User Goals relacionados*
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+*Happy Path F:* Cuando el usuario desee contactar con AKIRA, es decir, el soporte técnico o alguien que maneje la página, podrá darle click a “Contáctanos”, opción ubicada dentro del navbar de AKIRA, o también ubicada dentro del Hamburger icon. Cuando acceda a la pantalla de Contactanos, podrá visualizar el correo, teléfono y redes sociales de AKIRA.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+*Unhappy Path F:* Texto
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+*Visualización completa del Wireflow F:* 
+
+Mejor visualización en el link de LucidChart
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+___
+<br>
+
+## 4.5. Web Applications Prototyping
+
+Link de Figma
+
+https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+URL video de prototipado Landing Page:
+
+www.com 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+URL video de prototipado Mobile Version:
+
+www.com 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+___
+<br>
