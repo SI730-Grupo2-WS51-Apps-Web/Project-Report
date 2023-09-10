@@ -2939,3 +2939,877 @@ www.com
 <br><br>
 ___
 <br>
+## 4.6. Domain-Driven Software Architecture 
+
+## 4.6.1. Software Architecture Context Diagram
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+El diagrama de contexto ilustra la arquitectura y las interacciones principales de un sistema de venta de productos en línea. Este sistema permite a los usuarios como los clientes o mayoristas navegar por la plataforma y realizar las compras de productos. Además, el sistema conecta los diversos proveedores que suministran los productos disponibles en la tienda.
+
+En la representación gráfica, se observa al “Cliente” interactuando directamente con el “Sistema de venta de Productos”, lo que implica la navegación por la plataforma y la realización de compras. El “Cliente” también se comunica con el “Servicio de Envío”, consultando el tiempo estimado de entrega de los productos adquiridos.
+
+El “Sistema de venta de Productos” utiliza el “Servicio de Envío” para gestionar la logística y la entrega de los productos a los clientes. Asimismo, el sistema se integra con los “Proveedores”, desde los cuales obtiene los productos que se ofrecen.
+
+<br><br>
+___
+<br>
+
+
+## 4.6.2. Software Architecture Container Diagrams
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+El diagrama de contenedores representa la arquitectura del “Sistema de venta de producto”. Los usuarios, denominados “Clientes”, exploran y compran productos a través de una aplicación web. Esta aplicación interactúa con diversos componentes, incluido el “Sistema de inventario” que gestiona el stock de productos, una “Base de datos” que almacena la información de productos y compras, y un “Sistema de Pago” que asegura las transacciones financieras.
+
+<br><br>
+___
+<br>
+
+
+## 4.6.3. Software Architecture Components Diagrams
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+El diagrama de componentes consiste en la descomposición de los principales contenedores “Sistema de Pago” y “Sistema de Inventario” en más componentes los cuales representan las distintas funcionalidades de las cuales están conformados. En primer lugar “Sistema de Pago” tiene un “Método de pago” por el cual el Cliente paga por el producto, después se guarda toda la información en un “Registro pago” que es documentación importante a la hora de la entrega en el servicio de envío, esta misma información es almacenada en la base como una constancia de pago. En “Sistema de Inventario” se tiene un “Registro Inventario” el cual almacena el conteo de los productos que maneja la aplicación, siendo enviada esta información a la “Base de Datos”, todo este conteo es posible gracias a “Gestión inventario” en el cual se maneja lo que viene a ser la entrada y salida de los productos.
+
+<br><br>
+___
+<br>
+
+## 4.7. Software Object-Oriented Design 
+
+## 4.7.1. Class Diagrams 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Falta texto
+
+<br><br>
+___
+<br>
+
+## 4.7.2. Class Dictionary 
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Falta texto
+
+<br><br>
+___
+<br>
+
+## 4.8. Database Design 
+
+## 4.8.1. Database Diagram 
+
+Link Vertabelo: https://my.vertabelo.com/public-model-view/ZnJaPxrKLsaEZjUsf8SIdOzL41eWWrKFl5oObYkr5a3b5hJYsuXLci3bzCQK1VXL?x=13218&y=13276&zoom=1.9571 
+
+Se diagramó una base de datos relacional con SQL y la herramienta Vertabelo, para almacenar y gestionar la información relacionada de los productos, usuarios, carritos de compras, direcciones de envío, filtros y tarjetas de crédito. Nuestra DB está compuesta por 9 tablas: producto, carritos, productos_por_carrito, usuario, tarjeta, direccion, categoria y  filtro, categorias_por_filtro, permitiendo almacenar la información personal del usuario, datos de tarjeta, de dirección, detalles de los productos de Akira, los detalles de filtros de búsqueda y las categorías de Akira.
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+___
+<br>
+
+## 5.1. Software Configuration Management
+
+## 5.1.1. Software Development Environment Configuration
+
+**Project Management:** 
+
+*Notion:* Es un software de gestión de proyectos/tareas que te ayuda a planificar tus proyectos de una forma más organizada.También te permite tomar apuntes y poder gestionar grandes trabajos en equipo. 
+
+- URL: https://www.notion.so/
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Pivotal Tracker:* Es una herramienta de gestión de proyectos ágiles. La cual te da la factibilidad de la colaboración en tiempo real en torno a un registro compartido priorizado. 
+
+- URL: https://www.pivotaltracker.com/
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**Requirements Management: (Historias de usuario y requisitos)**
+
+*Cucumber:* Es una herramienta que admite el desarrollo basado en el comportamiento. Un elemento central del enfoque de Cucumber BDD es su analizador de lenguaje ordinario llamado Gherkin.
+
+- URL:  https://cucumber.io/
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**Product UX/UI Design:**
+
+*Figma:* Un editor de gráficos vectorial y una herramienta de generación de prototipos web,la cual te va a brindar las plantillas, colores y todo para poder crear tus prototipos para aplicaciones de escritorio en macOS y Windows.
+
+- URL: https://www.figma.com/
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*UXPressia:* Es una plataforma multi colaborativa, la cual ayuda en el mapeo del viaje del cliente. Para facilitar las interacciones y los puntos de contacto.
+
+- URL: https://uxpressia.com/
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Adobe Illustrator:* Es un editor gráfico vectorial, el cual te permite crear logotipos, iconos, dibujos,etc. 
+
+- URL: https://www.adobe.com/la/products/illustrator.html
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+**Software Development:**
+
+*IDE: Visual Studio Code:* Es un editor de código fuente desarrollado por Microsoft, open source y multiplataforma. Este cuenta con una buena integración con Git, cuenta con soporte para depuración de código, y dispone de un sinnúmero de extensiones. Es compatible con múltiples lenguajes, por ejemplo: C++, C#, etc. Gracias a esto nos permite desarrollar aplicaciones multiplataforma para dispositivos móviles y de escritorio.
+
+- URL: https://code.visualstudio.com/ 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Framework AngularJS:* Es un framework de JavaScript desarrollado por Google que se utiliza para crear aplicaciones web de una sola página (SPA) de manera eficiente y estructurada.
+
+- URL: https://angularjs.org/ 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*Html:* Es un lenguaje de etiquetas el cual sirve para el desarrollo de páginas web.
+
+- URL: https://html.com
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+*CSS:* Es un lenguaje de diseño gráfico, el cual permite animar y diseñar un documento escrito.
+
+- URL: -
+  
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+
+
+*JavaScript:* Es un lenguaje de programación orientado a objetos. El cual está basado en prototipos, imperativo, débilmente tipado y dinámico.
+
+- URL: -
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+
+
+**Software Testing:**
+
+*Lenguaje Gherkin:* Es un lenguaje específico de dominio “DSL”, el cual está diseñado para resolver problemas concretos. En este caso sería la comunicación entre perfiles.
+
+- URL: -
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+___
+<br>
+
+## 5.1.2. Source Code Management 
+
+|             Integrante                |   Cuenta SCV (GitHub)   |
+|---------------------------------------|:-----------------------:|
+|      Aquije Quiroga, Luis Enrique     |  u202114936@upc.edu.pe  |
+|     Bernal Moreno, Gabriel Adrian     |  u20201F415@upc.edu.pe  |
+| García Vásquez, Nirvana Gabriela      | nirvagarciav@upc.edu.pe |
+|    Moreno Best, Michelle Francesca    |  u202110543@upc.edu.pe  |
+| Scerpella Zarkovic, Marcelo Alejandro |  u202110062@upc.edu.pe  |
+
+
+URL del repositorio de **Landing Page**
+
+https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications 
+
+URL del repositorio de **Web Services**
+
+https://github.com/SI729-Grupo2-WS52-Open-Source/Web-Services 
+
+URL del repositorio de **Frontend Web Application**
+
+https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications
+
+<br><br>
+
+**Describir cómo implementaremos Gitflow**
+
+Como se puede apreciar en la imagen, en la versión 0.1 realizamos la creación del proyecto y aplicación. A partir de allí, creamos la rama “Develop” en el cual irán las nuevas características. Asimismo, creamos una rama llamada “Feature”, en el cual pondremos los features de nuestro proyecto.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+Link del GitFlow: https://miro.com/app/board/uXjVPJUuizE=/?share_link_id=47144121041 
+
+
+
+<br><br>
+
+
+**Capturas del Github Grupal**
+
+Se crearon tres repositorios, Landing Page, Web Services y Frontend Web Applications
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+Asimismo, por cada repositoriom, creamos 3 ramas (branches) que son el main, feature/landing-page y develop y en ellos se pondrán los features y nuestro landing page.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+
+<br><br>
+___
+<br>
+
+## 5.1.3. Source Code Style Guide & Conventions
+
+**HTML: (https://www.w3schools.com/html/html5_syntax.asp)**
+
+ El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para estructurar y desplegar una página web y sus contenidos
+
+- Index.html: es el nombre que comúnmente se utiliza para la página predeterminada que se muestra en un sitio web. Es la página principal o de inicio de cualquier sitio web.
+
+**Convenciones de HTML:**
+
+- Siempre declarar el tipo de documento en la primera línea del documento, para HTML es "<!DOCTYPE html>”.
+- Usar nombres de elementos en minúsculas, aunque HTML te permite mezclar letras en mayúsculas y minúsculas en los nombres de los elementos, se nos recomienda usar elementos en minúscula porque se ve mal si mezclamos nombres en mayúsculas con minúsculas, los desarrolladores usan nombres en minúsculas, las minúsculas se ven más limpias y es más fácil de escribir.
+- En HTML, no tiene que cerrar todos los elementos (Por ejemplo <p>), pero se nos recomienda cerrar todos los elementos.
+- Se nos recomienda también escribir los atributos en minúsculas porque es el estándar y para que nuestro código sea entendible. 
+- Se nos recomienda citar siempre valores de atributo, aunque se permita escribir sin comillas, se ha estandarizado entre los desarrolladores hacerlo siempre, para una mejor lectura.
+- Se nos recomienda especificar el alt, ancho y altura para las imágenes. Siempre hay que definir el width y height de las imágenes para reducir el parpadeo.
+- Se nos recomienda no usar el espacio al momento de utilizar los signos porque es más fácil de leerlo de esta forma
+- Se recomienda evitar líneas de código largas, no agregar líneas en blanco, espacios o sangrías sin razón. Sin embargo, podemos utilizar las líneas en blanco para separar bloques de código grandes o lógicos. Adicionalmente, podemos agregar 2 espacios de sangría para facilitar la lectura sin utilizar la tabulación.
+- Nunca se debe omitir el elemento <title> porque el contenido del título de una página siempre es muy importante
+- No omitir las etiquetas <html>, <body> y <cabeza>.
+- Se nos recomienda agregar el atributo lang dentro del atributo de la <html> etiqueta, para declarar el idioma de la página
+- Incluir siempre el elemento <meta> en todas las páginas para la configuración de la ventana gráfica.
+Escribir en una línea los comentarios cortos
+
+<br><br>
+
+**CSS: (https://google.github.io/styleguide/htmlcssguide.html)** 
+
+Es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita
+
+- Style.css: Es un archivo en css que configura el estilo de la página que haremos. 
+
+**Convenciones de CSS:**
+
+- Se nos recomienda utilizar HTTPS (https:) para las imágenes y archivos multimedia, hojas de estilo y scripts, a menos que los archivos respectivos no estén disponibles a través de HTTPS.
+- Se nos recomienda tener una sangría por 2 espacios a la vez, no debemos utilizar tabulaciones ni mezclarlas tabulaciones con espacios para la sangría
+- Todo el código debe estar en minúscula
+- Eliminar los espacios en blanco
+- Usar comentarios para explicar el código
+- Utilizar nombres de clase significativos o genéricos, nombres que reflejen el propósito de su elemento
+- Utilizar nombres de clase cortos
+- Separar las palabras en los nombres de las clases con un guión
+- Utilizar prefijos o identificadores breves en los nombres de las clases para proyectos grandes
+- Evitar calificar nombres de clase con selectores de tipo
+- Evitar los selectores de ID y preferir los selectores de clase
+- Evitar la especificación en valores “0” a menos que se requiera.
+- Utilizar la notación hexadecimal de 3 carácteres cuando sea posible, por ejemplo para los valores de colores.
+- Evitar el repetitivo uso de las declaraciones importantes !important, porque estas rompen la cascada natural de css y dificultan el razonamiento y composición de los estilos.
+- Aplicar sangría a todo el contenido de un bloque
+- Utilizar las comillas simples en lugar de las comillas dobles porque las comillas dobles no están permitidas.
+
+
+<br><br>
+
+**JavaScript: (https://google.github.io/styleguide/htmlcssguide.html)** 
+
+Es un lenguaje de programación de alto nivel, interpretado y orientado a objetos, utilizado principalmente para la creación de aplicaciones web interactivas. Permite agregar interactividad y dinamismo a las páginas web.
+
+- script.css: Es un archivo en js que albergará la lógica de programación dentro de la aplicación web. 
+
+**Convenciones de JS:**
+
+- Utilizar nombres de variables descriptivos y significativos.
+- Utilizar camelCase para nombrar variables y funciones (por ejemplo, miVariable, miFuncion).
+- Utilizar PascalCase para nombrar clases y constructores (por ejemplo, MiClase).
+- Evitar el uso de nombres de variables genéricos o ambiguos.
+- Utilizar comentarios para explicar el propósito y funcionalidad del código.
+- Utilizar indentación de 2 espacios para mejorar la legibilidad del código.
+- Utilizar operadores de comparación estricta (===) en lugar de la igualdad débil (==) cuando sea posible.
+- Utilizar punto y coma al final de cada declaración.
+- Utilizar comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
+- Organizar el código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+- Evitar el uso de variables globales y priorizar el uso de ámbitos locales.
+- Utilizar funciones flecha (arrow functions) cuando sea posible para una sintaxis más concisa.
+- Evitar el uso de eval() ya que puede tener implicaciones de seguridad y rendimiento.
+- Utilizar el operador ternario (condición ? resultadoTrue : resultadoFalse) de manera moderada y legible.
+- Utilizar el modo estricto ("use strict") para evitar errores comunes y promover buenas prácticas de codificación.
+- Evitar el uso de funciones obsoletas o en desuso.
+- Utilizar try-catch para manejar y gestionar errores de manera adecuada.
+- Mantener el código limpio y eliminar cualquier código muerto o comentarios innecesarios.
+
+<br><br>
+
+
+**TypeScript: (https://google.github.io/styleguide/htmlcssguide.html)** 
+
+Es un lenguaje de programación desarrollado por Microsoft. Considerado un superconjunto de JavaScript, lo que significa que cualquier código JavaScript existente es válido en TypeScript. Sin embargo, TypeScript agrega características adicionales, como el sistema de tipos estáticos, que permite detectar errores en tiempo de compilación y mejorar la calidad y la mantenibilidad del código.
+
+- index.ts: Es un archivo en ts que albergará la lógica de programación dentro de la aplicación web. 
+
+**Convenciones de TS:**
+
+- Utilizar nombres de variables, funciones y clases en camelCase.
+- Utilizar PascalCase para nombrar interfaces y tipos personalizados.
+- Utilizar el tipo específico en lugar de "any" cuando sea posible para mejorar la seguridad del tipo.
+- Utilizar comentarios para explicar el propósito y funcionalidad del código.
+- Utilizar indentación de 2 espacios para mejorar la legibilidad del código.
+- Utilizar el punto y coma al final de cada declaración.
+- Utilizar comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
+- Organizar el código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+- Utilizar la inferencia de tipos de TypeScript en lugar de especificar el tipo explícitamente cuando sea posible.
+- Utilizar el modificador "readonly" para las propiedades que no deben modificarse después de la inicialización.
+- Utilizar el modificador "private" o "protected" para encapsular las propiedades y métodos internos de una clase.
+- Utilizar el modificador "public" de forma explícita para mejorar la claridad del código.
+- Utilizar interfaces para definir la forma de los objetos y promover la reutilización del código.
+- Utilizar las palabras clave "export" e "import" para modularizar el código y evitar conflictos de nombres.
+- Utilizar el compilador de TypeScript para detectar errores de tipo antes de tiempo de ejecución.
+- Utilizar las últimas versiones de TypeScript y seguir las mejores prácticas recomendadas por la comunidad de TypeScript.
+
+
+<br><br>
+
+
+**Java: (https://google.github.io/styleguide/htmlcssguide.html)** 
+
+Es un lenguaje de programación orientado a objetos, desarrollado por Sun Microsystems (ahora propiedad de Oracle). Tiene el objetivo de ser un lenguaje de programación portátil y robusto, capaz de funcionar en diferentes plataformas y entornos.
+
+- class.java: Usualmente, el nombre de archivo en Java se elige de acuerdo con las convenciones de nomenclatura estándar y las mejores prácticas de desarrollo de Java.
+
+**Convenciones de Java:**
+
+- Se recomienda utilizar HTTPS (https:) para todas las conexiones seguras en las aplicaciones web.
+- Utilizar una sangría de 4 espacios para mejorar la legibilidad del código.
+- Utilizar nombres de variables y métodos en minúsculas, siguiendo la convención CamelCase para mejorar la legibilidad. Por ejemplo: miVariable, calcularPromedio().
+- Eliminar los espacios en blanco innecesarios para mantener un código más limpio y conciso.
+- Utilizar comentarios para explicar el código y proporcionar información adicional sobre su funcionamiento.
+- Utilizar nombres de clase significativos y descriptivos para reflejar el propósito y la funcionalidad del elemento.
+- Utilizar nombres de clase cortos y concisos para facilitar la lectura y el mantenimiento del código.
+- Utilizar prefijos o identificadores breves en los nombres de las clases para proyectos grandes, si es necesario para evitar confusiones entre clases.
+- Evitar calificar nombres de clase con selectores de tipo para mejorar la flexibilidad y reutilización del código.
+- Preferir los selectores de clase sobre los selectores de ID para permitir la reutilización de estilos y evitar especificidad excesiva.
+- Evitar especificar valores "0" a menos que sea necesario, para mantener un código más limpio y eliminar redundancias.
+- Utilizar la notación hexadecimal de 3 caracteres cuando sea posible para representar valores de color, por ejemplo: #fff en lugar de #ffffff.
+- Evitar el uso excesivo de la declaración !important, ya que puede dificultar el mantenimiento y la comprensión de los estilos.
+- Aplicar sangría a todo el contenido de un bloque para mejorar la legibilidad y la estructura del código.
+- Utilizar comillas simples ('') en lugar de comillas dobles ("") en las cadenas de texto para cumplir con la sintaxis de Java.
+
+<br><br>
+
+**Gherkin**
+
+**Tipos de escritura:**
+
+- Bloques discernibles Given-When-Then: Los Scenario siempre deben contener en ellos los pasos de Given, When, Then. No obstante, en la vida real tienden a crecer y subdividirse en varios pasos para cada una de estas palabras claves, pero para poder identificar la terminación de cada bloque podemos utilizar el “And” al comienzo de cada uno.
+- Reducir el ruido: Para poder reducir el ruido, se nos recomienda usar valores predeterminados en los campos que requiere el sistema, pero que no son relevantes para su Scenario. Pueden ser campos obligatorios en la solicitud, pero no tienen relación con el resultado de su Scenario.
+- Nuevas líneas dentro de escenarios:  El uso de las líneas facilita la lectura y una mejor agrupación de información para que sea más sencillo saber dónde comienza la siguiente unidad lógica.
+- En caso tengamos varios Scenarios en el archivo, se nos hará más difícil encontrar el punto donde termina y comienza otro. Para esto agregamos 2 nuevas líneas entre cada Scenario, para poder ubicar el comienzo y el término de cada uno.
+- Pasos con tablas: Estas se usan para reconocer inmediatamente que Step necesita información por parte del usuario en la tabla, usamos 2 puntos al final del paso.
+
+<br><br>
+
+**Componentes:**
+
+- Keywords: Va al principio de cada línea que no sea una línea en blanco, seguida de cualquier texto que desee. La única excepción son las Descriptions. Estas pueden variar entre : Feature, Rule, Example, Given, When, Then, And, But, Background, Scenario Outline, Examples.
+- Fecture: Proporciona una descripción de alto nivel de una función de software y agrupa Scenarios seleccionados. Esta siempre debe ser la primera palabra clave del Gherkin, seguida de un “:” y una breve descripción para la función. Esta termina cuando comienza otra línea con una palabra clave Background o Rule.
+- Descriptions: Se pueden colocar debajo de Example , Background o Scenario. Proporciona una descripción de los respectivos.
+- Rule: Se utiliza para agrupar varios Scenario que pertenecen a una misma  business rule  . Su propósito es representar una business rule que debe implementarse.
+- Example: Consiste en una lista de pasos, puede tener una cantidad de pasos como deseemos, pero lo recomendable es de 3 a 5 pasos, porque tener demasiados recaería en una reducción de poder expresivo como documentación y especificación. También es considerada como un Test. La estructura es:
+- Describir un contexto inicial ( Given-pasos)
+- Describir un evento ( When-pasos)
+- Describir un resultado esperado ( Then-pasos)
+- Steps: Estos comienzan con Given, When, Then, And o But. Se usan para describir los pasos que seguirá el usuario.
+- Given: Este es el paso que se utiliza para describir el contexto inicial del sistema: La escena del Scenario. Su propósito es poner el sistema en un estado conocido antes que el usuario comience a interactuar con el sistema. Lo pone en una situación inicial.
+- When: Este paso se utiliza para describir un evento o una acción. Puede ser una persona interactuando con el sistema o un evento desencadenado por otro sistema. Cuando se presenta más de un When , es signo que se debe dividir en otros Scenarios.
+- Then:Se utilizan para describir un resultado.
+- And, but: Se usa cuando se tiene Given's, When's o Then's sucesivos.
+- Convención: (https://specflow.org/gherkin/gherkin-conventions-for-readablespecifications/) y (https://cucumber.io/docs/gherkin/reference/) 
+
+<br><br>
+___
+<br>
+
+## 5.1.4. Software Deployment Configuration
+
+**Git** nos permitirá controlar las herramientas de nuestro software, vamos a guardar diferentes archivos o versiones a lo largo de las diferentes etapas en un proyecto. Esto nos permite como desarrolladores, hacer un seguimiento de lo que ya tenemos hecho y poder resolver algunos problemas o cambios que se decidan a lo largo del proyecto
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+**Github** es una herramienta que nos facilitará la colaboración con git, esta es una plataforma que puede mantener repositorio de códigos en almacenamiento basado en la nube y facilita que varios trabajadores puedan trabajar en un solo proyecto pudiendo ver las ediciones propias de cada integrante mejorando el trabajo en equipo para los trabajos por hacer.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+___
+<br>
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+## 5.2.1. Sprint 1 
+
+## 5.2.1.1. Sprint Planning 1
+
+| Sprint #                    | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                       |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| Sprint Planning Background  | Velocity:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                       |
+| Begin (Date)                | 2023-09-02                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                       |
+| Duration                    | 2023-09-04                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2023-09-11                            |
+| Point                       | (Virtual) Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | (Presencial) en la propia universidad |
+| Prepared by                 | Sánchez Ramírez, Diego Antonio                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                       |
+| Descripción                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                       |
+| Asistentes a la reunión     | Luis Enrique Aquije Quiroga, Gabriel Adrian Bernal Moreno,  Nirvana Gabriela García Vásquez, Michelle Francesca Moreno Best , Diego Antonio Sánchez Ramírez y Marcelo Alejandro Scerpella Zarkovic                                                                                                                                                                                                                                                                                        |                                       |
+| US y Metas para este Sprint |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                       |
+| Sprint 1 : Metas            | Para este primer Sprint, se tendrá las siguientes metas a cumplir:  Meta principal  - Desarrollar una aplicación web que cumpla con las necesidades básicas de nuestros usuarios (compradores y vendedores)  Metas específicas  - Desarrollar la funcion de busqueda y compra de productos en la página para segmento de compradores - Desarrollar la función de visualizar y modificar el perfil del usuario - Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios. |                                       |
+| Sprint 1 Velocity           | (12 Points)                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                       |
+| Sprint 1 Total US Points    | 12 Puntos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                       |
+
+
+
+
+<br><br>
+___
+<br>
+
+## 5.2.1.2. Sprint Backlog 1
+
+Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="1">Sprint #</th>
+      <th colspan="7">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>ID</th>
+      <th>Title</th>
+      <th>ID</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-Do/In Process.../Done!)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#185942759</td>
+      <td>Iniciar Sesión</td>
+      <td>T-001</td>
+      <td>Crear la estructura de la página de login.</td>
+      <td>El desarrollador crea la primera página que el usuario va a acceder, la cual es el login(los campos de entrada).</td>
+      <td>6 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-002</td>
+      <td>Añadir diseños a la página de login.</td>
+      <td>El desarrollador diseña las entidades que se encuentran en la página de inicio de sesión.<br>Además de programar la funcionalidad del formulario.</td>
+      <td>12 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-003</td>
+      <td>Validación y limpieza del código.</td>
+      <td>Esta tarea consiste en revisar las validaciones para las entradas en el formulario. <br>De ser posible, realizar una limpieza de código.</td>
+      <td>6 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-004</td>
+      <td>Pruebas de Inicio de Sesión.</td>
+      <td>Realizar pruebas unitarias y de integración para asegurarse de que la función de inicio de sesión funciona correctamente.</td>
+      <td>6 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td>#185942759</td>
+      <td>Registro de usuario</td>
+      <td>T-005</td>
+      <td>Diseño de la Interfaz de Registro de Usuario.</td>
+      <td>Crear bocetos y prototipos de la página de registro de usuario.<br>Diseñar los campos necesarios para recopilar la información del usuario (nombre, correo electrónico, contraseña, etc.).<br>Agregar un botón de registro.</td>
+      <td>8 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-006</td>
+      <td>Implementación del Frontend de Registro de Usuario.</td>
+      <td>Crear las páginas HTML/CSS necesarias.<br>Programar la funcionalidad del formulario de registro de usuario.<br>Validar la entrada del usuario y mostrar mensajes de error si es necesario.</td>
+      <td>14 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-007</td>
+      <td>Implementación del Backend de Registro de Usuario.</td>
+      <td>Implementar la lógica de registro del usuario y su almacenamiento en una base de datos.</td>
+      <td>16 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td>#185943616</td>
+      <td>Búsqueda de productos por nombre</td>
+      <td>T-008</td>
+      <td>Estructura y diseño de la funcionalidad.</td>
+      <td>Se realiza el prototipo de la barra de búsqueda de productos.<br>Luego, se comienza a diseñar  la interfaz de resultados de búsqueda.</td>
+      <td>12 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-009</td>
+      <td>Programación de la funcionalidad y sus validaciones.</td>
+      <td>Se programa la funcionalidad de la búsqueda para enviar consultar.<br>Para ello, se comienza a programar la lógica de validaciones para la inserción de valores en la barra de búsqueda.</td>
+      <td>14 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-010</td>
+      <td>Implementación de las conexiones con el back-end.</td>
+      <td>Se realizan las conexiones con la base de datos, donde se contiene la información sobre los productos.</td>
+      <td>14 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-011</td>
+      <td>Pruebas de validación.</td>
+      <td>Se realizan pruebas para comprobar que la lógica del algoritmo de búsqueda funcione correctamente.</td>
+      <td>6 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td>#185927618</td>
+      <td>Descripción del producto</td>
+      <td>T-012</td>
+      <td>Estructura y diseño de la funcionalidad.</td>
+      <td>Se realiza el prototipo (en HTML) de como se mostrará en la página del producto deseado.<br>Luego, se comienza a diseñar dicha funcionalidad integrada.</td>
+      <td>7 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-013</td>
+      <td>Programar funcionalidad.</td>
+      <td>Como su nombre lo dice, es implementar la funcionalidad de cargar la información del producto elegido.</td>
+      <td>10 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-014</td>
+      <td>Respaldo por Backend.</td>
+      <td>Se realiza la función en el servidor de realizar un backup de la información del producto.</td>
+      <td>12 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-015</td>
+      <td>Pruebas de validación.</td>
+      <td>Se realizan pruebas para validar que la funcionalidad funcione correctamente.</td>
+      <td>7 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td>#185942565</td>
+      <td>Agregar un producto al carrito</td>
+      <td>T-016</td>
+      <td>Desarrolla estructura y Diseño de la Interfaz.</td>
+      <td>Se realiza la estructura de de la opción de agregar un producto al carrito de compras.<br>Luego, se le agrega el diseño correspondiente a los estilos y paleta de colores establecidos.</td>
+      <td>9 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-017</td>
+      <td>Implementación del Frontend.</td>
+      <td>Se comienza a programar la funcionalidad.<br>Finalmente se agrega el cambio a la página web.</td>
+      <td>12 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-018</td>
+      <td>Implementación del Backend.</td>
+      <td>Se configura la información del carrito de cada usuario para que no se pierda.<br>Además, de implementar una logia para agregar productos al carrito y mantener un seguimiento de la cantidad.</td>
+      <td>12 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-019</td>
+      <td>Pruebas de validación.</td>
+      <td>Finalmente, se realizan pruebas para asegurar que la función está correctamente programada.</td>
+      <td>11 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td>#185942843</td>
+      <td>Acceso al menú “Opciones de la cuenta”</td>
+      <td>T-020</td>
+      <td>Desarrollo de la  estructura y Diseño de la Interfaz.</td>
+      <td>Agregar un enlace o botón para acceder al menú de opciones de la cuenta en la interfaz principal.<br>Diseñar los elementos de dicho menú(Perfil, Carrito, etc).</td>
+      <td>7 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-021</td>
+      <td>Implementación del Frontend.</td>
+      <td>Programar la funcionalidad para mostrar el menú cuando se hace clic.</td>
+      <td>10 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-022</td>
+      <td>Implementación del Backend.</td>
+      <td>Si es necesario, configurar la lógica en el servidor para cargar la información y opciones de la cuenta del usuario.</td>
+      <td>12 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>T-023</td>
+      <td>Pruebas de validación.</td>
+      <td>Realizar pruebas de usuario para asegurarse de que el menú se muestre correctamente y que las opciones funcionen según lo previsto.</td>
+      <td>8 Horas</td>
+      <td></td>
+      <td>To-Do</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+___
+<br>
+
+## 5.2.1.3. Development Evidence for Sprint Review
+
+| Repository    | Branch       | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|---------------|--------------|-----------|----------------|---------------------|--------------------|
+| user/reponame | feature/lala | 1         |                |                     | 30/08/2023         |
+
+
+<br><br>
+___
+<br>
+
+## 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+No se puede realizar debido a que aún no se pide implementación de Web Service.
+
+<br><br>
+___
+<br>
+
+## 5.2.1.4. Execution Evidence for Sprint Review
+
+No se puede realizar debido a que aún no se pide implementación de Web Service.
+
+<br><br>
+___
+<br>
+
+## 5.2.1.5. Execution Evidence for Sprint Review
+
+En este Sprint (Sprint 1), se logró desarrollar una aplicación web que cumple con las necesidades básicas de nuestros usuarios (fanáticos del entretenimiento asiático y vendedores de productos del entretenimiento asiático). En esta primera versión de la plataforma web, observamos las siguientes funcionalidades relacionadas a nuestros User Stories y Product Backlog:
+
+- Desarrollar la funcion de busqueda y compra de productos en la página para segmento de compradores
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+- Desarrollar la función de visualizar y modificar el perfil del usuario
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+- Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br>
+
+**URL** video evidencia implementación del sprint: www.c.com 
+
+
+<br><br>
+___
+<br>
+
+## 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+No se puede realizar debido a que aún no se pide implementación de Web Services.
+
+<br><br>
+___
+<br>
+
+## 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante este primer Sprint (Sprint #1), se ha realizado un Software Deployment dentro del repositorio de “Landing Page”.  Dentro de este, se desplegó la primera versión del landing page de AKIRA, el cual cuenta con las siguientes características mencionadas en el sprint:
+
+- Desarrollar la funcion de busqueda y compra de productos en la página para segmento de compradores
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+- Desarrollar la función de visualizar y modificar el perfil del usuario
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+- Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+<br><br>
+___
+<br>
+
+## 5.2.1.8. Team Collaboration Insights during Sprint 
+
+Mostrar los commits de Github con todos los integrantes, explicando cómo hemos trabajado en este sprint
+
+<br><br>
+___
+<br>
+
+# Conclusiones y recomendaciones 
+
+## Conclusiones (TB1) 
+
+Como primera conclusión de esta etapa del proyecto AKIRA, hemos conseguido alcanzar los siguientes hitos:
+
+- Comprensión de la problemática a través de una investigación previa e identificaciones de los segmentos objetivos involucrados. 
+
+- Refinamiento de nuestras ideas a través de la aplicación del proceso LEAN UX
+
+- Recopilación de datos verídicos de nuestros segmentos mediante el instrumento de la entrevista
+
+- Identificación de herramientas, lenguajes de programación, framework y marcadores hipertextuales para el desarrollo de nuestro proyecto.
+
+- Estructuración de las bases del repositorio con la herramienta Git y GitHub, además de diseñar el ciclo de vida del producto a base del proceso SCRUM.
+
+**Resultados:**
+
+- Como resultado de los LEAN UX Problems Statements, se destaca la oportunidad de negocio que existe para satisfacer la demanda de productos asiáticos en el mercado peruano y mejorar la experiencia de compra de los consumidores apasionados por la cultura asiática. Al abordar estos desafíos, una empresa local podría posicionarse como una opción atractiva y competitiva para los consumidores en busca de productos auténticos y una experiencia de compra más conveniente y satisfactoria.
+
+- Finalmente, luego de realizar una comparación con la información de nuestras entrevistadas con los LEAN UX Assumptions & Hypothesis Statements, se concluye lo siguiente:
+
+- No hubo mucha contrastación con los supuestos y las declaraciones hipotéticas con la información conseguida con las entrevistas, donde establecimos casos que el usuario se le otorga algún beneficio u oportunidad al usar nuestra aplicación web. Tomar estos casos como ejemplo a seguir; realmente nos beneficiaría en las ganancias y en la fructuosidad de este proyecto.
+
+<br>
+
+## Recomendaciones (TB1) 
+
+Como recomendaciones para esta primera fase del proyecto, se declaran las siguientes:
+
+- Seguir o moldear correctamente, dependiendo del transcurso del proyecto, el proceso SCRUM para un buen ciclo de vida de la aplicación Web.
+- Seguir patrones de diseño y convenciones establecidos para cada lenguaje o marcador de hipertexto. Esto asegurará una consistencia visual y una experiencia de usuario coherente.
+- Implementar revisiones regulares de retrospectiva, como reuniones al final de cada sprint para que el equipo de desarrollo pueda reflexionar sobre lo que salió bien y qué podría mejorarse en términos de procesos, colaboración y entregas.
+- Fomentar la motivación del equipo al darles la oportunidad de participar activamente en la toma de decisiones y en la evolución del proyecto.
+ Realizar pruebas de usabilidad frecuentes en cada sprint para evaluar la experiencia del usuario en la plataforma.
+- Obtener retroalimentación directa de usuarios que interactúan con el sitio web con entrevistas. Estas retroalimentaciones ayudarán a identificar rápidamente cualquier problema de navegación, diseño o usabilidad que pueda afectar la satisfacción del cliente.
+
+
+<br><br>
+___
+<br>
+
+# Bibliografía 
+
+Chavez, L. (30 de mayo del 2023) Anime: El boom de este fenómeno en Perú. Punto Seguido - UPC. [https://puntoseguido.upc.edu.pe/anime-el-boom-de-este-fenomeno-en-el-peru/] 
+
+
+Ingresos procedentes de la comercialización en el extranjero del anime japonés entre 2002 y 2020 (2023). Ingresos por comercialización en el extranjero del anime japonés 2002-2020. Statista [https://es.statista.com/estadisticas/593139/ingresos-por-mercado-exterior-de-anime-japones/] 
+
+López, E. (10 de octubre del 2022). La industria del anime y cosplay en el Perú. La Cámara. [Recuperado de: https://lacamara.pe/la-industria-del-anime-y-cosplay-en-el-peru/]
+
+Ponce, J. (26 de enero del 2022). Mangas: el fenómeno editorial que sigue creciendo en pandemia, de la mano del streaming y un nuevo público. RPP. [Recuperado de: https://rpp.pe/cultura/anime/los-mangas-triplicaron-sus-ventas-a-pesar-de-la-pandemia-noticia-1380232]
+
+
