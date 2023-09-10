@@ -675,3 +675,559 @@ ___
 <br><br>
 ___
 <br>
+
+## 1.3. Segmentos objetivo 
+
+**Segmento Uno : Adolescentes y Adultos jóvenes**
+
+Nuestro primer segmento está conformado por jóvenes de 16-35 años, oriundos de Lima, Perú. Deben disponer de un dispositivo electrónico, ya sea laptop, una computadora, smartphone o tablet. Sus gustos están relacionados a la cultura del entretenimiento asiatico.
+
+<br>
+
+**Segmento Dos: Vendedores de productos asiáticos**
+
+Nuestro segundo segmento será conformado por vendedores entre 20-40 años de edad que tengan un negocio de venta de figuras y coleccionables en relación a la cultura asiática, y busquen ampliar su catálogo de productos o reponer sus stocks. Estos deben contar con una tienda física o virtual en Lima, Perú.
+
+
+<br><br>
+___
+<br>
+
+# Capítulo II: Requirements Elicitation & Analysis 
+
+## 2.1. Competidores
+
+Los principales competidores directos son:
+
+- **Sagami Store:** Es una tienda virtual donde se importan y venden figuras coleccionables de Japón.
+
+- **Japan.pe:** Es una página que son personal shoppers en Japón que ayudan a sus usuarios a comprar cualquier producto permitido de Japón a Perú.
+
+- **K.Story.Peru:** Es una tienda online donde venden merchandising de grupos de kpop.
+
+
+<br><br>
+___
+<br>
+
+### **2.1.1. Análisis competitivo**
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="6">Competitive Analysis Landscape</th>
+    </tr>
+    <tr>
+      <th colspan="2">¿Por qué llevar a cabo este análisis?</th>
+      <th colspan="4">El objetivo de este apartado es analizar las características y metas que posee la competencia y compararla con Akira</th>
+    </tr>
+    <tr>
+      <th colspan="2"></th>
+      <th>Su startup Akira</th>
+      <th>Competidor 1 (Sagami Store)</th>
+      <th>Competidor 2 (Japan.pe)</th>
+      <th>Competidor 3 (K.Story.Peru)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="">Perfil</td>
+      <td>Overview</td>
+      <td>Plataforma destinada a los amantes de la cultura asiática que quieran comprar productos auténticos, originales relacionados con el anime, kpop y manhua.</td>
+      <td>Página destinada a las personas que quieren comprar solo figuras coleccionables de Japón.</td>
+      <td>Página destinada a las personas que quieren comprar diferentes merchandising de Japón.</td>
+      <td>Página destinada a la comunidad kpoper que desea comprar merchandising de sus grupos favoritos.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+      <td>Nuestra startup se destaca por ofrecer una amplia gama de productos originales relacionados a la cultura asiática. <br> Akira ofrece a los clientes la comodidad de encontrar figuras coleccionables, mangas y merchandising en una sola plataforma confiable.</td>
+      <td>Esta tienda se especializa en importar figuras coleccionables de Japón, lo que la hace una opción focalizada para los amantes de este rubro.<br> Además, ofrece una selección de figuras auténticas de Japón, brindando a los clientes la posibilidad de enriquecer sus colecciones.</td>
+      <td>Esta tienda ofrece una combinación de figuras de acción, mangas, peluches, entre otros productos.<br> Japan.pe proporciona figuras originales y mercancía japonesa en general, permitiendo a los clientes explorar diferentes aspectos de la cultura japonesa.</td>
+      <td>Es una tienda que ofrece merchandising específico para los kpopers.<br> K.Story.Peru ofrece a los fanáticos la oportunidad de acceder a productos originales y oficiales de sus grupos favoritos desde álbumes y lightsticks hasta photocards y otros artículos relacionados.</td>
+    </tr>
+    <tr>
+      <td>Perfil de marketing</td>
+      <td>Mercado objetivo</td>
+      <td>Personas interesadas, coleccionistas y amantes de la cultura asiática.</td>
+      <td>Coleccionistas de figuras coleccionables en el rubro del anime.</td>
+      <td>Aficionados con la cultura japonesa.</td>
+      <td>La comunidad aficionada al K-Pop.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Estrategias de marketing</td>
+      <td>El aplicar marketing con redes sociales nos permitirá posicionarnos en el mercado y difundir nuestros productos.</td>
+      <td>Cuenta con una página web, WhatsApp Business e Instagram.</td>
+      <td>Cuenta con Instagram, página web y Facebook.</td>
+      <td>Cuenta con Instagram, Facebook, Twitter, Tiktok.</td>
+    </tr>
+    <tr>
+      <td>Perfil de producto</td>
+      <td>Productos & Servicios</td>
+      <td>Página web donde podrán comprar figuras, mangas, manhuas y merchandising de kpop.</td>
+      <td>Página web donde venden figuras coleccionables solo de Japón.</td>
+      <td>Página web donde venden mangas y cualquier rubro de merchandising japonés.</td>
+      <td>Página web donde se compra merchandising solamente de Corea del Sur.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Precios & Costos</td>
+      <td>El usuario podrá ingresar a la página web libremente como usuario normal, pero tenemos una suscripción premium en el cual el usuario tiene diversos beneficios.</td>
+      <td>El servicio es gratuito y no hay costo alguno por escribir al WhatsApp Business si hay alguna duda.</td>
+      <td>Es gratis y no hay pago de suscripciones.</td>
+      <td>No hay que pagar para acceder a las páginas y no hay publicidad.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Canales de distribución (Web)</td>
+      <td>Akira contará con una página web.</td>
+      <td>El único canal es mediante su página web.</td>
+      <td>El único canal es mediante su Instagram.</td>
+      <td>El único canal de distribución de este competidor es mediante su página web.</td>
+    </tr>
+    <tr>
+      <td>Análisis SWOT</td>
+      <td colspan="5">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Fortalezas</td>
+      <td>Abarcamos todo el mundo del entretenimiento asiático, tanto en el Pop Koreano, animes y manhuas (libros chinos).</td>
+      <td>Su plataforma es visualmente armoniosa para los clientes, una interfaz visualmente atractiva y con una usabilidad muy bien considerada.</td>
+      <td>Un concepto totalmente innovador, donde el cliente elige productos de tiendas oficiales y realiza un pedido a una persona individual, la cual maneja la página.</td>
+      <td>Cuenta con una amplia variedad de productos en los limitados grupos de kpop con los que trabaja, no se reduce únicamente a álbumes y lightsticks, abarca accesorios, bolsos, lapiceros y demás.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Debilidades</td>
+      <td>Recursos económicos y financieros limitados para el desarrollo completo de la plataforma. <br>Falta de contactos dentro de la industria de las exportaciones de productos asiáticos.</td>
+      <td>La tienda se muestra en mantenimiento por largos periodos de tiempo, generando incomodidad y confusión a su clientela.</td>
+      <td>Los precios de envío son excesivamente elevados, superando los s/.400.</td>
+      <td>Los grupos de kpop que abarcan son muy reducidos y no tan populares, además que actualmente, muchos de su lista se encuentran en hiatus (grupo disuelto).</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Oportunidades</td>
+      <td>Amplia base de usuarios potenciales.<br> Principales canales de promoción con bajo o nulo costo de publicidad.</td>
+      <td>Al ser visualmente agradable, su empleabilidad es muy intuitiva, y se logra apreciar una amplia gama de filtros de búsqueda en cuanto a tipos de anime, figuras, entre otros.</td>
+      <td>El contar con alianzas con tiendas totalmente exclusivas, ya que en Perú, encontrar maneras de adquirir productos de estas tiendas es muy complejo, por lo que Japan Pe se encuentra en ventaja.</td>
+      <td>El tener una amplia variedad de productos de un solo grupo hace de que las fans de estos generen una mayor demanda en esos productos específicos.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Amenazas</td>
+      <td>Nuevos competidores que aborden la venta de diversa mercancía del entretenimiento asiático en el Perú.<br> Actualmente no contamos con una competencia tan completa como la nuestra.</td>
+      <td>Que el problema del mantenimiento prolongado genere tanto fastidio a sus clientes que su propia comunidad deje de recomendar su e-commerce, ya que existen otras.</td>
+      <td>El precio excesivo de envío genere completo desinterés en que su clientela desee continuar comprando en esta plataforma, ya que pueden encontrar alternativas más accesibles.</td>
+      <td>La desintegración de las bandas de las que ofrece mercadería, ya que más de la mitad de su lista de bandas ya no labura en el mundo del kpop actualmente, y si no amplía su variedad de grupos, todo lo que ofrezca será muy obsoleto para el público actual.</td>
+    </tr>
+  </tbody>
+</table>
+
+### **2.1.2. Estrategias y tácticas frente a competidores**
+
+**Calidad y confiabilidad del producto:**
+
+- Venderemos productos diferenciados para los gustos de nuestro primer segmento, con ello, nos destacamos del resto de la competencia. Además, ofreceremos unas ofertas en base al poder adquisitivo de los jóvenes.
+- Buen diseño de la interfaz, interactivo e intuitivo, además de mantener presente los fundamentos de usabilidad en aplicaciones.
+- Brindar información más detallada en comparación a nuestros principales competidores sobre los productos presentes en el catálogo de Akira.
+- Verificación y validación de que las opiniones y comentarios sobre experiencias de compra no contengan palabras soez, agresión a otros usuarios y demás comportamientos poco éticos.
+- Incentivar a los clientes a aumentar sus compras en la plataforma mediante diversas promociones, beneficios y ofertas, que muestran nuestra afinidad con la comunidad.
+- Mostrar nuestras alianzas con las plataformas oficiales de merchandising de entretenimiento asiático, para ser transparentes en cuanto a confiabilidad y autenticidad de nuestros productos.
+
+**Canales de comunicación diversos con el mercado objetivo:**
+
+- Chats de soporte técnico relacionados a alguna petición de devolución del producto por daños de fábrica o en el envío
+- Canal de sugerencias, donde los usuarios puedan sugerir mejoras en la aplicación, ideas de traer a la plataforma productos asiáticos no disponibles en Akira, y demás.
+- Chatbot que soporte preguntas frecuentes dentro de la plataforma.
+
+**Precios comerciales asequibles:**
+
+- Ofrecer descuentos y promociones a los usuarios más recurrentes, para incentivarlos a realizar más compras por ese sentimiento de familiaridad.
+- Ajustar el precio de membresías premium, para que sean asequibles a nuestros segmentos objetivos.
+
+**Publicidad intensiva en redes sociales:**
+
+- Realizar pequeños anuncios y videos cortos en plataformas de streaming como Youtube y Twitch para tener un mayor alcance que la competencia.
+- Abrir una cuenta comercial de difusión en Instagram que realice publicaciones entretenidas con información de nuestros productos, novedades y mucho más.
+- Usar los anuncios que te ofrece Facebook, Instagram, Tiktok y “X”.
+- Abrir una cuenta de Tiktok para generar publicidad y alcance a nuestra nueva plataforma, para lograr posicionarnos en el mercado con entretenimiento en redes.
+
+**Testimonios, confianza y creatividad:**
+
+- Implementar un apartado en la app donde los usuarios puedan leer comentarios sobre la experiencia de otros usuarios que realizaron compras en Akira, de esta manera, generaremos mayor confianza al resto de la comunidad.
+
+## **2.2. Entrevistas.**
+
+### **2.2.1. Diseño de entrevistas.**
+
+**Segmento Uno: Jóvenes entre 16 a 30 años fanáticos de la cultura asiática**
+
+**Kpopers**
+
+    1. Presentación del entrevistado (Nombre, edad, ocupación)
+    2. ¿Qué grupos de KPOP escuchas?
+    3. ¿Qué tan actualizado estás con respecto al mundo del KPOP?
+    4. ¿Qué tipo de merchandising compras?
+    5. ¿Con cuánta frecuencia compras esta mercadería?
+    6. ¿Cuánto dinero has invertido en ello y cuál ha sido tu adquisición más cara?
+    7. ¿Qué artículos de merch has comprado recientemente?
+    8. ¿Cuál es la suma más alta que gastarías en un producto de este tipo?
+    9. ¿Qué problemas te has encontrado al comprar merch?
+    10. ¿En dónde sueles comprar tu merch? (ya sea virtual o presencial)
+    11. ¿Alguna vez le has recomendado una tienda a algún amigo, o viceversa?
+    12. ¿Cómo conociste esas tiendas?
+    13. ¿Qué otras empresas o tiendas relacionadas a la cultura asiática conoces?
+    14. ¿Qué tan satisfecho estás con la variedad de productos de KPOP que existen actualmente?
+    15. ¿Cuántas veces has visto un producto de tu interés que solo está disponible en Asia?
+    16. ¿Qué eventos, en Perú, relacionados con la cultura asiática conoces? ¿Sueles asistir?
+    17. ¿Alguna vez adquiriste algún producto que llegó con errores de fábrica? ¿Pudiste hacer algo al respecto?    
+    
+**Otakus**
+
+    1. Presentación del entrevistado (Nombre, edad, ocupación)
+    2. ¿Qué géneros de anime consumes?
+    3. ¿Cuáles son tus animes preferidos?
+    4. ¿Qué tipos de merch de anime conoces?
+    5. ¿Qué tan frecuentemente compras merchandising?
+    6. ¿Cuánto dinero has invertido en ello y cuál ha sido tu adquisición más cara?
+    7. ¿Qué artículos de merch has comprado recientemente?
+    8. ¿Cuál es la suma más alta que gastarías en un producto de este tipo?
+    9. ¿Cuántas veces has querido conseguir algún producto y no la encontraste en este país?
+    10. ¿Qué priorizas al comprar merch de anime? (Marca/Precio/Calidad)
+    11. ¿En dónde sueles comprar tu merch?
+    12. ¿Qué problemas te has encontrado al comprar merch?
+    13. ¿Qué otros lugares conoces para adquirir manga y productos de anime originales?
+    14. ¿Cómo conociste esas tiendas?
+    15. ¿Alguna vez le has recomendado una tienda a algún amigo, o viceversa?
+    16. ¿Qué eventos, en Perú, relacionados con la cultura asiática conoces? ¿Sueles asistir?
+    17. ¿Estarías interesado en productos exclusivos de Asia o ediciones limitadas?
+    18. ¿Alguna vez adquiriste algún producto que llegó con errores de fábrica? ¿Pudiste hacer algo al respecto?
+    
+**Segmento Dos: Vendedores de productos asiáticos**
+
+    1. Presentación del entrevistado (Nombre, edad, ocupación)
+    2. ¿Qué tipos de productos importas o adquieres para vender en tu tienda?
+    3. ¿Cuáles son los productos más populares entre tus clientes?
+    4. ¿Cómo te aseguras de que los productos que ofreces sean auténticos y originales?
+    5. ¿Cómo mantienes actualizado tu inventario y aseguras que los productos estén en stock?
+    6. ¿Tienes alguna estrategia para mantener al día las tendencias y gustos cambiantes de los fans?
+    7. ¿Cuál es tu enfoque en términos de precios competitivos y asequibles?
+    8. ¿Qué canales de marketing utilizas para promocionar tus productos y atraer nuevos clientes?
+    9. ¿Colaboras con influencers o bloggers de la comunidad para promocionar tus productos?
+    10. ¿Participas en eventos o convenciones relacionadas con la cultura asiática para promocionar tu tienda?
+    11. ¿Ofreces descuentos o promociones especiales en momentos específicos, como días festivos o por compra de productos mayor a un precio específico?
+    12. ¿Tienes problemas al importar productos de Asia u otro país extranjero? Si es así, ¿Cómo los superas?
+    13. ¿Cómo manejas los productos que se agotan rápidamente y siguen siendo populares entre los clientes?
+    14. ¿Qué estrategias implementas para diferenciarte de la competencia y destacar en el mercado?
+    15. ¿Ofreces servicios de reparación o reemplazo de piezas para figuras dañadas o rotas?
+    16. ¿Realizas reembolsos de productos si es que tuvieron fallas de fabrica o alguna situación similar?
+    17. ¿Qué es lo que más disfrutas de trabajar en la industria de productos asiáticos y coleccionables?
+
+### **2.2.2. Registro de entrevistas**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/10.%20Registro%20de%20Entrevistas.png)
+
+**Entrevista N°1 (Fanatica de la cultura asiática)**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/11.%20Entrevista%20Marcelo.png)
+
+Entrevistador: Marcelo Scerpella Zarkovic
+Entrevistada: Rizi
+Tiempo en el video: [00:00:00] - [00:03:52]
+
+Rizi es una influencer y streamer relacionada con el mundo del ánime y la cultura otaku. En sus propias palabras, se dedica a varios oficios para ganarse la vida. Sus géneros favoritos son el shonen y el josei, lo que se evidencia en sus animes favoritos, Full Metal Alchemist (Shonen) y Nana (Josei). Le gusta comprar artículos relacionados al mundo del ánime, en concreto figuras, ropa, y arte independiente. Su salario se reparte en tres rubros: alquiler de su departamento, comida, y artículos de anime. En sus propias palabras, gasta todo lo que puede en este rubro. Ha importado productos de anime del extranjero, y considera que el precio de importación es un problema al comprarlos, ya que si costara menos, podría comprar más artículos. Cuando ha comprado artículos por internet, la han intentado estafar algunas veces, pero pudo percatarse a tiempo y evitar ser estafada. Al comprar artículos de ánime, prioriza la marca, el precio, y la calidad de las figuras. Dice que, en el tiempo que lleva comprando, hasta ahora no ha recibido un producto defectuoso, pero que se moriría si le llegara a pasar. Recomienda tiendas del mundo del ánime a sus amigos, y sus amigos también le recomiendan tiendas a ella, lo que es bueno, porque significa que hay mucho marketing en el medio. También va frecuentemente a eventos relacionados con el medio, lo que significa que publicitarnos en estos eventos sería una buena estrategia de marketing.
+
+---
+
+**Entrevista N°2 (Fanática de la cultura asiática)**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/12.%20Entrevista%20Nirvana.png)
+
+Entrevistadora: Nirvana García Vásquez
+Entrevistada: Gabriela Laos
+Tiempo en el video: [00:03:52] - [00:13:26]
+
+Gabriela es una gran fanática del mundo del pop coreano (K-Pop) desde hace unos años, y nos comenta que compra mercadería una vez por semana como mínimo. Entre los productos que más consume se encuentran los álbumes originales, photocards y lightsticks, pagando por todos sus productos una suma aproximada de s/.5 000. Ella acepta que en Perú no es tan complicado comprar este tipo de mercadería, pero existen dos grandes desventajas al momento de comprar, el tener que confiar en la autenticidad de un producto cuando se le compra a vendedores sueltos (no tiendas), y el tener que pagar grandes cantidades de dinero por un producto que realmente no cuesta así, ya que el monopolio en Lima, Perú, infla mucho los precios de merch de K-pop. Asimismo, en el caso de las ediciones limitadas de merch que únicamente aparecen en los comebacks de los grupos en Corea, nunca llega al mercado peruano, y si es logra llegar, el precio aumenta 7 veces su valor original. Gabriela nos cuenta que ha asistido a ferias de K-Pop en “Campo Marte”, ubicado en el distrito de Jesús María, y en este lugar existe mucha difusión de diversas tiendas de la cultura asiática.
+
+---
+
+**Entrevista N°1 (Vendedor)**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/13.%20Entrevista%20Michelle.jpg)
+
+Entrevistadora: Michelle Francesca Moreno Best
+Entrevistado: Giancarlos Viñal
+Tiempo en el video: [00:13:26] - [00:27:40]
+
+Giancarlos tiene 28 años y  es uno de los encargados de la tienda MasGamers Store el cual se encuentra en el piso 2 del centro comercial Arenales. Nos comenta que se enfocan en traer figuras anime coleccionables y otros artículos relacionados con videojuegos, como icónicos personajes como Mario Bros y Sonic. En la entrevista nos destaca que uno de los productos que están en tendencias actualmente son los Funko Pop. La tienda trabaja con empresas internacionales que traen los productos de manera masiva desde lugares como Japón, China y Estados Unidos. Además, nos comenta que utilizan las redes sociales como Instagram, Facebook, entre otros, para darse a conocer. En momentos especiales como fiestas patrias y Halloween, ofrecen descuentos y ofertas brindando la oportunidad a los clientes de adquirir sus artículos a precios más accesibles.
+
+---
+
+**Entrevista N°4 (Fanática de la cultura asiática)**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/14.%20Entrevista%20Gabriel.png)
+
+Entrevistador: Gabriel Adrian Bernal Moreno
+Entrevistada: Maria Tinoco 
+Tiempo en el video: [00:27:41] - [00:34:23]
+
+En esta ocasión, tuvimos el privilegio de entrevistar a María, una fanática seguidora de la cultura asiática centrada en el anime y los mangas. María compartió sus géneros favoritos, acción y romance, revelando su afinidad por las emociones intensas y las relaciones cautivadoras en las historias. Además, mencionó que conoce con una diversa gama de artículos, desde productos hechos por fanáticos hasta piezas oficiales, evidenciando su dedicación a esta afición. También invirtió entre 200 y 300 soles en su colección. Del mismo modo, enfrenta desafíos al encontrar productos en Perú, a veces recurriendo a plataformas internacionales originarios de Estados Unidos o de Japón en donde los precios de envío son muy elevados. María prioriza calidad y precio al comprar, pero lidia con obstáculos como el que se agoten rápidamente los artículos en tiendas físicas y el riesgo de compras en línea. En resumen, la entrevista brindó una visión completa de María por el anime y los mangas, así como los desafíos al comprar merch.
+
+---
+
+**Entrevista N°5 (Mayorista o Vendedor)**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/15.%20Entrevista%20Nirvana.png)
+
+Entrevistadora: Nirvana Gabriela García Vásquez
+Entrevistado: Fernando Alquino
+Tiempo en el video: [00:34:23] - [00:41:47]
+
+Realizamos la entrevista a un vendedor especializado dentro del rubro de los mangas , comics japoneses, dentro de la tienda Shao Games, local físico ubicado en el Centro Comercial Arenales. Fernando nos comenta que la tienda cuenta con una sub-tienda virtual llamada Gekko, en donde también venden mangas de su stock en Shao Games. El género de mangas más buscado y vendido por su comunidad de clientes es el romance, tanto en las ramas de BL (amor entre hombres) como el shoujo (amor heterosexual). Considera que destacan entre la competencia por el hecho de tener mayor variedad de mangas y traer los tomos tres semanas después de sus lanzamientos en las editoriales originales, siendo esto algo poco común en Perú, donde los periodos de espera de los tomos recién estrenados puede tardar más de dos meses. La estrategia de marketing de Gekko es emplear las redes sociales como Instagram, Facebook y Tiktok, donde no solo promocionan sus productos y nuevas adquisiciones, sino que además, realizan colaboraciones con dos tiktokers relacionados al mundo de los mangas en Perú, para aumentar el alcance de la tienda. Además, aumentan considerablemente sus ventas cuando realizan ofertas especiales por Halloween, fiestas patrias, navidad, cyberdays, entre otros. Su proveedor principal se encuentra en España, siendo el país que fabrica los tomos originales traducidos al español (ya que el idioma original es japonés). 
+
+---
+**Entrevista N°6 (Otaku)**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/16.%20Entrevista%20Diego.png)
+
+Entrevistador: Diego Antonio Sanchez Ramirez
+Entrevistado: Anderson Alvarado Cespedes 
+Tiempo de la entrevista: [00:41:47] - [00:49:22]
+
+Anderson Alvarado es un estudiante universitario, estudia Administración y Negocios en la Universidad Tecnológica del Perú, y trabaja part-time como asistente de ventas. Su pasión por el anime, especialmente del género shonen y misterio, es evidente, siendo sus favoritos indiscutibles "Black Clover" y "One Piece". Anhela poder adquirir artículos auténticos de sus series favoritas sin que representan un desembolso excesivo. Sin embargo, se ha encontrado con la desagradable situación de que no hay existencias disponibles ni productos relacionados en lugares comunes como la avenida Arenales o en grupos de ventas de Facebook. Si desea comprar productos de mercadería, se ve forzado a depender de importadores locales, quienes aplican tarifas elevadas por los trámites de importación. Dada esta realidad, está en búsqueda de alternativas más viables para conseguir productos relacionados con los animes "Black Clover" y "One Piece".
+
+---
+
+**Entrevista N°6 (Fanático de la cultura asiática)**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/17.%20Entrevista%20Luis.png)
+
+Entrevistador: Luis Enrique Aquije Quiroga
+Entrevistado: Geremy Alexandro Esquivel Janampa
+Tiempo en el video: [00:41:47] - [00:47:09]
+
+El entrevistado fue Geremy Alexandro Esquivel Janampa, un entusiasta universitario apasionado por la cultura asiática, especialmente el anime y los mangas. Geremy compartió su pasión por los shonen como One Piece y Dragon Ball consumiendo de vez en cuando comedias románticas. Los productos que consume son mangas, dvds, figuras, ropa, accesorios, implementos para el hogar, etc. La frecuencia con la que compra merch oscila entre 1 vez por semana o 1 vez cada dos semanas. El dinero que invirtió en ello se aproxima entre los 3000-4000 soles y su adquisición  más cara relacionada al anime fue una figura de 250 soles. La suma más alta que él contempla gastar en este tipo de producto es de 250 soles. El considera que su obtención es complicada ya que debe esperar varios meses para conseguirlos y su disponibilidad es limitada . Su prioridad es la calidad a la hora de obtener un producto.  
+
+---
+
+**Entrevista N°6 (Fanático de la cultura asiática)**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/18.%20Entrevista%20Luis.png)
+
+Entrevistador:Luis Enrique Aquije Quiroga
+Entrevistado: Jair Flores Vizcarra
+Tiempo en el video: [00:47:09] - [00:51:13]
+
+El entrevistado fue Jair Flores Vizcarra, un entusiasta universitario apasionado por la cultura asiática, especialmente el anime y los mangas. Jair compartió sus géneros preferidos, como shonen y slice of life,. Reveló su familiaridad con una amplia gama de artículos de mercancía relacionados con sus intereses, demostrando su dedicación a esta afición. Jair también compartió información sobre su inversión en su colección, que llega hasta los 200  dólares anuales. Explicó los desafíos que enfrenta al buscar productos en Perú, a menudo recurriendo a plataformas internacionales, a pesar de los costos de envío elevados. Al momento de la compra, Jair prioriza la calidad y el precio, pero se ve obstaculizado por la agotación rápida de productos en tiendas físicas y los riesgos típicos de las compras en línea.
+
+---
+
+### 2.2.3. Análisis de entrevistas.
+
+**Segmento Uno: Jóvenes fanáticos de n entretenimiento asiático**
+
+
+| **Rubricas** | **Maria Tinoco**   | **Gabriela Laos** | **Anderson Alvarado** | **Geremy Alexandro** | **Jair Flores** | **Streamer "Rizi"**|
+| ------------ | ------------------ | ----------------- |---|--|---|--|
+| Consumen contenido de entretenimiento de índole audiovisual de origen japonés (Anime, manga, videojuegos)|X|||X|X|X|
+|Consumen contenido de entretenimiento de índole musical de origen coreano (Kpop)||X|X|X| | | |
+|Coleccionan artículos de bajo costo relacionados con su afición (Compran gorros, tazas, o comida)|X|X| | |X| |
+|Coleccionan artículos de alto costo relacionados con su afición (Compran figuras coleccionables,  casacas, polos)| |X|X|X| |X|
+|Presentan problemas al adquirir los artículos que desean conseguir por problemas relacionados a la disponibilidad nacional|X|X|X|X|X|X|X|
+|Presentan problemas al adquirir los artículos que desean por falta de conocimiento en materia de proveedores de productos de  entretenimiento importados|X| |X|X|X|X|
+|Pagarían una comisión adicional al precio del producto y del envío para poder conseguir productos exclusivos importados del extranjero|X|X|X| | |X|
+|Asisten a ferias relacionadas al medio de entretenimiento que consumen| |X|X|X|X|X|
+|Consumen contenido  en redes sociales relacionado al medio de entretenimiento asiatico que consumen|X|X|X|X|X|X|
+|Gastan más de 100 soles al mes en productos relacionados al medio de entretenimiento asiático que consumen.| |X|X|X|X|X|
+
+
+Mediante el recuadro anterior se puede destacar que todos los entrevistados son consumidores de contenido de Kpop, dos de nuestros entrevistados coleccionan artículos de bajo costo como gorras, tazas, entre otros. Sin embargo, también dos de ellos compran merchandising de costos elevados como photocards y figuras coleccionables, gastando un aproximado de 100 soles al mes. El 100% de los entrevistados presentan problemas al adquirir diversos artículos porque no hay en el país. Además, pagan una comisión adicional al precio del producto seleccionado para poder obtener los productos que no se venden en el país y también utilizan las redes sociales para estar al tanto de las novedades del entretenimiento asiático que consumen.
+
+---
+
+**Segmento Dos: Vendedores de productos asiáticos**
+
+| **Rubricas** | **Giancarlos Viñal** | **Fernando Alquino** |
+|--------------|----------------------|----------------------|
+|Presentan distribuidores asiáticos|X| |
+|Cuentan con canales de comunicación como redes sociales|X|X|
+|Disfrutan de trabajar en la industria|X|X|
+|Presentan problemas al importar productos del extranjero| | |
+|Colaboran con influencers| |X|
+|Brindan reemplazos o reembolsos de productos en caso de errores de fabricación|X| |
+|Participan en eventos y ferias|X| |
+|Hacen descuentos en fechas importantes|X|X|
+|Sienten limitantes al querer adquirir algún producto|X|X|
+|Conocimiento en los productos que ofrecen|X|X|
+
+Mediante el cuadro anterior se puede destacar que la mayoría de los entrevistados cuentan con canales de comunicación, dos de nuestros entrevistados tienen distribuidores asiáticos, el cual les son útiles a la hora de demostrar que sus productos son originales. Solo uno de nuestros entrevistados ha tenido colaboraciones con influencers de su rubro. política de reembolso si es que el producto está dañado de fábrica y participación en eventos o ferias. Además, dos de nuestros entrevistados sienten limitantes al querer adquirir algunos productos y el 100% saben sobre los productos que están ofreciendo en sus tiendas.
+
+
+## **2.3. Needfinding.**
+
+### **2.3.1. User Persona**
+
+Para la elaboración de los User Persona, se ha considerado uno por cada segmento objetivo. Para los adolescentes y adultos jóvenes, se analizaron las entrevistas respectivos para este segmento, por consiguiente, se pudo crear el presente User Persona. En el segundo segmento el cual abarca tiendas mayoristas y minoristas también se tomó en cuenta sus respectivas entrevistas para crear su User persona.
+
+**User Persona: “ Jóvenes fanáticos del entretenimiento asiático ”**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/19.%20User%20Persona%20Fanaticos.png)
+
+---
+
+**User Persona: “Vendedores de productos asiáticos”**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/20.%20User%20Persona%20Vendedores.png)
+
+
+### 2.2.3. User Task Matrix.
+
+Para la elaboración de los User Task Matrix, se están considerando dos segmentos, los cuales son el de fanáticos del entretenimiento asiáticos y el de los vendedores de productos asiáticos.
+
+
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">Tareas</td>
+      <td colspan="2">Alejandro Cruz Rodríquez</td>
+    </tr>
+    <tr>
+      <td>Frecuencia</td>
+      <td>Importancia</td>
+    </tr>
+    <tr>
+      <td>Buscar nuevos lanzamientos de mangas y figuras de anime.</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Investigar tendencias actuales en mangas, anime y videojuegos.</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Realizar pedidos de productos para la tienda.</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Actualizar la página web de la tienda con nuevos productos y contenido relevante.</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Gestionar el inventario y la logística de productos importados.</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Mantenerse informado sobre las últimas novedades en tecnología de ventas y marketing.</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Evaluar la satisfacción del cliente y recopilar retroalimentación.</td>
+      <td>Often</td>
+      <td>Medium</td>
+    </tr>
+  </tbody>
+</table>
+
+Esta matriz de tareas refleja las actividades que Alejandro Cruz Rodríquez, el user persona, realiza regularmente para mantener su tienda mayorista de manga, anime y videojuegos actualizada y atractiva para sus clientes. Cada tarea se evalúa en términos de su frecuencia e importancia para llevar a cabo dichas tareas.
+
+---
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">Tareas</td>
+      <td colspan="2">Fiorella Castillo Gómez</td>
+    </tr>
+    <tr>
+      <td>Frecuencia</td>
+      <td>Importancia</td>
+    </tr>
+    <tr>
+      <td>Buscar en la tienda nuevos lanzamientos de merch de kpop, mangas , animes, y productos asiáticos en general.</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>ISolicitar información sobre la fecha de llegada de los nuevos productos.</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Obtener detalles sobre las ofertas y descuentos actuales.</td>
+      <td>Rarely</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Comprar los productos de su interés en la página.</td>
+      <td>Sometimes</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Mantenerse al tanto de las ediciones limitadas y ofertas por Halloween y otras festividades.</td>
+      <td>Often</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Compartir hallazgos y novedades con amigos y seguidores.</td>
+      <td>Often</td>
+      <td>Medium</td>
+    </tr>
+  </tbody>
+</table>
+
+ Esta matriz de tareas muestra cómo Fiorella Castillo Gómez podría interactuar con la tienda en línea a lo largo de su proceso de investigación, exploración, decisión y compra. Cada tarea representa una actividad relevante para Fiorella en su experiencia de compra.
+
+ ### **2.3.3. User Jouney Mapping**
+
+ ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/21.%20User%20Journey%20Mapping.png)
+
+[Link: https://drive.google.com/file/d/13KpXZZPZRLUD8ieEOCAHu6t4qbogwjdp/view]
+
+---
+
+### **2.3.4. Empathy Mapping.**
+
+**Segmento objetivo “Jóvenes fanáticos del entretenimiento asiáticos”**
+
+ ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/22.%20Empathy%20Mapping%20Fanaticos.png)
+
+ ---
+
+**Segmento Objetivo: “ Vendedores de productos asiático”**
+
+ ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/23.%20Empathy%20Mapping%20Vendedores.png)
+
+### 2.3.4. As-is Scenario Mapping
+
+**As-Is Scenario Map – Segmento Jóvenes fanáticos del entretenimiento asiático**
+
+Fiorella Castillo quiere conseguir merchandising de Asia.
+
+|**FASES**|**BUSCAR LOS ARTICULOS DE COLECCION**|**ENCARGAR LA COMPRA DE LOS PRODUCTOS**|**REALIZAR EL PAGO**|**RECIBIR EL PRODUCTO**|
+|-----|---------------------------------|-----------------------------------|----------------|-------------------|
+|**DOING**|<br> • Busco en muchos grupos de facebook los productos que deseo conseguir.<br> • Busco en perfiles de instagram si alguno vende productos de anime que deseo comprar en mi país.<br> • Busco en tiendas físicas si alguna vende el producto que quiero comprar, o si me permite importarlo.|<br> • Negocio el precio del producto con el vendedor.<br> • Encargo el producto que quiero comprar al vendedor que haya elegido.|<br> • Pago el producto por cuotas o el precio total.<br> • Espero la confirmación del vendedor.<br> • Sigo atentamente las actualizaciones de estado de mi pedido.<br> • Le pregunto al vendedor en donde va mi pedido.<br> • Encargo el producto que quiero comprar al vendedor que haya elegido.|<br> • Recibo el producto que solicité.<br> • Reviso que el producto no esté adulterado y sea oficial, en caso no este como el vendedor me dijo, hacer mi reclamo.<br> • Realizo el reclamo correspondiente con el vendedor en caso de ser necesario.|
+|**THINKING**|<br> • No puede ser otra vez esta cuenta es de otro país. <br> • Tendré que encargar que lo traigan del extranjero o conformarme con lo que venden aquí.<br> • Otra vez tendré que gastar un dineral por mis figuras.<br> • Ojalá no me intenten vender un fanmade como si fuera producto oficial.|<br> • Espero que el producto no salga muy caro.<br> • No puedo creer que estos productos estén tan caros.<br> • Ojalá los vendedores tengan precios más asequibles.|<br> • Ojalá no me estafen y me envíen el producto en buen estado, no usado.<br> • Ojalá no se queden con mi dinero y no me traigan nada.<br> • Ojalá mi producto llegue en buen estado y a tiempo.|<br> • Al fin llegó la figura por la que tanto tiempo estuve esperando.<br> • No hay mucho que pueda hacer si el producto llegó en mal estado, pues el vendedor no querrá asumir la perdida y yo ya le pagué.<br> • Pienso que podría existir alguna app o página web para poder pedir mis productos de forma segura, y con garantía por si llegan en mal estado.|
+|**FEELING**|<br> • Frustración al no saber si encontraré el producto que estoy buscando.<br> • Estrés por el tiempo que conlleva realizar la búsqueda del producto.<br> • Preocupación porque me vayan a estafar y me vendan un producto no oficial como oficial.|<br> • Ansiedad por averiguar el precio del producto y las comisiones del vendedor.<br> • Frustración al no encontrar una opción más accesible para comprar el producto.<br> • Inseguridad al no saber cómo llegará el producto, y al no contar con una garantía para este.|<br> • Ansiedad por descubrir si el proveedor que elegí sea bueno y haga que mi producto llegue bien y a tiempo.<br> • Preocupación de que el vendedor vaya a quedarse con mi dinero y no me llegue nada.<br> • Tristeza por no haber encontrado una opción más barata y menos usurera.|<br> • Alegría por al fin haber recibido el producto por el que estuve esperando tanto tiempo.<br> • Preocupación de que realmente sea un producto oficial y nuevo.<br> • Incertidumbre al no saber si encontraré los siguientes productos que desee en el futuro, o de que el proveedor pueda enfrentar problemas en aduanas.|
+
+**As - Is Scenario Map – Segmento Vendedores mayoristas y minoristas**
+
+Alejandro Cruz Rodriguez quiere importar productos de japón
+
+|**FASES**|**IDENTIFICAR PRODUCTOS A IMPORTAR**|**ESTABLECER CONTACTOS Y NEGOCIACIONES**|**REALIZAR PEDIDOS Y COORDINAR ENVÍOS**|**RECIBIR EL PRODUCTO**|
+|-----|---------------------------------|-----------------------------------|----------------|-------------------|
+|**DOING**|<br> • Investigo sobre los principales productos en tendencia.<br> • Busco catálogos y stock en línea de proveedores de confianza en Asia.<br> • Investigo reseñas y recomendaciones de productos populares.|<br> • Contacto a varios proveedores japoneses por correo electrónico para iniciar las conversaciones.<br> • Solicitando información detallada sobre precios, cantidades mínimas y condiciones de envío.|<br> •Manteniendo una comunicación constante con los proveedores para asegurarse de que todo esté en orden.<br> • Coordinando los detalles de envío, incluidos métodos de transporte y fechas de entrega.|<br> • Recibo el producto que solicité.<br> • Comprobando la calidad y autenticidad de los productos importados.<br> • Realizo el reclamo correspondiente con el vendedor en caso de ser necesario.|
+|**THINKING**|<br> • Espero encontrar productos en stock en mis proveedores de confianza. <br> • Espero que guiándome de las reseñas escoja productos de buena calidad.|<br> • Reflexionando sobre cuáles proveedores pueden ofrecer un trato que encaje con mis exigencias.<br> • Pensando en cómo los acuerdos con proveedores pueden influir en la variedad y calidad de la oferta.|<br> • Evaluando la eficiencia y confiabilidad de diferentes métodos de envío internacional.<br> • Pensando en cómo solicitar a los compradores información acerca del proceso de envío y las fechas estimadas de llegada.|<br> • Después de mucho tiempo de espera llegó el producto.<br> • Reflexionando sobre la eficiencia y precisión del proceso de envío y entrega.<br> • Pienso que podría existir alguna app o página web para poder pedir mis productos de forma segura, y con garantía por si llegan en mal estado.|
+|**FEELING**|<br> • Frustración al no saber si se llegará a concretar un trato confiable con el proveedor.<br> • Preocupación por algún inconveniente o peligro que pueda contemplar el traslado de los productos.|<br> • Ansiedad por que el trato con el proveedor sea verídico.<br> • Frustración al no tener suficiente transparencia por parte del proveedor acerca del producto.<br> • Inseguridad al no saber si el proveedor tendrá los debidos cuidados con los productos al momento del envío.|<br> • Esperanza de que el producto pueda llegar en perfecto estado.<br> • Estrés porque no recibo una actualización constante del estado de la entrega.<br> • Inseguridad de que el proveedor no cumpla con su palabra.|<br> • Impotencia porque el producto que solicité llegó en mal estado.<br> • Frustración al no poder realizar un reclamo porque el proveedor no se quiere hacer cargo y el courier tampoco.<br> • Decepción porque perdí dinero y tiempo.|
+
+
+<br><br>
+___
+<br>
