@@ -24,7 +24,7 @@ ___
 
 **URL GitHub Page** 
 
-[https://github.com/SI730-Grupo2-WS51-Apps-Web](https://gabbrm.github.io/Landing-Page-version-1/)
+[https://github.com/SI730-Grupo2-WS51-Apps-Web-GitHubPage](https://gabbrm.github.io/Landing-Page-version-1/)
 
 <br><br>
 
