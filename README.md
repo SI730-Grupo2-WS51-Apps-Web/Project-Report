@@ -20,6 +20,12 @@ ___
 
 [https://github.com/SI730-Grupo2-WS51-Apps-Web](https://github.com/SI730-Grupo2-WS51-Apps-Web)
 
+<br>
+
+**URL GitHub Page** 
+
+[https://github.com/SI730-Grupo2-WS51-Apps-Web](https://gabbrm.github.io/Landing-Page-version-1/)
+
 <br><br>
 
 **Commits en Github:** 
