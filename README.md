@@ -20,7 +20,7 @@ ___
 
 **URL Project Report (Github):** 
 
-[https://github.com/settings/organizations](https://github.com/orgs/SI730-Grupo2-WS51-Apps-Web/repositories)
+https://github.com/SI730-Grupo2-WS51-Apps-Web/Project-Report
 
 <br>
 
