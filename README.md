@@ -3546,7 +3546,7 @@ URL Landing Page desplegada:
 https://si729-grupo2-ws52-open-source.github.io/Landing-Page/ 
 
 URL Frontend desplegada:
-https://si729-grupo2-ws52-open-source.github.io/Frontend-Web-Applications/
+https://akirasandbox-e9b09.web.app/store
 
 **Repositorios**
 URL del repositorio de Landing Page
@@ -4691,7 +4691,7 @@ ___
 | Sección     | Descripción del URL                 | URL del video en Steam                                               |
 |-------------|-------------------------------------|----------------------------------------------------------------------|
 | Despliegue  | Landing Page desplegada             | [https://si729-grupo2-ws52-open-source.github.io/Landing-Page/](https://si729-grupo2-ws52-open-source.github.io/Landing-Page/)       |
-| Despliegue  | Frontend Web app desplegado         | https://si729-grupo2-ws52-open-source.github.io/Frontend-Web-Applications/   |
+| Despliegue  | Frontend Web app desplegado         | https://akirasandbox-e9b09.web.app/store   |
 | Prototipado | Figma Akira                         | [https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design](https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design) |
 | Github      | Organización Grupo 2 en Github      | https://github.com/orgs/SI730-Grupo2-WS51-Apps-Web/repositories   |
 | Pivotal Tracker      | Product Backlog, Epics y User Stories      | [https://www.pivotaltracker.com/n/projects/2678604](https://www.pivotaltracker.com/n/projects/2678604)   |
