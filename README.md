@@ -6,9 +6,11 @@ ___
 
 ## Registro de versiones
 
-| Versión | Fecha       | Autor            | Descripción de modificación             |
-| ------- | ----------- | ---------------- | --------------------------------------- |
-| 1.0     | 20/09/01  | Lambders         | Creación inicial del documento          |
+| Versión          	| Fecha      	| Autor    	| Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+|------------------	|------------	|----------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Revisión 1 (TB1) 	| 01/09/2023 	| Lambders 	| -Creación del documento.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	|
+| Revisión 2 (TP)  	| 23/09/2023 	| Lambders 	| -Aumento de conclusiones en Student Outcome<br><br>-Cambio de fotos en Startup Profiles<br><br>-Agregación de cuadro estadístico de entrevistas a ambos segmentos objetivos<br><br>-Aumento de información en el capítulo 5<br><br>-Agregación de imagen de entrevistador al lado del entrevistado (Entrevistas 6 y 7)<br><br>-Aumento de conclusiones (enfatizando entrevistas)<br><br>-Agregación de información en git flow.<br><br>-Modificación de commits, estos se adaptaron al estándar de commits en github<br><br>-Documentación de la nomenclatura de creación de commits en github<br><br>-Agregación de gherkin de los Acceptance Test (User Stories)<br><br>-Modificación de Story Points en User Stories<br><br>-Agregación del velocity en Sprint Planning 1<br><br>-Se redactó la determinación de los User Stories correspondientes a cada Sprint 	|
+|                  	|            	|          	|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	|
 
 <br><br>
 ___
@@ -18,72 +20,62 @@ ___
 
 **URL Project Report (Github):** 
 
-[https://github.com/SI730-Grupo2-WS51-Apps-Web](https://github.com/SI730-Grupo2-WS51-Apps-Web)
+https://github.com/SI730-Grupo2-WS51-Apps-Web/Project-Report
 
 <br>
 
-**URL GitHub Page** 
 
-[https://github.com/SI730-Grupo2-WS51-Apps-Web-GitHubPage](https://gabbrm.github.io/Landing-Page-version-1/)
+### Commits en Github:
 
-<br><br>
+**Commits en Github en Project-Report**
+![Alt text](img/image-250.png)
+![Alt text](img/image-217.png)
+![Alt text](img/image-216.png)
+![Alt text](img/image-218.png)
 
-**Commits en Github:** 
+<br>
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/263.%20Commits.png)
+ 
+**Analíticos de Colaboración en Github:**
 
-<br><br>
+Repositorio Project Report (Capstone):
 
-**Analíticos de Colaboración en Github:** 
+![Alt text](image.png)
+ 
+<br>
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/272.%20Analiticos%20github.png)
-
-<br><br>
-
-**Explicación de los commits - TB1**
-
-*a. Nirvana García*
-Creé en repositorio Project Statement, y dentro de este, el archivo markdown README.md que contiene el informe completo del proyecto. El commit de “Update README.md” tuvo la finalidad de ingresar el contenido del informe desde la carátula hasta el Lean Ux Canvas.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/264.%20Nirvana%20commit.png)
+**Explicación de los commits - (TB1 - TP1)**
 
 
-Además, creé el repositorio Landing Page, el cual alberga las versiones del mismo.
+a. Nirvana García
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/265.%20Nirvana%20commit.png)
-
-<br><br>
-
-*b. Gabriel Bernal*
-Agregué el contenido del informe desde Segmento Objetivo hasta As-Is Scenario Mapping, y además, eliminé un archivo no deseado dentro de la carpeta “img”, creada con el propósito de almacenar las imágenes que se albergan en nuestro informe.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/266.%20Gabriel%20commit.png)
-
-<br><br>
-
-*c. Marcelo Scerpella*
-Agregué el contenido del informe desde To-Be Scenario Mapping hasta Product Backlog, encargándome de la creación de dichas tablas en formato markdown.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/267.%20Gabriel%20Commit.png)
-
-<br><br>
-
-*d. Michelle Moreno*
-Agregué el contenido del informe desde Style Guidelines hasta Web Applications Prototyping, enfocandome en linkear las imágenes del repositorio correspondiente a esta parte del informe que requería de un elevado número de imágenes.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/268.%20Michelle%20Commit.png)
+Agregué contenido del informe, aumenté el Sprint 2 y subí las modificaciones de correciones generadas en el TB1.
+ ![Alt text](img/image-32.png)
+ ![Alt text](img/image-216.png)
 
 
-Además, subí la primera versión del Landing Page de Akira dentro del repositorio de Landing Page.
+b. Gabriel Bernal
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/269.%20Michelle%20Commit.png)
+Agregué contenido del informe
+![Alt text](img/image-33.png)
+ 
+c. Marcelo Scerpella
 
-<br><br>
+Agregué contenido del informe
+ ![Alt text](img/image-34.png)
 
-*d. Diego Sánchez*
-Agregué el contenido del informe desde Domain-Driven Software Architecture hasta Bibliografía, tomando como reto la creación de tablas más complejas y la vinculación con imágenes dentro del informe.
+d. Michelle Moreno
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/270.%20LuDi%20Commit%202.png)
+Agregué contenido del informe
+![Alt text](img/image-35.png)
+
+ 
+d. Diego Sanchez
+
+Agregué contenido del informe
+ ![Alt text](img/image-250.png)
+ 
+
 
 <br><br>
 ___
@@ -112,9 +104,9 @@ Student Outcome
 
     1.2.2 [Lean UX Process](#122-lean-ux-process)
     
-    1.2.2.1. [Lean UX Problem Statements](#122-lean-ux-process)
+    1.2.2.1. [Lean UX Problem Statements](#1221-lean-ux-problem-statements)
 
-    1.2.2.2. [Lean UX Assumptions](#122-lean-ux-process)
+    1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions)
 
     1.2.2.3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
 
@@ -124,130 +116,148 @@ Student Outcome
 
 2. [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
 
-    2.1. [Competidores](#competidores)
+    2.1. [Competidores](#21-competidores)
 
-    2.1.1. [Análisis competitivo](#análisis-competitivo)
+    2.1.1. [Análisis competitivo](#211-análisis-competitivo)
 
-    2.1.2. [Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
+    2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
 
-    2.2. [Entrevistas](#entrevistas)
+    2.2. [Entrevistas](#22-entrevistas)
 
-    2.2.1. [Diseño de entrevistas](#diseño-de-entrevistas)
+    2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas)
 
-    2.2.2. [Registro de entrevistas](#registro-de-entrevistas)
+    2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)
 
-    2.2.3. [Análisis de entrevistas](#análisis-de-entrevistas)
+    2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)
 
-    2.3. [Needfinding](#needfinding)
+    2.3. [Needfinding](#23-needfinding)
 
-    2.3.1. [User Personas](#user-personas)
+    2.3.1. [User Personas](#231-user-persona)
 
-    2.3.2. [User Task Matrix](#user-task-matrix)
+    2.3.2. [User Task Matrix](#223-user-task-matrix)
 
-    2.3.3. [User Journey Mapping](#user-journey-mapping)
+    2.3.3. [User Journey Mapping](#233-user-jouney-mapping)
 
-    2.3.4. [Empathy Mapping](#empathy-mapping)
+    2.3.4. [Empathy Mapping](#234-empathy-mapping)
 
-    2.3.5. [As-is Scenario Mapping](#as-is-scenario-mapping)
+    2.3.5. [As-is Scenario Mapping](#234-as-is-scenario-mapping)
 
 3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
 
-    3.1. [To-Be Scenario Mapping](#to-be-scenario-mapping)
+    3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 
-    3.2. [User Stories](#user-stories)
+    3.2. [User Stories](#32-user-stories)
 
-    3.3. [Impact Mapping](#impact-mapping)
+    3.3. [Impact Mapping](#33-impact-mapping)
 
-    3.4. [Product Backlog](#product-backlog)
+    3.4. [Product Backlog](#34-product-backlog)
 
 
-4. [Capítulo IV: Product Design](#capítulo-iii-requirements-specification)
+4. [Capítulo IV: Product Design](#capítulo-iv-product-design)
 
-    4.1. [Style Guidelines](#to-be-scenario-mapping)
+    4.1. [Style Guidelines](#41-style-guidelines)
 
-    4.1.1. [General Style Guidelines](#to-be-scenario-mapping)
+    4.1.1. [General Style Guidelines](#411-general-style-guidelines)
    
-    4.1.2. [Web Style Guidelines](#to-be-scenario-mapping)
+    4.1.2. [Web Style Guidelines](#412-web-style-guidelines)
    
-    4.2. [Information Architecture](#to-be-scenario-mapping)
+    4.2. [Information Architecture](#42-information-architecture)
    
-    4.2.1. [Organization Systems](#to-be-scenario-mapping)
+    4.2.1. [Organization Systems](#421-organization-systems)
    
-    4.2.2. [Labeling Systems](#to-be-scenario-mapping)
+    4.2.2. [Labeling Systems](#422-labeling-systems)
    
-    4.2.3. [SEO Tags and Meta Tags](#to-be-scenario-mapping)
+    4.2.3. [SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
    
-    4.2.4. [Searching Systems](#to-be-scenario-mapping)
+    4.2.4. [Searching Systems](#424-searching-systems)
    
-    4.2.5. [Navigation Systems](#to-be-scenario-mapping)
+    4.2.5. [Navigation Systems](#425-navigation-systems)
    
-    4.3. [Landing Page UI Design](#to-be-scenario-mapping)
+    4.3. [Landing Page UI Design](#43-landing-page-ui-design)
    
-    4.3.1. [Landing Page Wireframes](#to-be-scenario-mapping)
+    4.3.1. [Landing Page Wireframes](#431-landing-page-wireframe)
    
-    4.3.2. [Landing Page Mock-up](#to-be-scenario-mapping)
+    4.3.2. [Landing Page Mock-up](#432-landing-page-mock-up)
    
-    4.4. [Web Applications UX/UX Design](#to-be-scenario-mapping)
+    4.4. [Web Applications UX/UX Design](#44-web-applications-uxui-design)
    
-    4.4.1. [Web Applications Wireframes](#to-be-scenario-mapping)
+    4.4.1. [Web Applications Wireframes](#441-web-applications-wireframes)
    
-    4.4.2. [Web Applications Wireflow Diagrams](#to-be-scenario-mapping)
+    4.4.2. [Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
    
-    4.4.2. [Web Applications Mock-ups](#to-be-scenario-mapping)
+    4.4.2. [Web Applications Mock-ups](#442-web-applications-mock-ups)
    
-    4.4.3. [Web Applications User Flow Diagrams](#to-be-scenario-mapping)
+    4.4.3. [Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
    
-    4.5. [Web Applications Prototyping](#to-be-scenario-mapping)
+    4.5. [Web Applications Prototyping](#45-web-applications-prototyping)
    
-    4.6. [Domain-Driven Software Architecture](#to-be-scenario-mapping)
+    4.6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
    
-    4.6.1. [Software Architecture Context Diagram](#to-be-scenario-mapping)
+    4.6.1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram)
    
-    4.6.2. [Software Architecture Container Diagrams](#to-be-scenario-mapping)
+    4.6.2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
    
-    4.6.3. [Software Architecture Components Diagrams](#to-be-scenario-mapping)
+    4.6.3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
    
-    4.7. [Software Object-Oriented Design](#to-be-scenario-mapping)
+    4.7. [Software Object-Oriented Design](#47-software-object-oriented-design)
    
-    4.7.1. [Class Diagrams](#to-be-scenario-mapping)
+    4.7.1. [Class Diagrams](#471-class-diagrams)
    
-    4.7.2. [Class Dictionary](#to-be-scenario-mapping)
+    4.7.2. [Class Dictionary](#472-class-dictionary)
    
-    4.8. [Database Design](#to-be-scenario-mapping)
+    4.8. [Database Design](#48-database-design)
    
-    4.8.1. [Database Diagram](#to-be-scenario-mapping)
+    4.8.1. [Database Diagram](#481-database-diagram)
 
-5. [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-iii-requirements-specification)
+5. [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
 
-    5.1. [Software Configuration Management](#to-be-scenario-mapping)
+    5.1. [Software Configuration Management](#51-software-configuration-management)
    
-    5.1.1. [Software Development Environment Configuration](#to-be-scenario-mapping)
+    5.1.1. [Software Development Environment Configuration](#511-software-development-environment-configuration)
    
-    5.1.2. [Source Code Management](#to-be-scenario-mapping)
+    5.1.2. [Source Code Management](#512-source-code-management)
    
-    5.1.3. [Source Code Style Guide & Conventions](#to-be-scenario-mapping)
+    5.1.3. [Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
    
-    5.1.4. [Software Deployment Configuration](#to-be-scenario-mapping)
+    5.1.4. [Software Deployment Configuration](#514-software-deployment-configuration)
    
-    5.2. [Landing Page, Services & Applications Implementation](#to-be-scenario-mapping)
+    5.2. [Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
    
-    5.2.1. [Sprint 1](#to-be-scenario-mapping)
+    5.2.1. [Sprint 1](#521-sprint-1)
    
-    5.2.1.1. [Sprint Planning 1](#to-be-scenario-mapping)
+    5.2.1.1. [Sprint Planning 1](#5211-sprint-planning-1)
    
-    5.2.1.2. [Sprint Backlog 1](#to-be-scenario-mapping)
+    5.2.1.2. [Sprint Backlog 1](#5212-sprint-backlog-1)
    
-    5.2.1.3. [Development Evidence for Sprint Review](#to-be-scenario-mapping)
+    5.2.1.3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
    
-    5.2.1.4. [Testing Suite Evidence for Sprint Review](#to-be-scenario-mapping)
+    5.2.1.4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
    
-    5.2.1.5. [Execution Evidence for Sprint Review](#to-be-scenario-mapping)
+    5.2.1.5. [Execution Evidence for Sprint Review](#5214-execution-evidence-for-sprint-review)
    
-    5.2.1.6. [Services Documentation Evidence for Sprint Review](#to-be-scenario-mapping)
+    5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
    
-    5.2.1.7. [Software Deployment Evidence for Sprint Review](#to-be-scenario-mapping)
+    5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
    
-    5.2.1.8. [Team Collaboration Insights during Sprint](#to-be-scenario-mapping)
+    5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+    5.2.2. [Sprint 2](#521-sprint-1)
+   
+    5.2.2.1. [Sprint Planning 2](#5211-sprint-planning-1)
+   
+    5.2.2.2. [Sprint Backlog 2](#5212-sprint-backlog-1)
+   
+    5.2.2.3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+   
+    5.2.2.4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+   
+    5.2.2.5. [Execution Evidence for Sprint Review](#5214-execution-evidence-for-sprint-review)
+   
+    5.2.2.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+   
+    5.2.2.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+   
+    5.2.2.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 Conclusiones y recomendaciones 
 
@@ -273,11 +283,10 @@ ___
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 3.
-
-| Criterio Específico                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería   | TB1<br><br>Gabriel Bernal: Comunicación de ideas para:<br><br>- Startup Profile<br><br>- Solution Profile<br><br>- Antecedentes y problemática <br><br>- Lean UX<br><br>- Segmentos objetivo<br><br>- Software Architecture Context Diagram<br><br>- Software Architecture Container Diagrams<br><br><br><br>Nirvana García: Comunicación de ideas para:<br><br>- Web Style Guidelines<br><br>- Information Architecture<br><br>- Organization Systems<br><br>- Labeling Systems<br><br>- SEO Tags and Meta Tags <br><br>- Searching Systems<br><br>- Navigation Systems<br><br>- Landing Page Wireframes<br><br>- Landing Page Mock-up<br><br>- Database Diagram<br><br>- Web Applications Wireflow Diagrams<br><br><br><br>Michelle Moreno: Comunicación de ideas para:<br><br>- Competidores<br><br>- Análisis competitivo <br><br>- Estrategias y tácticas frente a competidores<br><br>- Needfinding<br><br>- User Personas<br><br><br><br>User Task Matrix <br><br>- User Journey Mapping<br><br>- Empathy Mapping<br><br>- As-is Scenario Mapping<br><br>- Web Applications Wireframes<br><br>- Web Applications Mock-ups<br><br>- Class Dictionary<br><br><br><br>Marcelo Scerpella: Comunicación de ideas para:<br><br>- Web Applications Prototyping<br><br>- Class Diagrams<br><br>- Software Configuration Management<br><br>- Software Development Environment Configuration<br><br>- Sprint Planning 1<br><br><br><br>Sprint Backlog 1<br><br>- Diego Sánchez: Comunicación de ideas para:<br><br>- To-Be Scenario Mapping <br><br>- User Stories <br><br>- Impact Mapping <br><br>- Product Backlog<br><br>- Source Code Management<br><br>- Source Code Style Guide & Conventions<br><br>- Software Deployment Configuration<br><br>- Software Architecture Components Diagrams<br> | El equipo ha llevado a cabo una serie de acciones que demuestran su compromiso con la comunicación efectiva y objetiva dentro del proyecto. Cada miembro ha contribuido con tareas de redacción y documentación que abarcan desde perfiles de inicio y solución, hasta antecedentes y problemáticas, así como segmentos objetivo y metodologías como Lean UX. Estas actividades demuestran una comprensión profunda y una capacidad para comunicar claramente los aspectos clave del proyecto a diferentes audiencias, ya que se ha empleado la comunicación oral entre los integrantes para saber si sus planteamientos, de cada punto de las rúbrica, eran los correctos. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1<br><br>Gabriel Bernal: Comunicación de ideas para:<br><br>- Startup Profile<br><br>- Solution Profile<br><br>- Antecedentes y problemática <br><br>- Lean UX<br><br>- Segmentos objetivo<br><br>- Software Architecture Context Diagram<br><br>- Software Architecture Container Diagrams<br><br><br><br>Nirvana García: Comunicación de ideas para:<br><br>- Web Style Guidelines<br><br>- Information Architecture<br><br>- Organization Systems<br><br>- Labeling Systems<br><br>- SEO Tags and Meta Tags <br><br>- Searching Systems<br><br>- Navigation Systems<br><br>- Landing Page Wireframes<br><br>- Landing Page Mock-up<br><br>- Database Diagram<br><br>- Web Applications Wireflow Diagrams<br><br><br><br>Michelle Moreno: Comunicación de ideas para:<br><br>- Competidores<br><br>- Análisis competitivo <br><br>- Estrategias y tácticas frente a competidores<br><br>- Needfinding<br><br>- User Personas<br><br><br><br>User Task Matrix <br><br>- User Journey Mapping<br><br>- Empathy Mapping<br><br>- As-is Scenario Mapping<br><br>- Web Applications Wireframes<br><br>- Web Applications Mock-ups<br><br>- Class Dictionary<br><br><br><br>Marcelo Scerpella: Comunicación de ideas para:<br><br>- Web Applications Prototyping<br><br>- Class Diagrams<br><br>- Software Configuration Management<br><br>- Software Development Environment Configuration<br><br>- Sprint Planning 1<br><br><br><br>Sprint Backlog 1<br><br>- Diego Sánchez: Comunicación de ideas para:<br><br>- To-Be Scenario Mapping <br><br>- User Stories <br><br>- Impact Mapping <br><br>- Product Backlog<br><br>- Source Code Management<br><br>- Source Code Style Guide & Conventions<br><br>- Software Deployment Configuration<br><br>- Software Architecture Components Diagrams     | Como equipo, se ha logrado realizar un trabajo destacado en la comunicación escrita de ideas y resultados relacionados con el proyecto de ingeniería. Cada miembro ha contribuido con tareas de redacción y documentación dentro del informe, para desarrollar este proyecto de ingeniería.                                                                                                                                                                                                                                                                                                                                                                                 |
+| Criterio Específico                                                                                                                                                                   	| Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	| Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería     	| TB1<br>Gabriel Bernal: Comunicación de ideas para:<br>●<br>	Startup Profile<br>●<br>	Solution Profile<br>●<br>	Antecedentes y problemática <br>●<br>	Lean UX<br>●<br>	Segmentos objetivo<br>●<br>	Software Architecture Context Diagram<br>●<br>	Software Architecture Container Diagrams<br>Nirvana García: Comunicación de ideas para:<br>●<br>	Web Style Guidelines<br>●<br>	Information Architecture<br>●<br>	Organization Systems<br>●<br>	Labeling Systems<br>●<br>	SEO Tags and Meta Tags <br>●<br>	Searching Systems<br>●<br>	Navigation Systems<br>●<br>	Landing Page Wireframes<br>●<br>	Landing Page Mock-up<br>●<br>	Database Diagram<br>●<br>	Web Applications Wireflow Diagrams<br>Michelle Moreno: Comunicación de ideas para:<br>●<br>	Competidores<br>●<br>	Análisis competitivo <br>●<br>	Estrategias y tácticas frente a competidores<br>●<br>	Needfinding<br>●<br>	User Personas<br>●<br>	User Task Matrix <br>●<br>	User Journey Mapping<br>●<br>	Empathy Mapping<br>●<br>	As-is Scenario Mapping<br>●<br>	Web Applications Wireframes<br>●<br>	Web Applications Mock-ups<br>●<br>	Class Dictionary<br>Marcelo Scerpella: Comunicación de ideas para:<br>●<br>	Web Applications Prototyping<br>●<br>	Class Diagrams<br>●<br>	Software Configuration Management<br>●<br>	Software Development Environment Configuration<br>●<br>	Sprint Planning 1<br>●<br>	Sprint Backlog 1<br>Luis Aquije: Comunicación de ideas para:<br>●<br>	To-Be Scenario Mapping <br>●<br>	User Stories <br>●<br>	Impact Mapping <br>●<br>	Product Backlog<br>●<br>	Source Code Management<br>●<br>	Source Code Style Guide & Conventions<br>●<br>	Software Deployment Configuration<br>●<br>	Software Architecture Components Diagrams<br><br>TP1<br>Gabriel Bernal: Comunicación de ideas para:<br>●<br>	Execution Evidence for Sprint Review<br>Nirvana García: Comunicación de ideas para:<br>●<br>	Sprint 2<br>●<br>	Sprint Planning 2<br>●<br>	Sprint Backlog 2<br>Michelle Moreno: Comunicación de ideas para:<br>●<br>	Execution Evidence for Sprint Review<br>Marcelo Scerpella: Comunicación de ideas para:<br>●<br>	Execution Evidence for Sprint Reviewt                                                                                                                                                 	| Conclusión 1:<br>Como equipo, hemos llevado a cabo una serie de acciones que demuestran nuestro compromiso con la comunicación efectiva y objetiva dentro del proyecto. Cada miembro ha contribuido con tareas de redacción y documentación que abarcan desde perfiles de inicio y solución, hasta antecedentes y problemáticas, así como segmentos objetivo y metodologías como Lean UX. Estas actividades demuestran una comprensión profunda y una capacidad para comunicar claramente los aspectos clave del proyecto a diferentes audiencias, ya que se ha empleado la comunicación oral entre los integrantes para saber si sus planteamientos, de cada punto de las rúbricas, eran los correctos.<br>Conclusión 2:<br>El equipo ha demostrado habilidades de comunicación efectiva al presentar sus ideas y resultados a audiencias de diferentes especialidades y niveles jerárquicos. Durante la presentación del proyecto, cada miembro pudo explicar de manera clara y concisa los aspectos técnicos y conceptuales del proyecto, utilizando un lenguaje comprensible para todos los participantes. Además, se evidenció la capacidad de adaptación del equipo al nivel de conocimiento de cada audiencia, lo que permitió una comunicación efectiva y una comprensión mutua.<br>Conclusión 3:<br>La comunicación oral dentro del equipo ha sido fundamental para el éxito del proyecto. Los miembros del equipo hemos desarrollado habilidades de escucha activa y hemos fomentado un ambiente de respeto y apertura para la discusión y el intercambio de ideas. Esto ha permitido una colaboración efectiva, donde las ideas y opiniones de cada miembro fueron consideradas y debatidas de manera constructiva. La comunicación oral también ha sido utilizada para resolver conflictos y tomar decisiones en equipo, lo que ha fortalecido la cohesión y el compromiso del grupo.<br>Conclusión 4:<br>Reconocimos la importancia de adaptar su comunicación a diferentes audiencias. Durante el desarrollo del proyecto, se llevaron a cabo presentaciones a stakeholders de diferentes especialidades y niveles jerárquicos. Como equipo, pudimos ajustar nuestro lenguaje y enfoque según las necesidades de cada audiencia, lo que permitió una comunicación efectiva y una comprensión clara de los aspectos clave del proyecto. Esta habilidad de adaptación demostrada por el equipo es fundamental para asegurar que la información se transmita de manera clara y que se logren los objetivos de comunicación establecidos.<br><br>Conclusión 5:<br>La comunicación oral efectiva ha sido un factor clave en el éxito del proyecto. La capacidad del equipo para comunicar sus ideas y resultados de manera objetiva ha facilitado la comprensión y el consenso entre los miembros del equipo y las diferentes audiencias involucradas en el proyecto. Esto ha permitido una toma de decisiones informada y una implementación eficiente de las soluciones propuestas. La comunicación oral efectiva también ha contribuido a la construcción de relaciones sólidas con los stakeholders y ha generado confianza en el equipo y en el proyecto en general. 	|
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. 	| TB1<br>Gabriel Bernal: Redacción de:<br>●<br>	Startup Profile<br>●<br>	Solution Profile<br>●<br>	Antecedentes y problemática <br>●<br>	Lean UX<br>●<br>	Segmentos objetivo<br>●<br>	Software Architecture Context Diagram<br>●<br>	Software Architecture Container Diagrams<br>Nirvana García: Redacción de:<br>●<br>	Web Style Guidelines<br>●<br>	Information Architecture<br>●<br>	Organization Systems<br>●<br>	Labeling Systems<br>●<br>	SEO Tags and Meta Tags <br>●<br>	Searching Systems<br>●<br>	Navigation Systems<br>●<br>	Landing Page Wireframes<br>●<br>	Landing Page Mock-up<br>●<br>	Database Diagram<br>●<br>	Web Applications Wireflow Diagrams<br>Michelle Moreno: Redacción de:<br>●<br>	Competidores<br>●<br>	Análisis competitivo <br>●<br>	Estrategias y tácticas frente a competidores<br>●<br>	Needfinding<br>●<br>	User Personas<br>●<br>	User Task Matrix <br>●<br>	User Journey Mapping<br>●<br>	Empathy Mapping<br>●<br>	As-is Scenario Mapping<br>●<br>	Web Applications Wireframes<br>●<br>	Web Applications Mock-ups<br>●<br>	Class Dictionary<br>Marcelo Scerpella: Redacción de:<br>●<br>	Web Applications Prototyping<br>●<br>	Class Diagrams<br>●<br>	Software Configuration Management<br>●<br>	Software Development Environment Configuration<br>●<br>	Sprint Planning 1<br>●<br>	Sprint Backlog 1<br>Luis Aquije: Redacción de:<br>●<br>	To-Be Scenario Mapping <br>●<br>	User Stories <br>●<br>	Impact Mapping <br>●<br>	Product Backlog<br>●<br>	Source Code Management<br>●<br>	Source Code Style Guide & Conventions<br>●<br>	Software Deployment Configuration<br>●<br>	Software Architecture Components Diagrams<br>TP1<br>Gabriel Bernal: Redacción de:<br>●<br>	Development Evidence for Sprint Review<br>Nirvana García: Redacción de:<br>●<br>	Sprint Planning 2<br>●<br>	Sprint Backlog 2<br>●<br>	Development Evidence for Sprint Review<br>●<br>	Team Collaboration Insights during Sprint<br>Michelle Moreno: Redacción de:<br>●<br>	Development Evidence for Sprint Review<br>●<br>	Software Deployment Evidence for Sprint Review<br>Marcelo Scerpella:Redacción de:<br>●<br>	Development Evidence for Sprint Review<br>●<br>	Software Deployment Evidence for Sprint Review<br>Luis Aquije: Redacción de:<br>●<br>	Team Collaboration Insights during Sprint 	| Conclusión 1:<br>Como equipo, se ha logrado realizar un trabajo destacado en la comunicación escrita de ideas y resultados relacionados con el proyecto de ingeniería. Cada miembro ha contribuido con tareas de redacción y documentación dentro del informe, para desarrollar este proyecto de ingeniería.<br>Conclusión 2:<br>El equipo ha demostrado habilidades sólidas de comunicación escrita al redactar informes y documentación relacionada con el proyecto de ingeniería. Cada miembro ha sido capaz de expresar de manera clara y objetiva las ideas y los resultados obtenidos durante el desarrollo del proyecto. Esto ha permitido una fácil comprensión por parte de audiencias de diferentes especialidades y niveles jerárquicos.<br>Conclusión 3:<br>La comunicación escrita dentro del equipo ha sido fundamental para documentar y compartir de manera efectiva los hallazgos y avances del proyecto. Los informes y documentos elaborados han sido exhaustivos, bien estructurados y claros en su contenido. Esto ha permitido que las personas involucradas en el proyecto, independientemente de su especialidad, comprendan fácilmente las ideas y los resultados presentados.<br>Conclusión 4:<br>El equipo ha demostrado una habilidad destacada para adaptar su comunicación escrita a diferentes audiencias. La redacción utilizada en los informes y documentos ha sido adecuada para el público objetivo, evitando jergas técnicas excesivas y utilizando un lenguaje claro y conciso. Esta adaptabilidad ha facilitado la comprensión y la colaboración entre los miembros del equipo y las partes interesadas externas.<br>Conclusión 5:<br>La comunicación escrita efectiva ha sido un factor clave en el éxito del proyecto. Gracias a la objetividad y claridad en la redacción, se ha logrado transmitir de manera efectiva las ideas y los resultados del proyecto a diferentes especialidades y niveles jerárquicos. Esto ha permitido una toma de decisiones informada, una mejor colaboración entre los equipos y una implementación exitosa de las soluciones propuestas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                	|                                                                                                                                                                                                                                                                                          |
 
 
 <br><br>
@@ -288,12 +297,14 @@ ___
 
 ## 1.1 Startup Profile
 
-**Lambders** es una startup dedicada a revolucionar el comercio electrónico en el Perú, enfocándose en el mercado  asiático. Nuestro objetivo es satisfacer las necesidades de los apasionados a esta fascinante cultura, ofreciendo productos auténticos y de alta calidad. 
- 
+**Lambders** es una innovadora startup peruana que tiene como objetivo revolucionar el comercio electrónico en el país, centrándose especialmente en el mercado asiático. Nos dedicamos apasionadamente a satisfacer las necesidades de aquellos que son fanáticos de la fascinante cultura asiática, ofreciendo una amplia gama de productos auténticos y de alta calidad.
 
-Buscamos establecer alianzas estratégicas con proveedores confiables y reconocidos en la industria asiática para garantizar la completa autenticidad de cada producto que ofrecemos. Asimismo, contamos con un enfoque en la excelencia del servicio al cliente y la creación de experiencias únicas, manteniéndonos actualizados con las últimas tendencias del mercado mencionado, y permitiéndonos ofrecer productos exclusivos que satisfagan sus expectativas.
+Para garantizar la autenticidad de cada producto que ofrecemos, nos esforzamos por establecer alianzas estratégicas con proveedores confiables y reconocidos en la industria asiática. Trabajamos de cerca con ellos para seleccionar cuidadosamente los productos que cumplen con nuestros estándares de calidad y autenticidad, asegurando que nuestros clientes reciban solo los mejores productos.
 
-En **Lambders**, nos dedicamos en construir relaciones sólidas con nuestros clientes, valorando sus opiniones y sugerencias, y nos esforzamos por brindarles una experiencia de compra personalizada y satisfactoria. Además, estamos constantemente explorando nuevas oportunidades de crecimiento y expansión, siempre buscando formas de superar las expectativas de nuestros clientes y mantenernos a la vanguardia de la industria.
+En Lambders, nos enorgullece ofrecer un servicio al cliente excepcional. Valoramos las opiniones y sugerencias de nuestros clientes, y nos dedicamos a brindarles una experiencia de compra personalizada y satisfactoria. Nuestro equipo altamente capacitado está disponible para responder preguntas, brindar asesoramiento y ayudar en cada paso del proceso de compra.
+
+Además de mantenernos actualizados con las últimas tendencias del mercado asiático, nos esforzamos por ofrecer productos exclusivos que superen las expectativas de nuestros clientes. Exploramos constantemente nuevas oportunidades de crecimiento y expansión, buscando maneras de mantenernos a la vanguardia de la industria. Estamos comprometidos con la innovación y la mejora continua para ofrecer siempre lo mejor a nuestros clientes.
+
 
 
 <br><br>
@@ -309,8 +320,6 @@ La misión de nuestra startup es fomentar y difundir la pasión por la cultura a
 
 
 
-
-
 **Visión**
 
 La visión de nuestra startup es convertirnos en el referente principal del comercio electrónico de merch de la cultura asiática en Perú. Buscamos construir una comunidad sólida, donde los aficionados puedan encontrar productos de alta gama que les permitan expresar su apasionado interés por sus series y grupos favoritos. Buscamos adaptarnos a las necesidades cambiantes de nuestros clientes y mantenernos a la vanguardia de la industria. Además, a través de la innovación constante, la expansión y el crecimiento, aspiramos a ser reconocidos como líderes en el mercado, superando las expectativas de nuestros clientes y contribuyendo al crecimiento y difusión de la cultura del anime, kpop y manhua en Perú.
@@ -321,16 +330,11 @@ ___
 <br>
 
 ### 1.1.2. Perfiles de integrantes del equipo
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/2.%20Perfil%20Luis.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/3.%20Perfil%20Gabriel.PNG)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/4.%20Perfil%20Nirvana.PNG)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/5.%20Perfil%20Michelle.PNG)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/6.%20Perfil%20Marcelo.PNG)
+![Alt text](img/image-42.png)
+![Alt text](img/image-39.png)
+![Alt text](img/image-40.png)
+![Alt text](img/image-41.png)
+![Alt text](img/image-37.png)
 
 
 <br><br>
@@ -342,9 +346,10 @@ ___
 
 Akira es el destino definitivo para los aficionados del mundo del entretenimiento asiático en el Perú. Somos una tienda virtual especializada en la venta de productos auténticos y originales de anime, kpop y manhua en el país, y nos enorgullece ser pioneros en traer la magia de estas apasionantes formas de entretenimiento directamente a tus manos. Nuestro objetivo es satisfacer la creciente demanda de los fanáticos peruanos, proporcionándoles un fácil acceso a la amplia gama de productos auténticos fabricados en Asia. 
 
-Somos un punto de encuentro para aquellos que buscan sumergirse en el mundo del entretenimiento asiático, ofreciendo gran variedad de figuras de anime coleccionables, plush toys, mangas, manhua, merchandising oficial de los grupos de kpop más populares, como álbumes, lightsticks, photocards, y mucho más. Nos enorgullece trabajar en estrecha colaboración con tiendas virtuales reconocidas en Japón, China y  Corea del Sur para garantizar la autenticidad y calidad de cada producto que ofrecemos.
+Somos un punto de encuentro para aquellos que buscan sumergirse en el mundo del entretenimiento asiático, ofreciendo gran variedad de figuras de anime coleccionables, plush toys, mangas, manhua, merchandising oficial de los grupos de kpop más populares, como álbumes, lightsticks, photocards, y mucho más. Nos enorgullece trabajar en estrecha colaboración con tiendas virtuales reconocidas en Japón, China, Corea del Sur y países importadores originales para garantizar la autenticidad y calidad de cada producto que ofrecemos.
 
 En Akira, nos dedicamos a crear una experiencia de compra excepcional, ofreciendo una diversidad extensa de productos seleccionados para satisfacer los gustos de la comunidad. Nuestra plataforma intuitiva y amigable permite una navegación fluida y una búsqueda eficiente, asegurando que nuestros clientes puedan acceder a los productos con mayor facilidad mediante un filtrado avanzado que les permitirá navegar por categorías específicas, marcas populares y las últimas tendencias. De esa manera, tendrán la oportunidad de explorar productos novedosos, atendiendo sus requerimientos de manera efectiva y experimentando un servicio al cliente de primer nivel.
+
 
 
 <br><br>
@@ -438,16 +443,8 @@ Sin embargo, la necesidad de acceso fácil y seguro a productos originales motiv
 
 Alrededor del mundo, la industria del anime ha experimentado un crecimiento significativo desde el inicio de la década pasada. Esto puede observarse en el volumen de ingresos procedentes de la comercialización del ánime fuera de japón, cuyo volumen neto también ha ido en aumento.
 
-**Gráfico 1**
-
-*Gráfico en barras que muestra los ingresos (en miles de millones de yenes) de la comercialización en el extranjero del anime japonés entre 2002 y 2020*
-
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/8.%20Grafica%20Antecedentes%20(HowMuch).PNG)
-
-*Nota: Información del 21 de septiembre del 2022. De “Ingresos de la industria japonesa de animación procedentes de las emisiones de televisión entre 2002 y 2020”. Statista, 2022.*
-
-(https://es.statista.com/estadisticas/592763/ingresos-de-las-series-televisivas-de-anime-japones/#:~:text=Esta%20estad%C3%ADstica%20refleja%20la%20evoluci%C3%B3n,millones%20de%20yenes%20en%202020.)
+![Alt text](img/image-43.png)
+[Anexo C]
 
 Según RPP, a pesar de la recesión económica experimentada durante la pandemia, el volumen de ventas de manga de la campaña navideña del 2021 se triplicó con respecto a las ventas registradas en el año anterior. Esto se debe a la aparición de una nueva empresa de Streaming multimedia llamada Crunchyroll, que se especializa en la difusión de la cultura audiovisual asiática. Otro factor clave que recalca el artículo para justificar el aumento del interés de los peruanos por la industria del entretenimiento del país del sol naciente es el aumento del catálogo de animación nipona en Netflix, debido a la decadencia de la industria del entretenimiento norteamericano.
 
@@ -459,15 +456,8 @@ Como explica Agusto Venegas en la entrevista que concedió a La Cámara, un fana
 
 El *K-Pop*, por su parte, también ha vivido un enorme apogeo en Latinoamérica, y especialmente en Perú. Según Google Trends, la cantidad de usuarios que buscaron BTS en Perú en Youtube, aumentó drásticamente entre 2008 y 2022. La popularidad de este grupo fué tán grande, que superó la cantidad de búsquedas de Ariana Grande, una cantante de pop.
 
-
-**Gráfico 2**
-
-Comparación entre BTS y Ariana Grande a través de Google Trends
-
-![](https://github.com/nirvagarcia/PruebaMd/blob/main/img/9.%20Grafica%20Antecedentes%20(HowMuch).PNG)
-
-*Véase el anexo A: Gráficos y Tablas utilizadas*
-
+![Alt text](img/image-44.png)
+[Anexo C]
 
 
 <br><br>
@@ -477,7 +467,7 @@ ___
 
 ## 1.2.2 Lean UX Process
 
-**1.2.2.1. Lean UX Problem Statements**
+## **1.2.2.1. Lean UX Problem Statements**
 
 a. Hemos detectado el gran limitante de artículos disponibles que enfrentan los fanáticos de la cultura asiática en cuanto a la adquisición de productos originales de sus animes favoritos, grupos de K-Pop, mangas y demás ramas en el mundo del entretenimiento asiático. Esta falta de variedad y acceso a artículos auténticos dificulta la satisfacción de su pasión por estos contenidos y limita su capacidad de obtener productos exclusivos y genuinos.
 
@@ -751,15 +741,21 @@ ___
 
 ## 1.3. Segmentos objetivo 
 
-**Segmento Uno : Adolescentes y Adultos jóvenes**
+**Segmento Uno: Jóvenes fanáticos del entretenimiento** 
 
-Nuestro primer segmento está conformado por jóvenes de 16-35 años, oriundos de Lima, Perú. Deben disponer de un dispositivo electrónico, ya sea laptop, una computadora, smartphone o tablet. Sus gustos están relacionados a la cultura del entretenimiento asiatico.
+Nuestro primer segmento se dirige a un grupo demográfico clave: los adolescentes y adultos jóvenes de entre 16 y 35 años, residentes en Lima, Perú. 
 
-<br>
+Este segmento se caracteriza por su afinidad hacia la cultura del entretenimiento asiático y la adopción de dispositivos electrónicos como parte integral de su vida diaria. Ya sea que utilicen una laptop, una computadora de escritorio, un smartphone o una tablet, estos jóvenes están constantemente conectados y buscan experiencias relacionadas con la cultura asiática que puedan disfrutar a través de sus dispositivos.
 
-**Segmento Dos: Vendedores de productos asiáticos**
+<BR>
 
-Nuestro segundo segmento será conformado por vendedores entre 20-40 años de edad que tengan un negocio de venta de figuras y coleccionables en relación a la cultura asiática, y busquen ampliar su catálogo de productos o reponer sus stocks. Estos deben contar con una tienda física o virtual en Lima, Perú.
+
+**Segmento Dos: Vendedores de productos asiáticos** 
+
+Nuestro segundo segmento se enfoca en los vendedores de productos asiáticos en Lima, Perú, que desean ampliar su catálogo de productos o reponer sus stocks. 
+
+Este segmento está compuesto por emprendedores y propietarios de tiendas físicas o virtuales que se especializan en la venta de figuras y coleccionables relacionados con la cultura asiática. Estos vendedores, que tienen entre 20 y 40 años de edad, reconocen el potencial y la demanda creciente de productos asiáticos en el mercado peruano.
+
 
 
 <br><br>
@@ -770,13 +766,15 @@ ___
 
 ## 2.1. Competidores
 
-Los principales competidores directos son:
+En el mercado de tiendas en línea enfocadas en productos relacionados con la cultura asiática, Lambders se encuentra en un entorno competitivo. A continuación, se presentan los principales competidores directos:
 
-- **Sagami Store:** Es una tienda virtual donde se importan y venden figuras coleccionables de Japón.
+●	Sagami Store: Esta reconocida tienda virtual se especializa en la importación y venta de figuras coleccionables de Japón. Con una amplia selección de productos auténticos y de alta calidad, Sagami Store ha ganado popularidad entre los aficionados a las figuras y coleccionables japoneses en Perú. Su enfoque en la calidad de los productos y la importación directa desde Japón les ha permitido construir una sólida base de clientes.
 
-- **Japan.pe:** Es una página que son personal shoppers en Japón que ayudan a sus usuarios a comprar cualquier producto permitido de Japón a Perú.
+●	Japan.pe: Esta plataforma se destaca por ofrecer un servicio personalizado de "personal shoppers" en Japón. Su equipo de expertos en compras se encarga de ayudar a los usuarios a adquirir cualquier producto permitido desde Japón hasta Perú. Japan.pe ha establecido una reputación sólida como un servicio confiable y eficiente, brindando a los consumidores peruanos acceso a una amplia gama de productos japoneses auténticos que de otra manera serían difíciles de obtener.
 
-- **K.Story.Peru:** Es una tienda online donde venden merchandising de grupos de kpop.
+●	K.Story.Peru: Dirigida a los amantes del K-pop, K.Story.Peru es una tienda en línea especializada en la venta de merchandising de grupos de K-pop. Su catálogo incluye una variedad de productos como álbumes, pósters, ropa y accesorios relacionados con los grupos de música K-pop más populares. K.Story.Peru ha logrado captar la atención de los fanáticos peruanos del K-pop al ofrecer productos exclusivos y de calidad que les permiten mostrar su apoyo y amor hacia sus artistas favoritos.
+
+Estos competidores directos representan desafíos significativos en el mercado de tiendas en línea enfocadas en la cultura asiática. 
 
 
 <br><br>
@@ -931,6 +929,11 @@ ___
 
 - Implementar un apartado en la app donde los usuarios puedan leer comentarios sobre la experiencia de otros usuarios que realizaron compras en Akira, de esta manera, generaremos mayor confianza al resto de la comunidad.
 
+<br><br>
+___
+<br>
+
+
 ## **2.2. Entrevistas.**
 
 ### **2.2.1. Diseño de entrevistas.**
@@ -978,6 +981,11 @@ ___
     17. ¿Estarías interesado en productos exclusivos de Asia o ediciones limitadas?
     18. ¿Alguna vez adquiriste algún producto que llegó con errores de fábrica? ¿Pudiste hacer algo al respecto?
     
+
+<br><br>
+___
+<br>
+
 **Segmento Dos: Vendedores de productos asiáticos**
 
     1. Presentación del entrevistado (Nombre, edad, ocupación)
@@ -998,13 +1006,28 @@ ___
     16. ¿Realizas reembolsos de productos si es que tuvieron fallas de fabrica o alguna situación similar?
     17. ¿Qué es lo que más disfrutas de trabajar en la industria de productos asiáticos y coleccionables?
 
+
+
+<br><br>
+___
+<br>
+
 ### **2.2.2. Registro de entrevistas**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/10.%20Registro%20de%20Entrevistas.png)
+Video de las entrevistas: [Needfingind Interview Apps](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&referrer=OneDriveForBusiness&referrerScenario=OpenFile)
 
-**Entrevista N°1 (Fanatica de la cultura asiática)**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/11.%20Entrevista%20Marcelo.png)
+![Alt text](img/image-45.png)
+
+
+
+<br><br><br><br>
+
+
+
+
+**Entrevista N°1 (Fanática del entretenimiento asiático)**
+![Alt text](img/image-46.png)
 
 Entrevistador: Marcelo Scerpella Zarkovic
 Entrevistada: Rizi
@@ -1014,9 +1037,9 @@ Rizi es una influencer y streamer relacionada con el mundo del ánime y la cultu
 
 ---
 
-**Entrevista N°2 (Fanática de la cultura asiática)**
+**Entrevista N°2 (Fanática del entretenimiento asiático)**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/12.%20Entrevista%20Nirvana.png)
+![Alt text](img/image-47.png)
 
 Entrevistadora: Nirvana García Vásquez
 
@@ -1028,9 +1051,9 @@ Gabriela es una gran fanática del mundo del pop coreano (K-Pop) desde hace unos
 
 ---
 
-**Entrevista N°1 (Vendedor)**
+**Entrevista N°3 (Vendedor de productos asiáticos)**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/13.%20Entrevista%20Michelle.jpg)
+![Alt text](img/image-48.png)
 
 Entrevistadora: Michelle Francesca Moreno Best
 
@@ -1042,9 +1065,9 @@ Giancarlos tiene 28 años y  es uno de los encargados de la tienda MasGamers Sto
 
 ---
 
-**Entrevista N°4 (Fanática de la cultura asiática)**
+**Entrevista N°4 (Fanática del entretenimiento asiático)**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/14.%20Entrevista%20Gabriel.png)
+![Alt text](img/image-49.png)
 
 Entrevistador: Gabriel Adrian Bernal Moreno
 
@@ -1056,9 +1079,9 @@ En esta ocasión, tuvimos el privilegio de entrevistar a María, una fanática s
 
 ---
 
-**Entrevista N°5 (Mayorista o Vendedor)**
+**Entrevista N°5 (Vendedor de productos asiáticos)**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/15.%20Entrevista%20Nirvana.png)
+![Alt text](img/image-50.png)
 
 Entrevistadora: Nirvana Gabriela García Vásquez
 
@@ -1069,25 +1092,45 @@ Tiempo en el video: [00:34:23] - [00:41:47]
 Realizamos la entrevista a un vendedor especializado dentro del rubro de los mangas , comics japoneses, dentro de la tienda Shao Games, local físico ubicado en el Centro Comercial Arenales. Fernando nos comenta que la tienda cuenta con una sub-tienda virtual llamada Gekko, en donde también venden mangas de su stock en Shao Games. El género de mangas más buscado y vendido por su comunidad de clientes es el romance, tanto en las ramas de BL (amor entre hombres) como el shoujo (amor heterosexual). Considera que destacan entre la competencia por el hecho de tener mayor variedad de mangas y traer los tomos tres semanas después de sus lanzamientos en las editoriales originales, siendo esto algo poco común en Perú, donde los periodos de espera de los tomos recién estrenados puede tardar más de dos meses. La estrategia de marketing de Gekko es emplear las redes sociales como Instagram, Facebook y Tiktok, donde no solo promocionan sus productos y nuevas adquisiciones, sino que además, realizan colaboraciones con dos tiktokers relacionados al mundo de los mangas en Perú, para aumentar el alcance de la tienda. Además, aumentan considerablemente sus ventas cuando realizan ofertas especiales por Halloween, fiestas patrias, navidad, cyberdays, entre otros. Su proveedor principal se encuentra en España, siendo el país que fabrica los tomos originales traducidos al español (ya que el idioma original es japonés). 
 
 ---
-**Entrevista N°6 (Otaku)**
+**Entrevista N°6 (Fanático del entretenimiento asiático)**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/16.%20Entrevista%20Diego.png)
+![Alt text](img/image-51.png)
 
-Entrevistador: Diego Antonio Sanchez Ramirez
+Entrevistador: Luis Enrique Aquije Quiroga
 
-Entrevistado: Anderson Alvarado Cespedes 
+Entrevistado: Geremy Alexandro Esquivel Janampa
 
-Tiempo de la entrevista: [00:41:47] - [00:49:22]
+Tiempo en el video: [00:41:47] - [00:47:09]
 
-Anderson Alvarado es un estudiante universitario, estudia Administración y Negocios en la Universidad Tecnológica del Perú, y trabaja part-time como asistente de ventas. Su pasión por el anime, especialmente del género shonen y misterio, es evidente, siendo sus favoritos indiscutibles "Black Clover" y "One Piece". Anhela poder adquirir artículos auténticos de sus series favoritas sin que representan un desembolso excesivo. Sin embargo, se ha encontrado con la desagradable situación de que no hay existencias disponibles ni productos relacionados en lugares comunes como la avenida Arenales o en grupos de ventas de Facebook. Si desea comprar productos de mercadería, se ve forzado a depender de importadores locales, quienes aplican tarifas elevadas por los trámites de importación. Dada esta realidad, está en búsqueda de alternativas más viables para conseguir productos relacionados con los animes "Black Clover" y "One Piece".
-
+El entrevistado fue Geremy Alexandro Esquivel Janampa, un entusiasta universitario apasionado por la cultura asiática, especialmente el anime y los mangas. Geremy compartió su pasión por los shonen como One Piece y Dragon Ball consumiendo de vez en cuando comedias románticas. Los productos que consume son mangas, dvds, figuras, ropa, accesorios, implementos para el hogar, etc. La frecuencia con la que compra merch oscila entre 1 vez por semana o 1 vez cada dos semanas. El dinero que invirtió en ello se aproxima entre los 3000-4000 soles y su adquisición  más cara relacionada al anime fue una figura de 250 soles. La suma más alta que él contempla gastar en este tipo de producto es de 250 soles. El considera que su obtención es complicada ya que debe esperar varios meses para conseguirlos y su disponibilidad es limitada . Su prioridad es la calidad a la hora de obtener un producto.  
 
 
 ---
 
-### 2.2.3. Análisis de entrevistas.
 
-**Segmento Uno: Jóvenes fanáticos de n entretenimiento asiático**
+---
+**Entrevista N°7 (Fanático del entretenimiento asiático)**
+
+![Alt text](img/image-52.png)
+
+Entrevistador: Luis Enrique Aquije Quiroga
+
+Entrevistado: Jair Flores Vizcarra
+
+Tiempo en el video: [00:47:09] - [00:51:13]
+
+El entrevistado fue Jair Flores Vizcarra, un entusiasta universitario apasionado por la cultura asiática, especialmente el anime y los mangas. Jair compartió sus géneros preferidos, como shonen y slice of life,. Reveló su familiaridad con una amplia gama de artículos de mercancía relacionados con sus intereses, demostrando su dedicación a esta afición. Jair también compartió información sobre su inversión en su colección, que llega hasta los 200  dólares anuales. Explicó los desafíos que enfrenta al buscar productos en Perú, a menudo recurriendo a plataformas internacionales, a pesar de los costos de envío elevados. Al momento de la compra, Jair prioriza la calidad y el precio, pero se ve obstaculizado por la agotación rápida de productos en tiendas físicas y los riesgos típicos de las compras en línea.
+
+
+
+
+<br><br>
+___
+<br>
+
+### 2.2.3. Análisis de entrevistas
+
+**Segmento Uno: Jóvenes fanáticos del entretenimiento asiático**
 
 
 | **Rubricas** | **Maria Tinoco**   | **Gabriela Laos** | **Anderson Alvarado** | **Geremy Alexandro** | **Jair Flores** | **Streamer "Rizi"**|
@@ -1105,6 +1148,48 @@ Anderson Alvarado es un estudiante universitario, estudia Administración y Nego
 
 
 Mediante el recuadro anterior se puede destacar que todos los entrevistados son consumidores de contenido de Kpop, dos de nuestros entrevistados coleccionan artículos de bajo costo como gorras, tazas, entre otros. Sin embargo, también dos de ellos compran merchandising de costos elevados como photocards y figuras coleccionables, gastando un aproximado de 100 soles al mes. El 100% de los entrevistados presentan problemas al adquirir diversos artículos porque no hay en el país. Además, pagan una comisión adicional al precio del producto seleccionado para poder obtener los productos que no se venden en el país y también utilizan las redes sociales para estar al tanto de las novedades del entretenimiento asiático que consumen.
+
+
+Mediante un formulario a nuestros entrevistados, generamos los porcentajes de respuestas positivas o negativas de nuestro análisis.
+
+El consumo de contenido audiovisual de origen japonés (animes) es predominante entre los entrevistados, con un 80% mostrando interés en este tipo de entretenimiento. El 20% restante se centra exclusivamente en el consumo de contenido musical de origen coreano (Kpop).
+![Alt text](img/image-53.png)
+
+
+El 40% de nuestros entrevistados, consumen contenido de entretenimiento de índole musical de origen coreano (Kpop). El otro 60% consume solo anime.
+![Alt text](img/image-54.png)
+
+
+El 60% de nuestros entrevistados coleccionan artículos de bajo costo relacionados a su afición, como gorros, tazas, comida, entre otros. 
+![Alt text](img/image-55.png)
+
+
+El 60% de nuestros entrevistados coleccionan artículos de alto costo relacionados a su afición, como figuras coleccionables, casacas, polos, entre otros.
+
+![Alt text](img/image-56.png)
+
+
+Todos los entrevistados (100%) enfrentan dificultades para adquirir los artículos deseados debido a problemas relacionados con la disponibilidad nacional. Esto indica que existe una demanda insatisfecha en el mercado peruano en cuanto a productos de entretenimiento asiático.
+![Alt text](img/image-57.png)
+
+
+El 80% de los entrevistados no está familiarizado con opciones de proveedores de productos importados, lo que sugiere una falta de conocimiento sobre las alternativas disponibles para satisfacer su afición. Esto destaca la necesidad de mejorar la información y la accesibilidad a los proveedores de productos importados.
+![Alt text](img/image-58.png)
+
+Un 60% de los entrevistados estaría dispuesto a pagar una comisión adicional para obtener productos exclusivos importados del extranjero, lo que indica un alto grado de interés por obtener artículos únicos y difíciles de encontrar en el mercado nacional.
+![Alt text](img/image-59.png)
+
+La mayoría de los entrevistados (80%) asiste a ferias relacionadas con el medio de entretenimiento que consumen, lo que muestra un compromiso activo con la comunidad y la participación en eventos relevantes.
+![Alt text](img/image-60.png)
+
+
+Los entrevistados (100%) utilizan las redes sociales como su principal fuente de contenido relacionado con el entretenimiento asiático. Esto subraya la importancia de las redes sociales como plataforma de difusión y promoción para los vendedores de productos de anime y Kpop.
+![Alt text](img/image-61.png)
+
+La mayoría de los entrevistados (80%) gastan más de 100 soles al mes en productos relacionados con el medio de entretenimiento asiático, lo que indica una inversión significativa en su afición.
+![Alt text](img/image-62.png)
+
+
 
 ---
 
@@ -1126,24 +1211,97 @@ Mediante el recuadro anterior se puede destacar que todos los entrevistados son 
 Mediante el cuadro anterior se puede destacar que la mayoría de los entrevistados cuentan con canales de comunicación, dos de nuestros entrevistados tienen distribuidores asiáticos, el cual les son útiles a la hora de demostrar que sus productos son originales. Solo uno de nuestros entrevistados ha tenido colaboraciones con influencers de su rubro. política de reembolso si es que el producto está dañado de fábrica y participación en eventos o ferias. Además, dos de nuestros entrevistados sienten limitantes al querer adquirir algunos productos y el 100% saben sobre los productos que están ofreciendo en sus tiendas.
 
 
-## **2.3. Needfinding.**
+
+Mediante un formulario a nuestros entrevistados, generamos los porcentajes de respuestas positivas o negativas de nuestro análisis.
+
+El 66.7% de nuestros entrevistados, presentan distribuidores asiáticos, el otro 33.3% presenta distribuidores españoles.
+ ![Alt text](img/image-72.png)
+
+
+ 
+El 100% de nuestros entrevistados cuenta con canales de comunicación como redes sociales (Instagram, Titkok y Facebook siendo los principales), lo que sugiere que las plataformas digitales son una forma efectiva de interactuar y comunicarse con ellos.
+ ![Alt text](img/image-71.png)
+
+
+Todos los entrevistados (100%) muestran un alto nivel de satisfacción y disfrute al trabajar en la industria del anime y el Kpop, lo que indica un fuerte aprecio por estos medios de entretenimiento.
+![Alt text](img/image-70.png)
+ 
+
+ 
+El 66.7% de nuestros entrevistados presenta problemas al importar productos del extranjero (Asia). El otro 33.3% no presenta estos problemas debido a que importa sus productos desde España (Europa).
+![Alt text](img/image-69.png)
+ 
+
+El 66.7% de nuestros entrevistados colaboran con influencers para promocionar sus tiendas, lo que indica una estrategia efectiva de marketing para llegar a su público objetivo. El otro 33.3% no ocupan este tipo de promoción.
+![Alt text](img/image-68.png)
+ 
+
+ 
+El 66.7% de nuestros entrevistados brindan reemplazos o reembolsos de productos en caso de errores de fabricación, lo que demuestra un compromiso con la satisfacción del cliente y la calidad de los productos. El otro 33.3% no realiza ningún tipo de reembolso.
+![Alt text](img/image-67.png)
+ 
+
+
+El 66.7% de nuestros entrevistados participan en eventos y ferias. El otro 33.3% no ha participado aún en eventos o ferias, pero mencionaron que participarán en los últimos meses del año 2023. Esto indica un interés activo en involucrarse en la comunidad y en eventos relacionados.
+ ![Alt text](img/image-66.png)
+
+ 
+El 100% de nuestros entrevistados realizan descuentos de productos o promociones en fechas importantes, como el día del niño, halloween, navidad, entre otros.
+![Alt text](img/image-65.png)
+ 
+
+
+Todos los entrevistados (100%) sienten limitaciones al querer adquirir productos, lo que indica que existen obstáculos y desafíos en importar la mercancía que venden para satisfacer las necesidades y peticiones que exigen sus clientes.
+![Alt text](img/image-64.png)
+
+  
+El 100% de nuestros entrevistados tienen conocimientos en los productos que ofrecen,  lo que sugiere que están informados y conscientes de las últimas tendencias y novedades en el mundo del anime y el Kpop.
+![Alt text](img/image-63.png)
+
+
+
+
+<br><br>
+___
+<br>
+
+
+
+
+## **2.3. Needfinding**
 
 ### **2.3.1. User Persona**
 
-Para la elaboración de los User Persona, se ha considerado uno por cada segmento objetivo. Para los adolescentes y adultos jóvenes, se analizaron las entrevistas respectivos para este segmento, por consiguiente, se pudo crear el presente User Persona. En el segundo segmento el cual abarca tiendas mayoristas y minoristas también se tomó en cuenta sus respectivas entrevistas para crear su User persona.
 
-**User Persona: “ Jóvenes fanáticos del entretenimiento asiático ”**
+Para garantizar una comprensión profunda de nuestros segmentos objetivo, hemos llevado a cabo un exhaustivo proceso de elaboración de User Personas. Hemos creado un User Persona para cada uno de los segmentos clave que hemos identificado. 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/19.%20User%20Persona%20Fanaticos.png)
+**Segmento Uno: Jóvenes fanáticos del entretenimiento asiático**
 
+Para comprender mejor las necesidades, deseos y comportamientos de los jóvenes fanáticos, llevamos a cabo entrevistas en profundidad con individuos pertenecientes a este segmento. Estas entrevistas nos permitieron obtener información valiosa sobre sus intereses, preferencias, hábitos de compra y experiencias relacionadas con la cultura asiática.
+
+Utilizando los datos recopilados de estas entrevistas, hemos creado un User Persona detallado. Este User Persona representa a un adolescente o adulto joven típico que forma parte de nuestro primer segmento objetivo. Incluye información demográfica relevante, como edad, ubicación y tipo de dispositivo electrónico que utilizan. Además, se detallan sus gustos, comportamientos de compra, motivaciones y desafíos específicos. Este User Persona nos ayuda a comprender mejor a nuestro público objetivo y a diseñar estrategias y experiencias de usuario más efectivas y personalizadas.
+
+**Segmento Dos: Vendedores de productos asiáticos**
+
+En cuanto a nuestro segundo segmento, que se compone de vendedores de productos asiáticos, también realizamos entrevistas específicas con representantes de estas tiendas. Estas entrevistas nos brindaron información valiosa sobre sus necesidades comerciales, desafíos, preferencias de productos y estrategias de venta.
+
+A partir de los datos obtenidos en estas entrevistas, hemos creado un User Persona detallado que representa a un propietario o gerente de tienda mayorista o minorista en el mercado peruano. Este User Persona incluye información demográfica relevante, como edad y tipo de negocio (físico o en línea). También se proporciona información sobre sus intereses comerciales, objetivos, desafíos y necesidades específicas. Este User Persona nos ayuda a comprender las perspectivas y prioridades de nuestros socios comerciales y a adaptar nuestras estrategias de colaboración y apoyo para satisfacer sus necesidades.
+
+
+**User Persona: Jóvenes fanáticos del entretenimiento asiático**
+![Alt text](img/image-73.png)
 ---
 
 **User Persona: “Vendedores de productos asiáticos”**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/20.%20User%20Persona%20Vendedores.png)
+![Alt text](img/image-74.png)
 
 
-### 2.2.3. User Task Matrix.
+<br><br>
+___
+<br>
+
+### 2.2.3. User Task Matrix
 
 Para la elaboración de los User Task Matrix, se están considerando dos segmentos, los cuales son el de fanáticos del entretenimiento asiáticos y el de los vendedores de productos asiáticos.
 
@@ -1246,25 +1404,42 @@ Esta matriz de tareas refleja las actividades que Alejandro Cruz Rodríquez, el 
 
  Esta matriz de tareas muestra cómo Fiorella Castillo Gómez podría interactuar con la tienda en línea a lo largo de su proceso de investigación, exploración, decisión y compra. Cada tarea representa una actividad relevante para Fiorella en su experiencia de compra.
 
- ### **2.3.3. User Jouney Mapping**
+<br><br>
+___
+<br>
 
- ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/21.%20User%20Journey%20Mapping.png)
+ ### 2.3.3. User Jouney Mapping
 
-[Link: https://drive.google.com/file/d/13KpXZZPZRLUD8ieEOCAHu6t4qbogwjdp/view]
+![Alt text](img/image-75.png)
+[Anexo E] 
 
----
+<br><br>
+___
+<br>
 
-### **2.3.4. Empathy Mapping.**
+### 2.3.4. Empathy Mapping
 
-**Segmento objetivo “Jóvenes fanáticos del entretenimiento asiáticos”**
+**Segmento objetivo “Jóvenes fanáticos del entretenimiento asiático”**
 
- ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/22.%20Empathy%20Mapping%20Fanaticos.png)
+![Alt text](img/image-76.png)
 
- ---
+
 
 **Segmento Objetivo: “ Vendedores de productos asiático”**
 
- ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/23.%20Empathy%20Mapping%20Vendedores.png)
+![Alt text](img/image-77.png)
+
+
+
+<br><br>
+___
+<br>
+
+
+
+
+
+
 
 ### 2.3.4. As-is Scenario Mapping
 
@@ -1278,7 +1453,7 @@ Fiorella Castillo quiere conseguir merchandising de Asia.
 |**THINKING**|<br> • No puede ser otra vez esta cuenta es de otro país. <br> • Tendré que encargar que lo traigan del extranjero o conformarme con lo que venden aquí.<br> • Otra vez tendré que gastar un dineral por mis figuras.<br> • Ojalá no me intenten vender un fanmade como si fuera producto oficial.|<br> • Espero que el producto no salga muy caro.<br> • No puedo creer que estos productos estén tan caros.<br> • Ojalá los vendedores tengan precios más asequibles.|<br> • Ojalá no me estafen y me envíen el producto en buen estado, no usado.<br> • Ojalá no se queden con mi dinero y no me traigan nada.<br> • Ojalá mi producto llegue en buen estado y a tiempo.|<br> • Al fin llegó la figura por la que tanto tiempo estuve esperando.<br> • No hay mucho que pueda hacer si el producto llegó en mal estado, pues el vendedor no querrá asumir la perdida y yo ya le pagué.<br> • Pienso que podría existir alguna app o página web para poder pedir mis productos de forma segura, y con garantía por si llegan en mal estado.|
 |**FEELING**|<br> • Frustración al no saber si encontraré el producto que estoy buscando.<br> • Estrés por el tiempo que conlleva realizar la búsqueda del producto.<br> • Preocupación porque me vayan a estafar y me vendan un producto no oficial como oficial.|<br> • Ansiedad por averiguar el precio del producto y las comisiones del vendedor.<br> • Frustración al no encontrar una opción más accesible para comprar el producto.<br> • Inseguridad al no saber cómo llegará el producto, y al no contar con una garantía para este.|<br> • Ansiedad por descubrir si el proveedor que elegí sea bueno y haga que mi producto llegue bien y a tiempo.<br> • Preocupación de que el vendedor vaya a quedarse con mi dinero y no me llegue nada.<br> • Tristeza por no haber encontrado una opción más barata y menos usurera.|<br> • Alegría por al fin haber recibido el producto por el que estuve esperando tanto tiempo.<br> • Preocupación de que realmente sea un producto oficial y nuevo.<br> • Incertidumbre al no saber si encontraré los siguientes productos que desee en el futuro, o de que el proveedor pueda enfrentar problemas en aduanas.|
 
-**As - Is Scenario Map – Segmento Vendedores mayoristas y minoristas**
+**As - Is Scenario Map – Segmento Vendedores de productos del entretenimiento asiático**
 
 Alejandro Cruz Rodriguez quiere importar productos de japón
 
@@ -1327,49 +1502,47 @@ Alejandro Cruz Rodriguez quiere importar productos de japón
 ___
 <br>
 
+
+
 ## 3.2. User Stories
 
-Link de los User Stories: https://www.pivotaltracker.com/n/projects/2673633
+| EPIC ID relacionada  	| User Story ID 	| Título                                              	| Descripción                                                                                                                                                                                                                                                                   	| Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+|----------------------	|---------------	|-----------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| EP-01<br>(##5176440) 	| US-01         	| Accesibilidad de la página                          	| Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.                                                                                                                                          	| Escenario 1: Landing page visualmente atractiva<br><br>Dado que soy un usuario interesado en los productos de Lambders<br>Cuando visito la landing page de Lambders por primera vez<br>Entonces espero ver un diseño moderno y estéticamente agradable<br>Y una combinación de colores armoniosa y coherente<br>Y encuentro imágenes de alta calidad que representen los productos de manera visualmente atractiva<br>Y percibo una disposición ordenada y equilibrada de los elementos en la página<br><br>Escenario 2: Landing page profesional<br><br>Dado que soy un usuario buscando información sobre Lambders<br>Cuando ingreso a la landing page de Lambders<br>Entonces espero encontrar una presentación profesional de la empresa y sus servicios<br>Y una tipografía legible y adecuada para transmitir información de manera clara y profesional<br>Y una navegación fluida y sin problemas en la página<br>Y percibo consistencia en el diseño y alineación con los estándares de diseño y usabilidad actuales                                                                                                                                                                                                                                                                                                               	|
+| EP-01<br>(##5176440) 	| US-02         	| Accesibilidad de la página                          	| Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.                                                                                                                                    	| Escenario 1: Interfaz intuitiva y fácil de utilizar<br><br>Dado que soy un usuario nuevo en el landing page de Lambders<br>Cuando ingreso a la página principal<br>Entonces espero encontrar una interfaz clara y organizada<br>Y veo una sección destacada que presenta de manera concisa lo que hace la empresa<br>Y encuentro un menú de navegación visible y fácil de entender, que muestra las secciones principales del sitio<br>Y noto que la información se presenta de forma descriptiva y fácil de comprender<br><br>Escenario 2: Comprender rápidamente la propuesta de valor<br><br>Dado que soy un potencial cliente interesado en los servicios de Lambders<br>Cuando visito la página principal de Lambders<br>Entonces espero encontrar una interfaz que destaque rápidamente la propuesta de valor de la empresa<br>Y veo una sección destacada que resalta los beneficios y soluciones que Akira ofrece<br>Y noto que la información sobre los productos se presentan de manera clara y fácil de comprender, evitando tecnicismos excesivos                                                                                                                                                                                                                                                                              	|
+| EP-01<br>(##5176440) 	| US-03         	| Accesibilidad de la página                          	| Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.                                                                                                                                                              	| Escenario 1: Landing page responsive en pantalla de escritorio<br><br>Dado que soy un usuario que visita la landing page de Lambders desde mi computadora de escritorio<br>Cuando accedo a la página principal<br>Entonces espero que la landing page se adapte automáticamente a la resolución de mi pantalla<br>Y veo que los elementos y secciones de la página se distribuyen de manera óptima en el espacio disponible<br>Y noto que el contenido se muestra de forma legible y clara, sin requerir desplazamiento horizontal excesivo<br>Y puedo interactuar con los elementos de la página, como botones y enlaces, de manera precisa y sin problemas<br><br>Escenario 2: Landing page responsive en dispositivo móvil<br><br>Dado que soy un usuario que visita la landing page de Lambders desde mi teléfono móvil<br>Cuando ingreso a la página principal<br>Entonces espero que la landing page se ajuste automáticamente a la resolución de mi pantalla móvil<br>Y veo que los elementos y secciones de la página se adaptan y reorganizan de manera óptima para una visualización móvil<br>Y el contenido se muestra de forma legible y clara, sin requerir zoom excesivo o desplazamiento horizontal<br>Y puedo interactuar fácilmente con los elementos de la página mediante gestos táctiles, como deslizamientos y toques 	|
+| EP-01<br>(##5176440) 	| US-04         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.                                                                                                    	| Escenario 1: Sección destacada sobre el producto Akira<br><br>Dado que soy un usuario interesado en el producto Akira de Lambders<br>Cuando visito la landing page de Lambders<br>Entonces espero encontrar una sección destacada que presente de manera atractiva y concisa el producto Akira<br>Y encuentro imágenes o gráficos que ilustren visualmente a Akira                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-01<br>(##5176440) 	| US-05         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.                                           	| Escenario 1: Sección de segmentos objetivos en la landing page<br> <br>Dado que soy un usuario interesado en los productos de Lambders<br>Cuando visito la landing page de Lambders<br>Entonces espero encontrar una sección que presente de manera clara y concisa los segmentos objetivos de Lambders<br>Y veo los diferentes segmentos con los que Lambders busca enfocar sus productos<br>Y cada segmento objetivo está acompañado de una breve descripción que resalta los desafíos y necesidades específicas de ese segmento                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-01<br>(##5176440) 	| US-06         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.                                                 	| Escenario 1: Sección "Acerca de nosotros" en la landing page<br> <br>Dado que soy un usuario interesado en el startup Lambders <br>Cuando visito la landing page de Lambders<br>Entonces espero encontrar una sección claramente visible titulada "Acerca de nosotros"<br>Y veo una descripción completa de Lambders<br>Y noto que se presentan los valores fundamentales de Akira, resaltando los principios éticos y la cultura empresarial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              	|
+| EP-01<br>(##5176440) 	| US-07         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.                                                                                 	| Escenario 1: Sección de aliados asiáticos en la landing page<br><br>Dado que soy un usuario interesado en los aliados asiáticos de Lambders<br>Cuando visito la landing page de Lambders<br>Entonces espero encontrar una sección dedicada a los aliados asiáticos de la empresa<br>Y veo una lista de empresas asiáticas reconocidas con las que Lambders ha establecido colaboraciones o asociaciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+| EP-01<br>(##5176440) 	| US-08         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.                            	| Escenario: Sección de contacto en la landing page de Akira<br>Dado que soy un usuario interesado en contactar con el equipo de Lambders<br>Cuando visito la landing page de Akira<br>Entonces espero encontrar una sección claramente visible titulada "Contacto"<br>Y veo la información de contacto, como la dirección de correo electrónico y el número de teléfono del equipo de Akira<br>Y encuentro enlaces o botones que me permitan acceder a las redes sociales de Akira para obtener más opciones de contacto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+| EP-01<br>(##5176440) 	| US-09         	| Accesibilidad de la página                          	| Como usuario, quiero una interfaz intuitiva y fácil de navegar para poder encontrar rápidamente los productos y opciones que me interesan.                                                                                                                                    	| Escenario 1: Interfaz intuitiva y fácil de utilizar<br><br>Dado que soy un usuario nuevo en el sitio web de Akira<br>Cuando ingreso a la página de inicio<br>Entonces puedo ver de manera clara y concisa los productos que ofrecen<br>Y encuentro secciones o pestañas distribuidas para cada categoría de productos<br>Y puedo comprender rápidamente la navegación y la disposición de los elementos en la interfaz<br><br>Escenario 2: Información detallada y accesible<br><br>Dado que soy un usuario en el sitio web de Akira<br>Cuando navego por las diferentes secciones de la interfaz<br>Entonces encuentro información detallada sobre los productos <br>Y puedo visualizar descripciones claras y concisas de cada producto<br>Y puedo ver imágenes que ilustran los productos de manera visualmente atractiva                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| EP-02<br>(##5176441) 	| US-10         	| Integración de sistema de registro/inicio de sesión 	| Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.                                                                                                                                                                        	| Escenario 1: Creando una nueva cuenta<br><br>Dado que soy un nuevo usuario en el sitio web de Akira<br>Cuando hago clic en el botón "Registrarse"<br>Entonces debería ser dirigido a la página de creación de cuenta<br>Y debería poder ingresar mis datos personales, como nombre, correo electrónico, contraseña<br>Y al enviar exitosamente, se debería crear mi cuenta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 	|
+| EP-02<br>(##5176441) 	| US-11         	| Integración de sistema de registro/inicio de sesión 	| Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira                                                                                                                                                                      	| Escenario 1: Iniciando sesión en la aplicación<br><br>Dado que soy un usuario registrado de Akira<br>Cuando hago clic en el botón "Iniciar sesión" e ingreso mis datos<br>Entonces la aplicación debería validar mis datos y otorgarme acceso a mi cuenta<br>Y debería ser redirigido al panel de control de mi cuenta o a la página principal de Akira                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+| EP-03<br>(##5176442) 	| US-12         	| Implementación de perfil de usuario                 	| Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.                                                                                                                                                                      	| Escenario 1: Actualizando información de la cuenta<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego hacia la sección de configuración de la cuenta<br>Entonces debería ver un formulario con mi información actual prellenada<br>Y debería poder editar los campos correspondientes para actualizar mi información<br>Y al guardar los cambios, mi información                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-03<br>(##5176442) 	| US-13         	| Implementación de perfil de usuario                 	| Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.                                                                                                                          	| Escenario 1: Accediendo a funciones importantes desde cualquier página<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego por cualquier página de la aplicación<br>Entonces debería tener acceso rápido a funciones importantes relacionadas con mi cuenta, como "Mi cuenta"<br>Y al hacer clic, debería ser redirigido a la página correspondiente sin problemas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+| EP-03<br>(##5176442) 	| US-14         	| Implementación de perfil de usuario                 	| Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma. 	| Escenario 1: Cerrando sesión en la cuenta<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando hago clic en la opción "Cerrar sesión" en cualquier página de la aplicación<br>Entonces debería ser redirigido a la página de inicio de sesión<br>Y debería recibir una confirmación de que mi sesión se ha cerrado correctamente                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	|
+| EP-03<br>(##5176442) 	| US-15         	| Implementación de perfil de usuario                 	| Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.                                                                                                                                                                                           	| Escenario 1: Visualizando información de la cuenta<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego hacia la sección de configuración de la cuenta o "Mi cuenta"<br>Entonces debería ver una página que muestre información detallada de mi cuenta, como nombre, dirección, información de contacto, etc.<br>Y la información debería ser precisa y reflejar los datos que he proporcionado durante la creación o actualización de mi cuenta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           	|
+| EP-03<br>(##5176442) 	| US-16         	| Implementación de perfil de usuario                 	| Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.                                                                                                                                                                           	| Escenario 1: Cambiando la contraseña de la cuenta<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego hacia la sección de configuración de la cuenta o "Mi cuenta"<br>Y selecciono la opción para cambiar mi contraseña<br>Entonces debería ver un formulario donde pueda ingresar mi contraseña actual y la nueva contraseña deseada<br>Y al guardar los cambios, mi contraseña debería actualizarse correctamente y ser válida para futuras sesiones de inicio de sesión                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                	|
+| EP-03<br>(##5176442) 	| US-17         	| Implementación de perfil de usuario                 	| Como usuario, quiero poder ver mi historial de compras, pedidos pendientes visualizar el estado de mis pedidos en mi perfil.                                                                                                                                                  	| Escenario 1: Visualizando historial de compras y pedidos<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego hacia la sección de historial de compras o pedidos en mi perfil<br>Entonces debería ver una lista de mis pedidos pendientes<br>Y para cada pedido, debería poder ver información relevante como el número de pedido, estado del pedido, detalles de los productos comprados, etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	|
+| EP-03<br>(##5176442) 	| US-18         	| Implementación de perfil de usuario                 	| Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.                                                                                                                                                	| Escenario 1: Eliminar permanentemente la cuenta<br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y selecciono la opción de eliminar permanentemente mi cuenta<br>Entonces se me muestra una confirmación para asegurarme de mi decisión<br>Y al confirmar, mi cuenta y todos mis datos asociados se eliminan de forma permanente de Akira                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| EP-04<br>(##5176443) 	| US-19         	| Búsqueda de productos y filtrado                    	| Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.                                                                                                                        	| Escenario 1: Buscar un producto por su nombre<br><br>Dado que soy un usuario en la página principal de Akira<br>Cuando ingreso el nombre de un producto en la barra de búsqueda<br>Y presiono el botón de búsqueda<br>Entonces se muestran los resultados de búsqueda relacionados con el nombre del producto ingresado<br>Y puedo ver los productos que coinciden con el nombre buscado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| EP-04<br>(##5176443) 	| US-20         	| Búsqueda de productos y filtrado                    	| Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente                                                                                                                              	| Escenario 1: Filtrar productos por categoría<br>Dado que soy un usuario en la página principal de Akira<br>Cuando selecciono una categoría específica de productos<br>Entonces se muestran solo los productos que pertenecen a esa categoría<br>Y puedo ver los productos filtrados según la categoría seleccionada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+| EP-05<br>(##5176444) 	| US-21         	| Categorización de productos                         	| Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.                                                                                                                                                                                             	| Escenario 1: Ver disponibilidad de un producto<br><br>Dado que soy un usuario en la página de un producto en Akira<br>Cuando visualizo la información del producto<br>Entonces puedo la cantidad de items disponibles por stock<br>Y puedo tomar una decisión informada sobre la compra en base a la disponibilidad mostrada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| EP-05<br>(##5176444) 	| US-22         	| Categorización de productos                         	| Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.                                                               	| Escenario 1: Ver información detallada del producto<br>Dado que soy un usuario en la página de un producto en Akira<br>Cuando visualizo la información del producto<br>Entonces puedo ver las especificaciones detalladas del producto <br>Y puedo ver fotos referenciales del producto para tener una idea clara de su apariencia, para tomar una decisión informada sobre la compra del producto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+| EP-06<br>(##5176445) 	| US-23         	| Proceso de compra                                   	| Como usuario, quiero poder agregar el producto a mi carrito de compras.                                                                                                                                                                                                       	| Escenario 1: Agregar producto al carrito<br>Dado que soy un usuario en la página de un producto en Akira<br>Cuando selecciono la opción de agregar el producto al carrito<br>Entonces el producto se añade exitosamente a mi carrito de compras<br>Y se muestra un mensaje de confirmación indicando que el producto fue agregado correctamente<br><br><br>Escenario 2: Verificar producto en el carrito<br>Dado que soy un usuario en la página de un producto en Akira<br>Cuando selecciono la opción de agregar el producto al carrito<br>Entonces puedo acceder a mi carrito de compras para verificar que el producto se encuentra en él<br>Y puedo ver la cantidad de unidades del producto que he agregado al carrito                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| EP-06<br>(##5176445) 	| US-24         	| Proceso de compra                                   	| Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.                                                                                                                                                          	| Escenario 1: Aumentar la cantidad de unidades del producto<br><br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando encuentro un producto en el carrito<br>Y selecciono la opción de aumentar la cantidad de unidades del producto<br>Entonces la cantidad de unidades del producto se incrementa en uno<br>Y el total del carrito de compras se actualiza automáticamente<br><br>Escenario 2: Disminuir la cantidad de unidades del producto<br><br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando encuentro un producto en el carrito<br>Y selecciono la opción de disminuir la cantidad de unidades del producto<br>Entonces la cantidad de unidades del producto se reduce en uno<br>Y el total del carrito de compras se actualiza automáticamente                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| EP-06<br>(##5176445) 	| US-25         	| Proceso de compra                                   	| Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.                                                                                                                                                                           	| Escenario 1: Ver resumen de productos en el carrito<br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando accedo a la página de resumen del carrito<br>Entonces se muestra un listado de todos los productos que he agregado al carrito<br>Y puedo ver detalles como el nombre del producto, la cantidad de unidades y el precio por unidad<br><br>Escenario 2: Calcular el total del carrito de compras<br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando accedo a la página de resumen del carrito<br>Entonces se muestra el total a pagar por todos los productos en el carrito<br>Y en costo de envío<br>Y puedo ver el total que debo pagar antes de proceder al pago                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 	|
+| EP-06<br>(##5176445) 	| US-26         	| Proceso de compra                                   	| Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.                       	| Escenario 1: Modificar la cantidad de unidades de un producto en el carrito<br><br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando encuentro un producto en el carrito<br>Y modifico la cantidad de unidades del producto<br>Entonces la cantidad de unidades del producto se actualiza según mi modificación<br>Y el total del carrito de compras se actualiza automáticamente<br><br>Escenario 2: Eliminar un producto del carrito<br><br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando encuentro un producto en el carrito<br>Y selecciono la opción de eliminar el producto<br>Entonces el producto se elimina por completo del carrito<br>Y el total del carrito de compras se actualiza automáticamente, excluyendo el producto eliminado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+| EP-06<br>(##5176445) 	| US-27         	| Proceso de compra                                   	| Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.                                                                                                                                                               	| Escenario 1: Modificar la dirección de envío<br><br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y selecciono la opción de modificar mi dirección de envío<br>Entonces se me permite editar mi dirección de envío<br>Y la dirección de envío en mi perfil se actualiza con la nueva dirección ingresada<br><br>Escenario 2: Verificar la dirección de envío modificada<br><br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y verifico la sección de dirección de envío<br>Entonces puedo confirmar que la dirección de envío se ha modificado correctamente<br>Y puedo asegurarme de que los futuros pedidos se enviarán a la nueva dirección especificada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-06<br>(##5176445) 	| US-28         	| Proceso de compra                                   	| Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.                                                                                                                                                           	| Escenario 1: Modificar el método de pago<br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y selecciono la opción de modificar mi método de pago<br>Entonces se me permite editar mi tarjeta de crédito o débito<br>Y el método de pago en mi perfil se actualiza con la nueva tarjeta seleccionada<br><br><br>Escenario 2: Verificar el método de pago modificado<br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y verifico la sección de métodos de pago<br>Entonces puedo confirmar que el método de pago se ha modificado correctamente<br>Y puedo asegurarme de que los futuros pagos se realizarán con la nueva tarjeta especificada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          	|
+| EP-06<br>(##5176445) 	| US-29         	| Proceso de compra                                   	| Como usuario, quiero recibir una confirmación de compra exitosa.                                                                                                                                                                                                              	| Escenario 1: Confirmación de compra exitosa<br>Dado que soy un usuario que ha realizado una compra en Akira<br>Cuando finalizo el proceso de pago<br>Entonces se muestra un mensaje de confirmación de compra exitosa<br><br>Escenario 2: Verificar el historial de pedidos<br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la sección de historial de pedidos en mi cuenta<br>Entonces puedo ver una lista de todos los pedidos que he realizado anteriormente<br>Y puedo seleccionar un pedido específico para ver los detalles y la confirmación de compra exitosa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| EP-06<br>(##5176445) 	| US-30         	| Proceso de compra                                   	| Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).                                                                                                                                   	| Escenario 1: Ver historial de pedidos<br>Dado que soy un usuario en Akira<br>Cuando accedo a la sección de historial de pedidos en mi cuenta<br>Entonces puedo ver una lista de todos los pedidos que he realizado anteriormente<br>Y puedo ver detalles como la fecha del pedido, los productos adquiridos, el precio por unidad y el total pagado<br><br>Escenario 2: Visualizar los detalles de un pedido específico<br><br>Dado que soy un usuario en Akira<br>Cuando accedo a la sección de historial de pedidos en mi cuenta<br>Y selecciono un pedido específico de la lista<br>Entonces se muestran los detalles completos del pedido, incluyendo los productos, las cantidades, el precio por unidad y el total pagado<br>Y puedo revisar los detalles del pedido para recordar la información y los productos adquiridos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-06<br>(##5176445) 	| US-31         	| Proceso de compra                                   	| Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.                                                                                                                                                                                  	| Escenario 1: Seguimiento del envío<br>Dado que soy un usuario que ha realizado un pedido en Akira<br>Cuando accedo a la sección de seguimiento de envío en mi cuenta<br>Entonces puedo ver el estado actual del envío de mis productos<br><br>Escenario 2: Notificaciones de actualización de envío<br>Dado que soy un usuario que ha realizado un pedido en Akira<br>Cuando se produce una actualización en el estado de envío de mis productos<br>Entonces recibo notificaciones o correos electrónicos informativos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	|
+| EP-07<br>(##5176446) 	| US-32         	| Contacto con Akira                                  	| Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.                                                                                             	| Escenario 1: Comunicación por correo electrónico<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando necesito ponerme en contacto con el servicio de atención al cliente<br>Entonces encuentro la dirección de correo electrónico proporcionada en la sección de contacto<br>Y envío un correo electrónico detallando mi consulta o problema<br><br>Escenario 2: Comunicación telefónica<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando necesito asistencia inmediata del servicio de atención al cliente<br>Entonces encuentro el número de teléfono proporcionado en la sección de contacto<br>Y llamo al número de teléfono para hablar directamente con un representante del servicio de atención al cliente<br>Y obtengo respuestas y soluciones a mis consultas o problemas de manera oportuna                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              	|
+| EP-07<br>(##5176446) 	| US-33         	| Contacto con Akira                                  	| Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.                                                                                                                                                             	| Escenario 1: Acceso a las redes sociales<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando quiero encontrar las redes sociales de la tienda<br>Entonces encuentro los iconos de las redes sociales en la página principal o en el pie de página del sitio web<br>Y hago clic en los iconos para acceder a las páginas de redes sociales de Akira                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
 
-| Epic / Story ID | Título                                                                                       | Descripción                                                                                                                                                                                                                                                                   | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Relacionado con (Epic ID) |
-|-----------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| #5164511        | Mayor accesibilidad al usuario                                                               | Como usuario quiero que las interfaces de la pagina me sean más accesibles ante alguna dificultad que tenga, para que pueda utilizar la página.                                                                                                                               | Escenario #1: El usuario intenta acceder a la página<br><br>Dado que el usuario se haya registrado e ingresado con su cuenta correspondiente.<br><br>Entonces será direccionado a la página principal, dispone de funcionalidades que le faciliten el caso de que la página falle al cargar o le genere fatiga por los colores de alto contraste.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | -                         |
-| #5164510        | Recuperación de cuenta                                                                       | Como usuario quiero que la pagina me de soluciones para recuperar mi cuenta.                                                                                                                                                                                                  | Escenario #1: El usuario intenta sin éxito recuperar<br><br>Dado que el usuario está en la página de inicio de sesión.<br><br>Cuando el usuario intenta poner las contraseñas que se acuerde dentro del espacio donde se escribe la contraseña, y no sean las correctas.<br><br>Entonces la página mostrará un mensaje diciendo “Que la contraseña que has ingresado es incorrecta” Y mostrará una opción para recuperar la contraseña.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | <br>-                     |
-| #5164504        | Búsqueda de productos                                                                        | Como usuario, quisiera tener funcionalidades que me permitan filtrar los productos, para buscar un producto deseado de manera más rápida y sencilla.                                                                                                                          | Escenario #1: El usuario intenta buscar su producto<br><br>Dado que el usuario se ingresa a la página correcta Y se encuentra en la pestaña de Productos<br><br>Cuando el usuario intenta buscar el producto deseado dentro del catálogo de todos los productos mediante los filtros de búsqueda.<br><br>Entonces podrá encontrar su producto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | -                         |
-| #5164492        | Gestión de la cuenta                                                                         | Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual de mi.                                                                                                                                                                | Escenario #1: El usuario intenta acceder a los ajustes de su perfil para configurar su información<br><br>Dado que se haya registrado e ingresado a su cuenta correctamente Y esté en la sección de “Ajuste de su perfil”<br><br>Cuando acceda a esa pestaña y modifique o agregue nueva información a su perfil<br><br>Entonces se podrá guardar y establecer los datos registrados.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | -                         |
-| #5164491        | Comprar un producto                                                                          | Como usuario, que me den funcionalidades, tales como: agregar más productos, ver especificaciones, videos o fotos referenciales del producto, etc. Para poder ayudar a tomar la decisión de comprar el producto                                                               | Escenario #1: El usuario opta en decidir comprar ese producto.<br>Dado que se haya registrado e ingresado en la página Y este en el catálogo de productos<br><br>Cuando busque el producto deseado y acceda a su descripción, fotos o videos referenciales.<br><br>Entonces el usuario podrá ver si ese producto es el adecuado o el que quería para hacer una buena compra.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | -                         |
-| #5163242        | Acceso a la página                                                                           | Como usuario, quisiera acceder a la página Akira para comprar un producto original y a un costo asequible.                                                                                                                                                                    | Escenario #1: Intento acceder a la página<br><br>Dado que me encuentre en el login de la página. <br><br>Cuando me registré con mi datos personales y mi correo electrónico en la página.<br><br>Entonces podré acceder de ahora en adelante a la página.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | -                         |
-| #185927573      | Elegir un método de envío de producto                                                        | Como usuario, quiero poder seleccionar diferentes opciones de envío, ver los costos asociados para elegir mejor opción que se adapte a mis necesidades                                                                                                                        | Escenario #1: Visualización clara de costos.<br>    Dado que deseó un producto<br>    Cuando lo encuentre<br>    Y pueda visualizar su costo<br> Entonces podré tomar una decisión<br><br>Scenario #2: Selección de método de envío.<br><br>    Dado que escogí el producto<br>    Cuando lo quiera ordenar.<br>Y tenga distintas opciones de envío<br>    Entonces podré elegir la que se adecúa a mis necesidades.<br><br>Scenario #3: Compatibilidad con necesidades y preferencias del usuario.<br><br>Dado que ya tengo el costo.<br>Y el método de envío<br>Entonces procedo a comprar el producto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | ##5164491                 |
-| #185954512      | Comprar con otro método de pago                                                              | Como usuario, quiero que me ofrezcan mas metodos de pago, para facilitar la compra de mi pedido                                                                                                                                                                               | Escenario #1: Seleccionar otro método de pago<br><br>    Dado que soy un usuario en la página de pago<br>    Cuando elijo la opción de "Otro método de pago" de la lista<br>    Y se me solicita ingresar los detalles del nuevo método<br>    Y proporcionó los detalles válidos del nuevo método de pago<br><br> Entonces <br>debería recibir una confirmación de que mi método de pago ha sido añadido exitosamente<br><br>Escenario #2: Realizar una compra exitosa con el nuevo método de pago<br><br>    Dado que soy un usuario con un método de pago adicional registrado<br>    Cuando selecciono productos, procedo a la página de pago <br>Y elijo el nuevo método<br>    Y completo el proceso de pago con éxito<br>    Entonces debería recibir una confirmación de mi compra y el método de pago utilizado<br><br>Scenario #3: Validación de detalles incorrectos del nuevo método de pago<br><br>Dado que soy un usuario en la página de pago y elijo el nuevo método<br>Cuando ingrese detalles incorrectos o inválidos del nuevo método de pago<br>Entonces debería recibir un mensaje de error que indique la necesidad de proporcionar detalles válidos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | ##5164491                 |
-| #185927599      | Implementar un “modo oscuro” para la aplicación                                              | Como usuario con sensibilidad a la luz, quiero que la página ofrezca una opción de modo oscuro para reducir la fatiga visual al navegar en entornos con poca luz                                                                                                              | Escenario #1: Configurar el “modo oscuro”<br><br>Dado que el usuario haya entra en la página <br>Y se encuentre en el apartado de Ajustes <br><br>Cuando le haya dado al botón de “Modo Oscuro”<br><br>Entonces se activará o se desactivará el Modo Oscuro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | ##5164511                 |
-| #185927604      | Subtitulos para videos                                                                       | Como usuario con discapacidad auditiva, quiero que los videos en la página tengan subtítulos precisos para poder comprender el contenido audiovisual.                                                                                                                         | Escenario #1: Activar subtitulos<br><br>Dado que soy un usuario con discapacidad auditiva y estoy reproduciendo un video en la página<br><br>Cuando el video tenga opción de activar subtítulos<br><br>Entonces los subtítulos deberán ser precisos, reflejando con exactitud el contenido de audio y proporcionando una comprensión completa del contenido del video.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | ##5164511                 |
-| #185927608      | Versión liviana o solo HTML                                                                  | Como usuario en un entorno con conexiones lentas, quiero que la página cargue de manera rápida y eficiente, minimizando el uso de elementos innecesarios que puedan ralentizar la carga.                                                                                      | Escenario #1: Activo la versión liviana o solo HTML.<br><br>Dado que soy un usuario en un entorno con conexiones lentas<br><br>Cuando acceda a la versión liviana o solo HTML de la página<br><br>Entonces debería recibir un mensaje claro que indique que se ha optado por la versión de carga rápida.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | ##5164511                 |
-| 185927618       | Descripción del producto                                                                     | Como usuario, quiero ver imágenes detalladas desde varios ángulos y una descripción completa para tomar una decisión informada de compra.                                                                                                                                     | Escenario #1: El usuario accede a un producto<br><br>Dado que he visto un producto que me gusta<br><br>Cuando entre a la página de especificaciones del producto<br><br>Entonces me mostrará fotos del producto, mostrando diferentes ángulos, y una breve descripción de este.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ##5164491                 |
-| #185954528      | Registro y monitoreo de compras al por mayor                                                 | Como usuario, quisiera tener un registro de mis pedidos, para conocer la cantidad, el costo o el estado de mi pedido                                                                                                                                                          | Escenario #1: El usuario accede a su historial de compras, habiendo realizado compras anteriores<br><br>Dado que esto en mi Perfil Y veo el apartado de “Historial”<br><br>Cuando acceda mediante su respectivo botón<br><br>Entonces me mostrará un registro de cada compra que he realizado, mostrando la información básica.<br><br><br>Escenario #2: El usuario accede a su historial de compras, sin haber tenido una compra realizada <br><br>Dado que esto en mi Perfil Y veo el apartado de “Historial”<br><br>Cuando acceda mediante su respectivo botón<br><br>Entonces se le mostrará un mensaje “No se encuentran compras registradas a su nombre”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ##5164491                 |
-|                 |                                                                                              |                                                                                                                                                                                                                                                                               | Escenario #1: Accede a mi dashboard actual de ventas<br><br>Dado que estoy mi perfil <br><br>Cuando <br>acceda a mi dashboard de este mes<br><br>Entonces podré visualizar las estadísticas con respecto a mis ventas, mostrando a detalle los productos más vendidos, los de mayor ganancia, menos vendidos, etc.<br><br>Escenario #2: Accede a mi dashboard actual de ventas.<br><br>Dado que estoy en mi perfil y veo la opción para ver mi dashboard.<br><br>Cuando acceda a mi dashboard del mes actual.<br><br>Entonces me mostrará una pestaña donde dirá “Usted no ha realizado ninguna venta este mes”.<br><br>Escenario #3: Accedo a mi dashboard, del mes pasado.<br><br>Dado que estoy en mi perfil Y vea la opción de ver mi dashboard<br><br>Cuando acceda a mi dashboard Y selecciona el botón para ver el dashboard del mes anterior<br><br>Entonces accederé a mi dashboard pasado de mis ventas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | ##5164492                 |
-| #185942341      | Cancelar pedidos en un plazo no mayor a 24h                                                  | Como vendedor, quiero poder cancelar los pedidos en un plazo no mayor a 24 horas después de haberlos efectuado en caso de ser necesario, para poder evitar caer en bancarrota si me doy cuenta que la cantidad pedida fue excesiva.                                           | Scenario 1: Aparición del botón para cancelar el pedido<br><br>Dado que el vendedor está en la ventana "Mis pedidos"<br>Y el vendedor ha realizado una compra previamente en un plazo no mayor a 24 horas<br><br>Cuando el vendedor de click en uno de los pedidos que haya realizado en un plazo no mayor a 24 horas <br><br>Entonces el sistema mostrará en una esquina de la información del pedido un botón para cancelar el pedido<br><br>Scenario 2: Confirmación de cancelación del pedido<br><br>Dado que el vendedor está en la ventana "Información del pedido"<br>Y el pedido correspondiente ha sido realizado en un plazo no mayor a 24 horas<br>Cuando el vendedor de click en el boton cancelar pedido<br>Entonces el sistema mostrará un diálogo de confirmación de cancelación del pedido<br><br>Scenario 3: Cancelación del pedido<br>Dado que el vendedor visualiza la ventana de confirmación de cancelación del pedido<br>Cuando el vendedor dé click en el botón "confirmar cancelación"<br>Entonces el sistema mostrará un diálogo que indique que el pedido ha sido cancelado, y cancelará el pedido<br><br>Scenario 4: Cancelación de la cancelación del pedido<br>Dado que el vendedor visualiza la ventana de confirmación de cancelación del pedido<br>Cuando el vendedor dé click en el botón "atrás"<br>Entonces el sistema cerrará la ventana de confirmación de cancelación del pedido                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | ##5164491                 |
-| #185942462      | Comprar productos al por mayor                                                               | Como vendedor, quiero poder solicitar un pedido al por mayor para poder abastecer mi tienda a un menor precio                                                                                                                                                                 | Scenario 1: Descuento por mayor<br><br><br><br><br><br><br><br>Dado que el vendedor está en la ventana del carrito<br><br><br><br>Y el vendedor ha elegido los productos que quiere comprar<br><br><br><br><br><br><br><br>Cuando el vendedor elija la cantidad a comprar de cada producto<br><br><br><br><br><br><br><br>Entonces el sistema aplicará de forma automática un descuento por compras al por mayor, si la cantidad solicitada excede un valor establecido individualmente por cada producto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | ##5164491                 |
-| #185942559      | Cambiar la cantidad de productos                                                             | Como comprador, quiero poder cambiar la cantidad de un producto desde la página de la tienda de ese producto                                                                                                                                                                  | Escenario #1: Aumento de la cantidad de unidades del producto a cambiar<br>Dado que el comprador está en la página de uno de los productos que le interesó<br>Y el comprador ha añadido el producto al carrito<br>Cuando el comprador de clico en el botón “+”<br>Entonces el sistema aumentará la cantidad del artículo a comprar en una unidad y actualizará el texto que muestra la cantidad de artículos de ese producto a comprar.<br>Escenario #2: Disminución de la cantidad de unidades del producto a cambiar<br>Dado que el comprador está en la página de uno de los productos que le interesó<br>Y el comprador ha añadido el producto al carrito<br>Cuando el comprador de clic en el botón “-”<br>Entonces el sistema reducirá la cantidad del artículo a comprar en una unidad y actualizará el texto que muestra la cantidad de artículos de ese producto a comprar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | ##5164491                 |
-| #185942565      | Agregar un producto al carrito                                                               | Como comprador, quiero poder agregar el producto que estoy buscando al carrito                                                                                                                                                                                                | Scenario 1: Adición del producto al carrito<br>Dado que el comprador está en la página de uno de los productos que le interesó<br>Cuando el comprador de click en el botón “Agregar al carrito”<br>Entonces el sistema cambiará el texto del botón “Agregar al carrito” por “Agregado al carrito”, y luego de un segundo, por el número de productos que fueron agregados al carrito, acompañado de un botón para aumentar el número, y otro para reducirlo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | ##5164491                 |
-| #185942706      | Búsqueda de artículos por franquicia / banda                                                 | Como comprador quiero poder filtrar los productos existentes de acuerdo a la franquicia o banda a la que pertenecen para poder encontrar los productos que busco más fácilmente                                                                                               | Scenario 1: Segmentación de franquicias y bandas disponibles según la búsqueda del usuario<br>Dado que el comprador se encuentra en la página principal<br>Y el comprador ha escrito el nombre del producto que está buscando en la barra de búsqueda<br>Cuando el comprador presione el botón “Buscar”<br>Entonces el sistema muestra una barra lateral al lado izquierdo de los resultados de búsqueda que contiene una lista con las franquicias o bandas a las que pertenecen los productos mostrados en pantalla<br>Scenario 2: Filtración de productos según la franquicia o banda<br>Dado que el comprador visualiza las franquicias y bandas disponibles a elegir tras haber realizado una búsqueda<br>Cuando el comprador elige una banda o franquicia de entre la lista de franquicias o bandas disponibles de acuerdo a su búsqueda<br>Entonces el sistema filtra los productos y quita todos aquellos que no pertenezcan a la banda o franquicia elegida por el usuario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | ##5164504                 |
-| #185942721      | Registro de usuario                                                                          | Como comprador quiero ser capaz de crear una cuenta para poder hacer compras de manera segura                                                                                                                                                                                 | Scenario 1: Registro exitoso<br>Dado que el comprador accede a la página de registro de cuenta<br>Y el comprador rellena los datos para poder registrarse<br>Y los datos no están repetidos<br>Cuando el comprador presione el botón de ‘Registrarse’<br>Entonces el sistema valida los datos, los registra en la base de datos, y muestra el mensaje "El registro fue exitoso"<br>Scenario 2: Registro fallido<br>Dado que el comprador accede a la página de registro de cuenta<br>Y el comprador rellena los datos para poder registrarse<br>Y los datos están repetidos<br>Cuando el comprador presione el botón ‘Crear Cuenta’<br>Entonces el sistema nota que los datos están repetidos, y muestra el mensaje "error, ya existe un usuario con el mismo [Nombre de campo].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ##5164504                 |
-| #185942759      | Iniciar sesión                                                                               | Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los pedidos que he realizado y hacer compras de manera segura.                                                                                                                               | Scenario 1: Inicio de sesión exitoso<br>Dado que el comprador accede a la página de inicio de sesión<br>Y el comprador rellena los campos "usuario" y "contraseña"<br>Y los datos son correctos<br>Cuando el comprador presione el botón de 'Iniciar Sesión'<br>Entonces el sistema valida los datos de inicio de sesión y permite al usuario iniciar sesión en la aplicación<br>Scenario 2: Inicio de sesión fallido<br>Dado que el comprador accede a la página de inicio de sesión<br>Y el comprador rellena los campos "usuario" y "contraseña"<br>Y los datos son incorrectos<br>Cuando el comprador presione el botón 'Iniciar Sesión'<br>Entonces el sistema valida los datos de inicio de sesión, nota que no son correctos o no han sido registrados previamente, y muestra el mensaje "El nombre de usuario o la contraseña no son válidos"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | ##5163242                 |
-| #185942843      | Acceso al menú “Opciones de la cuenta”                                                       | Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.                                                                                                                          | Scenario 1: Acceso a las opciones de la cuenta<br>Dado que el comprador está en cualquier página de la aplicación<br>Cuando el comprador de click en el icono de su perfil<br>Entonces el sistema mostrará el menú “Opciones de la Cuenta”, que contiene la foto de perfil del usuario, el nombre del usuario, y los botones Mi cuenta, Mis pedidos, y Cerrar sesión.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | ##5163242                 |
-| #185942862      | Cerrar sesión en la aplicación                                                               | Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma. | Scenario 1: Cierre de sesión<br>Dado que el usuario ha iniciado sesión en la aplicación<br>Y el comprador puede ver el menú de su perfil en la esquina superior derecha tras haberle dado clic<br>Cuando el comprador presione el botón 'Cerrar Sesión'<br>Entonces el sistema cierra la sesión del usuario y muestra la página de inicio de sesión.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | ##5164492                 |
-| #185942904      | Acceso a la información detallada de mi cuenta.                                              | Como comprador, quiero poder visualizar información detallada de mi cuenta para poder actualizar la información o darme de baja de la aplicación                                                                                                                              | Scenario 1: Acceso a “Mi cuenta”<br>Dado que el comprador está en cualquier página de la aplicación<br>Y el comprador ha iniciado sesión<br>Y el comprador tenga desplegado el menú “Opciones de la cuenta”<br>Cuando el comprador dé clic en el botón “Mi cuenta”<br>Entonces el sistema lo redirigirá a la página “Mi cuenta”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ##5164492                 |
-| #185942927      | Acceso al modo de edición de la información de mi cuenta                                     | Como comprador, quiero poder actualizar la información detallada de mi cuenta para poder cambiar los datos que tengo y mantenerlos al día.                                                                                                                                    | Scenario 1: Elección del dato a cambiar<br>Dado que el comprador está en la página de “Mi cuenta”<br>Cuando el comprador dé click en el botón “Editar Datos”<br>Entonces el sistema mostrará lápices al lado derecho de cada campo mostrado, excepto del usuario (Que no puede cambiarse) y la contraseña (Que se cambia con otro método, y debe salir con asteriscos).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | ##5164492                 |
-| #185943205      | Edición del nombre real de la cuenta                                                         | Como usuario, quiero poder actualizar el nombre con el que estoy registrado en la app, para que este nuevo nombre pueda recibir los pedidos y no el anterior.                                                                                                                 | Escenario 1: Cuadro de diálogo para el cambio del nombre<br>Dado que el usuario está en el modo “Edición de datos personales” de “Mi cuenta”<br>Cuando el usuario dé clic en el lápiz que está a la derecha de su nombre completo<br>Entonces el sistema mostrará un diálogo en el que puede insertar un nuevo nombre y apellido, y una advertencia bajo el cuadro para cambiar el nombre que dice que los pedidos sólo podrán ser entregados a la persona con ese nombre.<br>Escenario 2: Cambio del nombre<br>Dado que el usuario está en el cuadro de diálogo de edición de su nombre y apellido<br>Y el usuario inserta un nuevo nombre en el campo “Nuevo Nombre”<br>Y el fanático inserta un nuevo apellido en el campo “Nuevo Apellido”<br>Cuando el usuario dé clic en el botón “Confirmar cambio”<br>Entonces el sistema actualizará el nombre y apellido del usuario en la base de datos, y mostrará el mensaje “El cambio del nombre se ha efectuado con éxito”<br>Escenario 3: Nuevo nombre no existente<br>Dado que el usuario está en el cuadro de diálogo de edición del nombre y apellido<br>Y el usuario no ha insertado un nuevo nombre<br>Cuando el usuario dé clic en el botón “Confirmar cambio”<br>Entonces el sistema mostrará el mensaje “No ha insertado un nombre”<br>Escenario 4: Nuevo apellido no existente<br>Dado que el usuario está en el cuadro de diálogo de edición del nombre y apellido<br>Y el usuario no ha insertado un nuevo apellido<br>Cuando el usuario dé clic en el botón “Confirmar cambio”<br>Entonces el sistema mostrará el mensaje “No ha insertado un apellido”<br>Escenario 4: Cancelación del cambio del nombre<br>Dado que el usuario está en el cuadro de diálogo de edición del nombre<br>Cuando el usuario dé clic en el botón “Cancelar cambio”<br>Entonces el sistema cerrará el cuadro de diálogo de cambio de nombre del usuario                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ##5164492                 |
-| #185943295      | Edición del RUC de la cuenta                                                                 | Como vendedor, quiero poder actualizar el RUC de mi empresa para poder recibir mis pedidos en caso me haya fusionado con otra empresa y nuestros RUCs ahora se hayan unificado en uno diferente al que tenga registrado.                                                      | Escenario 1: Cuadro de diálogo para el cambio del RUC<br>Dado que el vendedor está en el modo “Edición de datos personales” de “Mi cuenta”<br>Cuando el vendedor dé click en el lápiz que está a la derecha de su RUC<br>Entonces el sistema mostrará un diálogo en el que puede insertar un nuevo RUC para la cuenta, y una advertencia bajo el cuadro para cambiar el nombre que dice que los pedidos sólo podrán ser entregados a la empresa con ese RUC.<br><br>Escenario 2: Cambio del RUC<br>Dado que el vendedor está en el cuadro de diálogo de edición del RUC<br>Y el vendedor inserta un nuevo RUC en el campo “Nuevo RUC”<br>Cuando el vendedor dé clic en el botón “Confirmar cambio”<br>Entonces el sistema actualizará el RUC de la empresa en la base de datos, y mostrará el mensaje “El cambio del RUC se ha efectuado con éxito”<br><br>Escenario 3: Nuevo RUC no existente o inválido<br>Dado que el vendedor está en el cuadro de diálogo de edición del RUC<br>Y el vendedor no ha insertado un nuevo RUC o ha insertado un RUC inválido en el campo “Nuevo RUC”<br>Cuando el vendedor dé clic en el botón “Confirmar cambio”<br>Entonces el sistema mostrará el mensaje “No ha insertado un RUC válido”<br><br>Escenario 4: Cancelación del cambio del RUC<br>Dado que el vendedor está en el cuadro de diálogo de edición del RUC<br>Cuando el vendedor dé clic en el botón “Cancelar cambio”<br>Entonces el sistema cerrará el cuadro de diálogo de cambio del RUC de la empresa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | ##5164492                 |
-| #185943360      | Edición de la razón social de la cuenta                                                      | Como vendedor, quiero poder actualizar la razón social de mi empresa para poder recibir mis pedidos en caso me haya fusionado con otra empresa y nuestra razón social haya cambiado.                                                                                          | Escenario 1: Cuadro de diálogo para el cambio de la razón social<br>Dado que el vendedor está en el modo “Edición de datos personales” de “Mi cuenta”<br>Cuando el vendedor dé clic en el lápiz que está a la derecha de su razón social<br>Entonces el sistema mostrará un diálogo en el que puede insertar una nueva razón social para la cuenta, y una advertencia bajo el cuadro para cambiar la razón social que dice que los pedidos sólo podrán ser entregados a la empresa con esa razón social.<br>Escenario 2: Cambio de la razón social<br>Dado que el vendedor está en el cuadro de diálogo de edición de la razón social<br>Y el vendedor inserta una nueva razón social en el campo “Nueva razón social”<br>Cuando el vendedor dé clic en el botón “Confirmar cambio”<br>Entonces el sistema actualizará la razón social de la empresa en la base de datos, y mostrará el mensaje “El cambio de la razón social se ha efectuado con éxito”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | ##5164492                 |
-| #185943382      | Recibir correo de cambio de contraseña                                                       | Como usuario quiero recibir un correo para cambiar mi contraseña para que sea más fácil recordarla.                                                                                                                                                                           | Escenario 3: Nueva razón social no existente<br>Dado que el vendedor está en el cuadro de diálogo de edición de la razón social<br>Y el vendedor no ha insertado una nueva razón social en el campo “Nueva razón social”<br>Cuando el vendedor dé clic en el botón “Confirmar cambio”<br>Entonces el sistema mostrará el mensaje “No ha insertado una nueva razón social para la empresa”<br>Escenario 4: Cancelación del cambio de la razón social<br>Dado que el vendedor está en el cuadro de diálogo de edición de la razón social<br>Cuando el vendedor dé clic en el botón “Cancelar cambio”<br>Entonces el sistema cerrará el cuadro de diálogo de cambio de la razón social de la empresa.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | ##5164492                 |
-| #185943419      | Acceso a la página para recuperar mi contraseña                                              | Como usuario quiero ser capaz de acceder a una página para cambiar mi contraseña en caso la haya olvidado.                                                                                                                                                                    | Escenario 1: envío de correo de cambio de contraseña exitoso<br>Dado que el comprador ha iniciado sesión en su cuenta de Akira<br>Y el comprador ha ingresado a la sección “Mi cuenta”<br>Cuando el comprador presione el botón “Cambiar contraseña”<br>Entonces el sistema envía un correo electrónico de cambio de contraseña al correo del usuario y lo redirige a la página de cambio de contraseña de su cuenta.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | ##5164510                 |
-| #185943439      | Recibir correo de cambio de contraseña para recuperar la cuenta                              | Como usuario quiero recibir un correo para cambiar mi contraseña si la he olvidado.                                                                                                                                                                                           | Scenario 1: Redirección a la página de recuperación de contraseña<br>Dado que el comprador accede a la página de inicio de sesión<br>Cuando el usuario presione el botón '¿Olvidaste tu contraseña?'<br>Entonces el sistema redirecciona al usuario a la página de recuperación de la contraseña                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ##5164492                 |
-| #185943507      | Cambio de contraseña                                                                         | Como Usuario quiero poder cambiar mi contraseña para poder recuperar el acceso a mi cuenta.                                                                                                                                                                                   | Escenario 1: Código de cambio de contraseña válido<br>Dado que el comprador está en la página de cambio de contraseña de su cuenta para la cual le solicitan un código de cambio de contraseña<br>Y el comprador ha recibido un correo de cambio de contraseña<br>Y el comprador ha copiado el código de cambio de contraseña enviado a su correo en el campo “Código de cambio de contraseña” de la página web<br>Y el comprador ha insertado una nueva contraseña para su cuenta en el campo “Nueva contraseña”<br>Cuando el comprador presione el botón 'Cambiar la contraseña'<br>Entonces el sistema valida que el código sea correcto, cambia la contraseña del usuario en la base de datos, fija el valor “intentos fallidos” a 0, y muestra el mensaje “La contraseña ha sido cambiada satisfactoriamente”.<br>Escenario 2: Contraseña no existente<br>Dado que el comprador está en la página de cambio de contraseña de su cuenta para la cual le solicitan un código de cambio de contraseña<br>Y el comprador no ha insertado una nueva contraseña para su cuenta<br>Cuando el comprador presione el botón 'Cambiar la contraseña'<br>Entonces el sistema muestra el mensaje “No ha insertado una nueva contraseña para su cuenta”.<br>Escenario 3: Código de cambio de contraseña no existente<br>Dado que el comprador está en la página de cambio de contraseña de su cuenta para la cual le solicitan un código de cambio de contraseña<br>Y el comprador no ha insertado el código de validación de cambio de contraseña<br>Cuando el comprador presione el botón 'Cambiar la contraseña'<br>Entonces el sistema muestra el mensaje “No ha insertado el código de validación de cambio de contraseña”.<br>Escenario 4: Código de cambio de contraseña inválido y número de intentos no superado<br>Dado que el comprador está en la página de cambio de contraseña de su cuenta para la cual le solicitan un código de cambio de contraseña<br>Y el comprador ha insertado un número incorrecto en el campo “Código de cambio de contraseña” de la página web<br>Y el comprador ha insertado una nueva contraseña para su cuenta en el campo “Nueva contraseña”<br>Cuando el comprador presione el botón 'Cambiar la contraseña'<br>Entonces el sistema mostrará el mensaje “el código de cambio de contraseña no es válido”, y sumará una unidad al valor “intentos fallidos” (Esta acción solo se realizará en este Escenario)<br>Escenario 5: Número de intentos superado<br>Dado que el comprador está en la página de cambio de contraseña de su cuenta para la cual le solicitan un código de cambio de contraseña<br>Y el valor “intentos fallidos” ha superado los 5 intentos<br>Cuando el comprador presione el botón 'Cambiar la contraseña'<br>Entonces el sistema mostrará el mensaje “Ha superado el número de intentos para insertar un código válido. La función de cambio de contraseña de su cuenta será bloqueada por 24 horas”, el sistema fijará el valor “intentos fallidos a 0”, y bloqueará el acceso al cambio de contraseña de la cuenta por 24 horas | 5164492                   |
-| #185943552      | Solicitud de Eliminación de la cuenta                                                        | Como usuario, quiero poder eliminar mi cuenta para dejar de utilizar la aplicación.                                                                                                                                                                                           | Como usuario, quiero poder eliminar mi cuenta para dejar de utilizar la aplicación.<br><br>Escenario 1: Eliminación fallida por pedido pendiente de entrega<br>Dado que el comprador está en la sección de “Mi cuenta”<br>Y el comprador ha realizado una compra previamente que aún está pendiente de ser entregada<br>Cuando el vendedor elija la opción 'Eliminar la cuenta'<br>Entonces el sistema muestra el mensaje “No puedes eliminar tu cuenta hasta haber recibido todos los pedidos que has encargado”<br><br>Escenario 2: Cuadro de diálogo de confirmación de eliminación<br>Dado que el comprador está en la sección de “Mi cuenta”<br>Y el comprador no tiene ningún pedido pendiente de entrega<br>Cuando el vendedor elija la opción 'Eliminar la cuenta'<br>Entonces el sistema muestra un diálogo de confirmación con el texto “¿Está seguro que desea eliminar su cuenta?” y  los botones “Si” y “No” en él.<br><br>Escenario 3: Solicitud de eliminación confirmada<br>Dado que el comprador visualiza el cuadro de diálogo de confirmación de eliminación de la cuenta<br>Cuando el vendedor elija la opción 'Si'<br>Entonces el sistema muestra el mensaje “La solicitud de eliminación de la cuenta ha sido recibida, su cuenta será eliminada en un plazo de 48 horas.”, envía un correo al usuario notificando la solicitud de eliminación, y establece un temporizador para eliminar la cuenta en un plazo de 48 horas<br><br>Escenario 4: Solicitud de eliminación de cuenta cancelada<br>Dado que el comprador visualiza el cuadro de diálogo de confirmación de eliminación de la cuenta<br>Cuando el vendedor elija la opción 'No'<br>Entonces el sistema cierra el cuadro de diálogo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | ##5164492                 |
-| #185943559      | Cancelación de Eliminación de la cuenta                                                      | Como usuario, quiero poder cancelar la eliminación de mi cuenta para poder seguir usándola si me di cuenta que eliminarla fue un error.                                                                                                                                       | Escenario 1: Eliminación cancelada<br>Dado que el comprador está en la sección de “Mi cuenta”<br>Y el comprador ha realizado una solicitud de eliminación de la cuenta<br>Cuando el vendedor elija la opción 'Cancelar eliminación de la cuenta'<br>Entonces el sistema muestra el mensaje “La eliminación de la cuenta ha sido cancelada” y cancela la eliminación de la cuenta.<br><br>Escenario 1: Búsqueda satisfactoria<br>Dado que el comprador accede a la barra de búsqueda para buscar un producto por su nombre<br>Y el usuario escribe el nombre del producto que desea buscar<br>Y existe al menos un producto en la base de datos con un nombre similar al que el usuario escribió<br>Cuando el comprador presione el botón de ‘Buscar’ <br>Entonces el sistema muestra todos los resultados que coincidan con el nombre, y muestra en una barra a la izquierda las distintas categorías que poseen los productos que coinciden con el nombre solicitado por el usuario<br><br>Escenario 1: Búsqueda fallida<br>Dado que el comprador accede a la barra de búsqueda para buscar un producto por su nombre<br>Y el usuario escribe el nombre del producto que desea buscar<br>Y no existe ningún producto en la base de datos con un nombre parecido<br>Cuando el comprador presione el botón de ‘Buscar’ <br>Entonces el sistema muestra el mensaje “Lo sentimos, no hemos encontrado un producto relacionado a su búsqueda”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | ##5164492                 |
-| #185943616      | Búsqueda de productos por nombre                                                             | Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.                                                                                                                        | Escenario 1: Búsqueda satisfactoria<br>Dado que el comprador accede a la barra de búsqueda para buscar un producto por su nombre<br>Y el usuario escribe el nombre del producto que desea buscar<br>Y existe al menos un producto en la base de datos con un nombre similar al que el usuario escribió<br>Cuando el comprador presione el botón de ‘Buscar’ <br>Entonces el sistema muestra todos los resultados que coincidan con el nombre, y muestra en una barra a la izquierda las distintas categorías que poseen los productos que coinciden con el nombre solicitado por el usuario<br><br>Escenario 1: Búsqueda fallida<br>Dado que el comprador accede a la barra de búsqueda para buscar un producto por su nombre<br>Y el usuario escribe el nombre del producto que desea buscar<br>Y no existe ningún producto en la base de datos con un nombre parecido<br>Cuando el comprador presione el botón de ‘Buscar’ <br>Entonces el sistema muestra el mensaje “Lo sentimos, no hemos encontrado un producto relacionado a su búsqueda”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ##5164504                 |
-| #185943632      | Filtros de búsqueda personalizados según las diferentes categorías de artículos en la tienda | Como usuario quiero un filtro de búsqueda que me permita filtrar los productos por categoría para poder encontrar los productos que busco más fácilmente                                                                                                                      | Escenario 1: Segmentación de categorías por productos<br>Dado que el comprador se encuentra en la página principal<br>Y el comprador ha escrito el nombre del producto que está buscando en la barra de búsqueda<br>Cuando el comprador presione el botón “Buscar”<br>Entonces el sistema mostrará en una barra a la izquierda de los resultados de búsqueda la lista de categorías que tienen dichos productos (Búsqueda de todas las categorías contenidas en alguno de los productos que coincidan con el nombre)<br>Escenario 2: Segmentación de productos por categorías<br>Dado que el comprador busca un producto de acuerdo a su nombre<br>Y el sistema le devuelve la lista de productos disponibles con un nombre similar, y la lista de categorías a las que dichos productos pertenecen<br>Cuando el comprador presione alguna de las categorías disponibles<br>Entonces el sistema quitara de la sección de productos disponibles todos los productos que no contengan la categoría elegida por el usuario<br>Escenario 3: actualización de filtros disponibles<br>Dado que el comprador ha seleccionado una categoría en la sección de búsquedas de productos<br>Cuando el sistema filtre los productos y muestre solo los que coinciden con la categoría seleccionada por el usuario<br>Entonces el sistema actualizará la lista de categorías que el usuario puede elegir para refinar la búsqueda, de acuerdo a las categorías que tengan los productos que queden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 5164504                   |
-| #185943643      | Búsqueda de artículos por precio                                                             | Como usuario  quiero poder filtrar los productos existentes de acuerdo a su precio para poder encontrar los productos que busco más fácilmente.                                                                                                                               | Escenario 1: Creación de la barra de selección de precio<br>Dado que el comprador se encuentra en la página principal<br>Y el comprador ha escrito el nombre del producto que está buscando en la barra de búsqueda<br>Cuando el comprador presione el botón “Buscar”<br>Entonces el sistema muestra una barra lateral al lado izquierdo de los resultados de búsqueda que contiene un deslizador cuyo rango comprende desde el precio más bajo hasta el precio más alto de los productos devueltos por la búsqueda (Búsqueda del mínimo y el máximo precio, orden de productos por precio)<br><br>Escenario 2: Filtración de productos según el precio<br>Dado que el comprador visualiza la barra de selección de rango de precios, con un control deslizante al inicio y al final de la barra tras haber realizado una búsqueda<br>Cuando el comprador deslice uno de los dos controles deslizantes de la barra de filtración de precio para ajustar un nuevo precio mínimo o máximo<br>Entonces el sistema filtra los productos cuyo precio se encuentra entre el nuevo mínimo y máximo elegido por el usuario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | ##5164504                 |
+
 
 
 
@@ -1382,8 +1555,7 @@ ___
 
 Link del miro: https://miro.com/app/board/uXjVMpj6i0M=/
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/23.5.%20Impact%20Mapping.jpg)
-
+![Alt text](img/image-78.png)
 
 <br><br>
 ___
@@ -1391,40 +1563,67 @@ ___
 
 ## 3.4. Product Backlog
 
-| # Orden | User Story ID | Título | Descripción | Story Points (1,2,3) |
-|---|---|---|---|---|
-| 1 | #185954528 | Registro y monitoreo de compras al por mayor | Como usuario, quisiera tener un registro de mis pedidos, para conocer la cantidad, el costo o el estado de mi pedido. | 3 |
-| 2 | #185942313 | Realizar seguimiento del envío de productos | Como vendedor, quiero poder revisar el progreso del envío de los productos que he solicitado, y saber en donde se encuentran, para saber si es un buen momento para empezar a realizar preventas, y para saber que mis productos realmente están viniendo hacia mi tienda. | 3 |
-| 3 | #185942341 | Cancelar pedidos en un plazo no mayor a 24h | Como vendedor, quiero poder cancelar los pedidos en un plazo no mayor a 24 horas después de haberlos efectuado en caso de ser necesario, para poder evitar caer en bancarrota si me doy cuenta que la cantidad pedida fue excesiva. | 3 |
-| 4 | #185954512 | Comprar con otro método de pago | Como usuario, quiero que me ofrezcan más métodos de pago, para facilitar la compra de mi pedido. | 3 |
-| 5 | #185942426 | Estadísticas de ventas (dashboard) | Como vendedor, quiero contar con un dashboard de mis ventas, para informar sobre qué productos puedo vender más. | 3 |
-| 6 | #185942927 | Acceso al modo de edición de la información de mi cuenta | Como comprador, quiero poder actualizar la información detallada de mi cuenta para poder cambiar los datos que tengo y mantenerlos al día. | 3 |
-| 7 | #185942904 | Acceso a la información detallada de mi cuenta | Como comprador, quiero poder visualizar información detallada de mi cuenta para poder actualizar la información o darme de baja de la aplicación. | 3 |
-| 8 | #185943559 | Cancelación de Eliminación de la cuenta | Como usuario, quiero poder cancelar la eliminación de mi cuenta para poder seguir usándola si me di cuenta que eliminarla fue un error. | 3 |
-| 9 | #185942706 | Búsqueda de artículos por franquicia / banda | Como comprador quiero poder filtrar los productos existentes de acuerdo a la franquicia o banda a la que pertenecen para poder encontrar los productos que busco más fácilmente. | 3 |
-| 10 | #185942721 | Registro de usuario  | Como comprador quiero ser capaz de crear una cuenta para poder hacer compras de manera segura. | 3 |
-| 11 | #185942759 | Iniciar sesión | Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los pedidos que he realizado y hacer compras de manera segura. | 2 |
-| 12 | #185942843 | Acceso al menú “Opciones de la cuenta” | Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación. | 2 |
-| 13 | #185942862 | Cerrar sesión en la aplicación | Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma. | 2 |
-| 14 | #185943643 | Búsqueda de artículos por precio | Como usuario quiero poder filtrar los productos existentes de acuerdo a su precio para poder encontrar los productos que busco más fácilmente. | 2 |
-| 15 | #185943616 | Búsqueda de productos por nombre | Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente. | 2 |
-| 16 | #185943632 | Filtros de búsqueda personalizados según las diferentes categorías de artículos en la tienda | Como usuario quiero un filtro de búsqueda que me permita filtrar los productos por categoría para poder encontrar los productos que busco más fácilmente. | 2 |
-| 17 | #185942565 | Agregar un producto al carrito | Como comprador, quiero poder agregar el producto que estoy buscando al carrito. | 2 |
-| 18 | #185943295 | Edición del RUC de la cuenta | Como vendedor, quiero poder actualizar el RUC de mi empresa para poder recibir mis pedidos en caso me haya fusionado con otra empresa y nuestros RUCs ahora se hayan unificado en uno diferente al que tenga registrado. | 2 |
-| 19 | #185943382 | Recibir correo de cambio de contraseña | Como usuario quiero recibir un correo para cambiar mi contraseña para que sea más fácil recordarla.| 2 |
-| 20 | #185943360 | Edición de la razón social de la cuenta | Como vendedor, quiero poder actualizar la razón social de mi empresa para poder recibir mis pedidos en caso me haya fusionado con otra empresa y nuestra razón social haya cambiado. | 2 |
-| 21 | #185943507 | Cambio de contraseña | Como Usuario quiero poder cambiar mi contraseña para poder recuperar el acceso a mi cuenta. | 2 |
-| 22 | #185943419 | Acceso a la página para recuperar mi contraseña | Como usuario quiero ser capaz de acceder a una página para cambiar mi contraseña en caso la haya olvidado. | 2 |
-| 23 | #185927608 | Versión liviana o solo HTML | Como usuario en un entorno con conexiones lentas, quiero que la página cargue de manera rápida y eficiente, minimizando el uso de elementos innecesarios que puedan ralentizar la carga. | 1 |
-| 24 | #185927604 | Subtítulos para videos | Como usuario con discapacidad auditiva, quiero que los videos en la página tengan subtítulos precisos para poder comprender el contenido audiovisual. | 1 |
-| 25 | #185927599 | Implementar un “modo oscuro” para la aplicación | Como usuario con sensibilidad a la luz, quiero que la página ofrezca una opción de modo oscuro para reducir la fatiga visual al navegar en entornos con poca luz. | 1 |
-| 26 | #185927573 | Elegir un método de envío de producto | Como usuario, quiero poder seleccionar diferentes opciones de envío y ver los costos asociados para elegir mejor opción que se adapte a mis necesidades. | 1 |
-| 27 | #185927618 | Descripción del producto | Como usuario, quiero ver imágenes detalladas desde varios ángulos y una descripción completa para tomar una decisión informada de compra. | 1 |
-| 28 | #185942462 | Comprar productos al por mayor | Como vendedor, quiero poder solicitar un pedido al por mayor para poder abastecer mi tienda a un menor precio. | 1 |
-| 29 | #185942559 | Cambiar la cantidad de productos | Como comprador, quiero poder cambiar la cantidad de un producto desde la página de la tienda de ese producto. | 1 |
-| 30 | #185943552 | Solicitud de Eliminación de la cuenta | Como usuario, quiero poder eliminar mi cuenta para dejar de utilizar la aplicación. | 1 |
-| 31 | #185943439 | Recibir correo de cambio de contraseña para recuperar la cuenta | Como usuario quiero recibir un correo para cambiar mi contraseña si la he olvidado. | 1 |
-| 32 | #185943205 | Edición del nombre real de la cuenta | Como usuario, quiero poder actualizar el nombre con el que estoy registrado en la app, para que este nuevo nombre pueda recibir los pedidos y no el anterior. | 1 |
+Product Backlog en Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2678604 
+
+Visualizamos la creación de nuestros 7 Epics y 33 User Stories.
+![Alt text](img/image-79.png)
+
+
+Con el transcurso del desarollo de los sprints, se fueron iniciando todos los user stories
+![Alt text](img/image-80.png)
+
+
+Para finalmente culminar con la implementación de todo nuestro Product Backlog (sprint 1 y 2).
+![Alt text](img/image-81.png)
+
+Vemos un total de 71 Story Points y un velocity aproximado de 10 pts (Lambders tiene la capacidad de desarrollar 10 story points por sprint).
+![Alt text](img/image-82.png)
+
+
+Se muestra la tabla generada de Product Backlog:
+
+| Orden | User Story ID | Título                                    | Descripción                                                                                                                                                                                           | Story Points |
+|-------|--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1     | US-01        | Accesibilidad de la página               | Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.                                                                  | 3            |
+| 2     | US-02        | Accesibilidad de la página               | Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.                                                          | 3            |
+| 3     | US-03        | Accesibilidad de la página               | Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.                                                                                     | 3            |
+| 4     | US-04        | Accesibilidad de la página               | Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.                           | 2            |
+| 5     | US-05        | Accesibilidad de la página               | Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello. | 1            |
+| 6     | US-06        | Accesibilidad de la página               | Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.   | 2            |
+| 7     | US-07        | Accesibilidad de la página               | Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.         | 1            |
+| 8     | US-08        | Accesibilidad de la página               | Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas. | 2            |
+| 9     | US-09        | Accesibilidad de la página               | Como usuario, quiero una interfaz intuitiva y fácil de navegar para poder encontrar rápidamente los productos y opciones que me interesan.                                                               | 2            |
+| 10    | US-10        | Integración de sistema de registro/inicio de sesión | Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.                                                                                              | 3            |
+| 11    | US-11        | Integración de sistema de registro/inicio de sesión | Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira.                                                                                         | 2            |
+| 12    | US-12        | Implementación de perfil de usuario       | Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.                                                                                          | 2            |
+| 13    | US-13        | Implementación de perfil de usuario       | Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.                                                      | 1            |
+| 14    | US-14        | Implementación de perfil de usuario       | Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma. | 3            |
+| 15    | US-15        | Implementación de perfil de usuario       | Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.                                                                                                                 | 2            |
+| 16    | US-16        | Implementación de perfil de usuario       | Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.                                                                                                  | 2            |
+| 17    | US-17        | Implementación de perfil de usuario       | Como usuario, quiero poder ver mi historial de compras, pedidos pendientes visualizar el estado de mis pedidos en mi perfil.                                                                        | 3            |
+| 18    | US-18        | Implementación de perfil de usuario       | Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.                                                                      | 2            |
+| 19    | US-19        | Búsqueda de productos y filtrado         | Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.                                                   | 3            |
+| 20    | US-20        | Búsqueda de productos y filtrado         | Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente.                                                     | 3            |
+| 21    | US-21        | Categorización de productos               | Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.                                                                                                                     | 3            |
+| 22    | US-22        | Categorización de productos               | Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.                  | 3            |
+| 23    | US-23        | Proceso de compra                         | Como usuario, quiero poder agregar el producto a mi carrito de compras.                                                                                                                               | 3            |
+| 24    | US-24        | Proceso de compra                         | Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.                                                                             | 2            |
+| 25    | US-25        | Proceso de compra                         | Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.                                                                                                | 2            |
+| 26    | US-26        | Proceso de compra                         | Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.                                                         | 3            |
+| 27    | US-27        | Proceso de compra                         | Como usuario, quiero tener la opción modificar mi dirección de envío por si deseo que este llegue a otro lugar.                                                                                  | 2            |
+| 28    | US-28        | Proceso de compra                         | Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.                                                                             | 2            | 
+| 29    | US-29        | Proceso de compra                                | Como usuario, quiero recibir una confirmación de compra exitosa.                                                                                                             | 1            |
+| 30    | US-30        | Proceso de compra                                | Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).                                     | 3            |
+| 31    | US-31        | Proceso de compra                                | Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.                                                                                   | 2            |
+| 32    | US-32        | Contacto con Akira                              | Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono. | 2            |
+| 33    | US-33        | Contacto con Akira                              | Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.                                                            | 1            |
+
+
+
+
+
+
+
 
 
 <br><br>
@@ -1441,10 +1640,9 @@ ___
 
 **Logotipos**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/24.%20Logo%20Akira%20Vertical.png)
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/25.%20Logo%20Akira%20Horizontal.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/26.%20Logo%20Akira%20Cabeza.png)
+![Alt text](img/image-83.png)
+![Alt text](img/image-84.png)
+![Alt text](img/image-85.png)
 
 <br><br>
 
@@ -1458,8 +1656,7 @@ Esta fuente es moderna, legible y versátil. La elegimos ya que su estilo limpio
 <br><br>
 
 **Paleta de colores**
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/27.%20Paleta%20de%20Colores.png)
+![Alt text](img/image-86.png)
 
 **Significado de Paleta de color:**
 
@@ -1475,16 +1672,14 @@ ___
 
 **Tamaño de pantalla Web: tamaño**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/28.%20Pantalla%20Web.png)
-
+![Alt text](img/image-87.png)
 Referencia de tamaño: 1440 x 1024
 
 <br>
 
 **Paleta de colores**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/27.%20Paleta%20de%20Colores.png)
-
+![Alt text](img/image-88.png)
 
 <br><br>
 
@@ -1506,30 +1701,44 @@ Referencia de tamaño: 1440 x 1024
 
 **Input Text:**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/29.%20Inputs.png)
+![Alt text](img/image-90.png)
+![Alt text](img/image-91.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/30.%20Inputs.png)
+![Alt text](img/image-92.png)
+
+![Alt text](img/image-93.png)
+
+
+
+
+
 
 
 <br><br>
 
 **Despliegues:**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/31.%20Seleccion%20de%20opciones.png)
+![Alt text](img/image-94.png)
+![Alt text](img/image-95.png)
+![Alt text](img/image-96.png)
+![Alt text](img/image-97.png)
+
+
+
+
+
 
 
 <br><br>
 
 **Botones:**
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/32.%20Botones.PNG)
+![Alt text](img/image-101.png)
 
 
 <br><br>
 
 **Extras:**
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/33.%20Elementos%20Extra.PNG)
+![Alt text](img/image-102.png)
 
 
 <br><br>
@@ -1546,8 +1755,7 @@ https://miro.com/app/board/uXjVPTYasuY=/#tpicker-content
 
 Como equipo hemos decidido utilizar una estructura jerárquica (visual hierarchy) tanto para la app como para la página web con el objetivo de lograr una experiencia de usuario satisfactoria. La estructura será para ambos segmentos objetivos:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/34.%20Organization%20system%20Fanaticos.png)
-
+![Alt text](img/image-103.png)
 <br><br>
 ___
 <br>
@@ -1555,14 +1763,11 @@ ___
 ## 4.2.2. Labeling Systems
 
 Nuestro sistema de etiquetado dentro del navbar consta de dos apartados, primero explicaremos la parte visual que el usuario puede ver directamente cuando entra a la página web. Está compuesta por un hamburger icon que desplegará el segundo apartado del sistema de etiquetado, una etiqueta de “Contáctanos” para que el usuario pueda acceder a nuestro número, correo y redes sociales, el carrito de compras del usuario y el botón de perfil de usuario. Además, en ciertas pestañas, se visualiza el input “Buscar”, para que el usuario pueda buscar un producto dentro de toda la plataforma Akira.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/36.%20Labeling%20System.png)
-
+![Alt text](img/image-104.png)
 <br>
 
 El segundo apartado se muestra cuando el usuario le da click al hamburger icon del navbar, el cual contiene las etiquetas K-Pop, Anime, Lectura, New Ingresos, Lo más Top, Preguntas Frecuentes y Contáctanos.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/37.%20Labeling%20System.png)
+![Alt text](img/image-105.png)
 
 <br><br>
 ___
@@ -1580,7 +1785,7 @@ Meta Description Tag
 
 - "Explora Akira, donde encontrarás una amplia selección de productos de entretenimiento asiático, desde kpop hasta anime y mangas. Encuentra tus artistas favoritos, los últimos lanzamientos y coleccionables exclusivos. ¡Explora el mundo del entretenimiento asiático con Akira, la tienda de Lambders.".
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/38.%20SEO%20Tags%20and%20meta%20tags.png)
+![Alt text](img/image-106.png)
 
 Figura: Ejemplo de aplicación de los SEO Tags
 
@@ -1602,10 +1807,8 @@ ___
 
 El sistema de búsqueda se basa en un input de Buscar, donde el usuario podrá ingresar el nombre de algún producto que esté buscando o el nombre de algun anime, grupo de k-pop o relacionado, para luego proceder a darle la tecla enter o presionar la lupa en la zona derecha del input para proceder con la búsqueda. Asimismo, al realizar la búsqueda, se maneja un sistema de filtros de búsqueda, donde el usuario podrá seleccionar el tipo de producto que está buscando, o el artista de su interés. Este filtro se modificará dependiendo a qué rubro de Akira le pertenece la búsqueda del usuario (Anime, K-Pop o Lectura).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/39.%20Searching%20Systems.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/40.%20Searching%20Systems.png)
-
+![Alt text](img/image-107.png)
+![Alt text](img/image-108.png)
 
 <br><br>
 ___
@@ -2982,25 +3185,28 @@ ___
 
 ## 4.5. Web Applications Prototyping
 
+Desarrollamos nuestros prototipados en la herramienta Figma, la cual también nos ayudó a diseñar Wireframes y Mock-Ups de la vista Web y Móvil.
+
 Link de Figma
 
 https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/227.%20Prototype%20Figma.png)
+![Alt text](img/image-109.png)
+
+En el siguiente video, mostramos la visualización de nuestro prototipado Web, ejecutado en Figma. Apreciamos todas las funcionalidades de Akira.
+
+[upc-pre-202302-si729-ws52-lambders-web-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EaAWfXkVraVKiB1JAaHffIwBFcuzi5YuXJJ6ZIPOnwvdpw?e=hzgQwh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+![Alt text](img/image-110.png)
 
 
-URL video de prototipado Landing Page:
-
-[www.com upc-pre-202302-si730-ws51-lambders-web-prototype-navigation-sprint-1.mp4 ](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2Dweb%2Dprototype%2Dnavigation%2Dsprint%2D1%2Emp4&ga=1)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/228.%20Prototype%20Web.png)
-
-
+En el siguiente video, mostramos una visualización de nuestro prototipado móvil, realizado en Figma. Apreciamos todas las funcionalidades de Akira.
 URL video de prototipado Mobile Version:
 
-[www.com ](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2Dmobile%2Dprototype%2Dnavigation%2Dsprint%2D1%2Emp4&ga=1)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/229.%20Prototype%20Mobile.png)
+[upc-pre-202302-si729-ws52-lambders-mobile-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EX7ihQI8gWhNtMnqskgYwbEB54X0uZlhPbw5uPp9_UyUow?e=W9H2wu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+![Alt text](img/image-111.png)
 
 
 <br><br>
@@ -3165,22 +3371,32 @@ Se diagramó una base de datos relacional con SQL y la herramienta Vertabelo, pa
 ___
 <br>
 
+# Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
 
 ## 5.1.1. Software Development Environment Configuration
 
 **Project Management:** 
 
-*Notion:* Es un software de gestión de proyectos/tareas que te ayuda a planificar tus proyectos de una forma más organizada.También te permite tomar apuntes y poder gestionar grandes trabajos en equipo. 
+●	Notion: Es una herramienta de productividad y colaboración todo en uno que combina características de edición de documentos, bases de datos, listas de tareas y mucho más. Permite a los equipos y profesionales de ingeniería organizar, gestionar y compartir información de manera efectiva. 
+Una de las características destacadas de Notion es su interfaz intuitiva y personalizable. Los usuarios pueden crear páginas y bases de datos con una estructura y diseño flexibles, lo que les permite adaptar la herramienta a sus necesidades específicas. Además, ofrece una amplia gama de plantillas predefinidas que pueden ser utilizadas para diferentes propósitos, como la gestión de proyectos, la documentación técnica y el seguimiento de problemas. 
+Esta herramienta también facilita la colaboración en tiempo real. Los equipos pueden trabajar juntos en documentos y bases de datos, lo que les permite compartir ideas, revisar y editar contenido de manera simultánea. Además, cuenta con funciones de comentarios y menciones, lo que agiliza la comunicación y la retroalimentación entre los miembros del equipo. 
+Otra gran ventaja de Notion es su capacidad de integración con otras herramientas y servicios populares. Puede conectarse con aplicaciones como Google Drive, Trello, Slack y muchos más, lo que permite una mejor sincronización y flujo de trabajo entre diferentes plataformas.
+URL: https://www.notion.so/
 
-- URL: https://www.notion.so/
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/235.%20Notion.png)
+![Alt text](img/image-112.png)
 
 
-*Pivotal Tracker:* Es una herramienta de gestión de proyectos ágiles. La cual te da la factibilidad de la colaboración en tiempo real en torno a un registro compartido priorizado. 
+●	Pivotal Tracker: Es una herramienta de gestión de proyectos ágiles que ha ganado popularidad entre los equipos de desarrollo de software. Diseñado específicamente para implementar la metodología de desarrollo ágil, Pivotal Tracker ayuda a los equipos a planificar, rastrear y entregar proyectos de manera eficiente.
+Una de las principales características de Pivotal Tracker es su enfoque en la planificación basada en historias de usuarios. Los equipos pueden crear historias que representan los requisitos y funcionalidades del proyecto, y luego priorizarlas según su importancia y complejidad. Esto permite una planificación más efectiva y una mayor visibilidad del progreso del proyecto.
+Esta herramienta utiliza un sistema de tablero Kanban para visualizar las historias y tareas en diferentes etapas de desarrollo. Esto facilita el seguimiento del progreso, la identificación de cuellos de botella y la asignación de recursos. Además, ofrece características como estimaciones de tiempo, seguimiento de actividades y notificaciones para mantener a todos los miembros del equipo informados y actualizados.
+La colaboración es una parte integral de Pivotal Tracker. Los equipos pueden comentar y discutir las historias, asignar tareas a los miembros del equipo y colaborar en tiempo real. Esto fomenta la comunicación efectiva y la toma de decisiones colaborativa, lo que lleva a una mayor eficiencia y calidad en la entrega del proyecto.
+Asimismo, ofrece integraciones con otras herramientas populares, como GitHub y Slack, lo que permite una mayor sincronización y flujo de trabajo entre diferentes plataformas.
 
-- URL: https://www.pivotaltracker.com/
+URL: https://www.pivotaltracker.com/
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/236.%20Pivotal.png)
 
@@ -3190,9 +3406,13 @@ ___
 
 **Requirements Management: (Historias de usuario y requisitos)**
 
-*Cucumber:* Es una herramienta que admite el desarrollo basado en el comportamiento. Un elemento central del enfoque de Cucumber BDD es su analizador de lenguaje ordinario llamado Gherkin.
+●	Cucumber: Es una herramienta de colaboración y pruebas de software que se utiliza ampliamente en el desarrollo ágil. Se centra en la escritura de pruebas de aceptación en un formato legible por humanos, conocido como lenguaje Gherkin, que se puede utilizar tanto por desarrolladores como por personas no técnicas.
+La principal característica de Cucumber es su capacidad para traducir estas pruebas de aceptación escritas en Gherkin en código ejecutable. Esto permite a los equipos de desarrollo y a los stakeholders colaborar en la definición de los requisitos y las funcionalidades del software, asegurando un entendimiento común y una comunicación efectiva.
+Este emplea un enfoque de desarrollo basado en comportamiento (BDD, por sus siglas en inglés), donde las pruebas se escriben antes de que se implemente el código. Esto fomenta el enfoque en el comportamiento esperado del software y ayuda a evitar malentendidos y ambigüedades.
+Una de las grandes ventajas de esto es su capacidad de integrarse con una amplia variedad de lenguajes de programación y frameworks de pruebas, permitiendo a los equipos utilizar Cucumber en su stack tecnológico existente y aprovechar las herramientas y librerías de pruebas existentes.
+Para finalizar, la herramienta ofrece una estructura clara y organizada para escribir y mantener las pruebas, las cuales se agrupan en escenarios y se pueden ejecutar de forma independiente o en conjunto. Esto facilita la gestión y ejecución de las pruebas a medida que el software evoluciona.
+URL:  https://cucumber.io/
 
-- URL:  https://cucumber.io/
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/237.%20Cucumber.png)
 
@@ -3201,23 +3421,37 @@ ___
 
 **Product UX/UI Design:**
 
-*Figma:* Un editor de gráficos vectorial y una herramienta de generación de prototipos web,la cual te va a brindar las plantillas, colores y todo para poder crear tus prototipos para aplicaciones de escritorio en macOS y Windows.
+●	Figma: Es una herramienta líder en diseño de interfaces de usuario (UI) y experiencia de usuario (UX) que ha ganado popularidad entre los profesionales del diseño. Esta plataforma está basada en la nube que permite a los equipos colaborar y crear diseños de alta calidad de manera eficiente.
+Una de las características destacadas de Figma es su enfoque en la colaboración en tiempo real. Varios diseñadores pueden trabajar en un mismo proyecto simultáneamente, lo que facilita la comunicación y la iteración rápida. Además, los equipos pueden compartir fácilmente sus diseños con otros miembros del equipo y recibir comentarios y sugerencias en tiempo real.
+La herramienta en mención ofrece una amplia gama de herramientas y funcionalidades que permiten a los diseñadores crear y prototipar interfaces de usuario interactivas. Desde la creación de componentes reutilizables hasta la creación de animaciones y transiciones, Figma proporciona todas las herramientas necesarias para diseñar experiencias de usuario atractivas y funcionales.
+Otra ventaja es su capacidad para integrarse con otras herramientas y servicios populares. Puede conectarse con aplicaciones de diseño, como Sketch y Adobe XD, lo que permite una fácil migración de proyectos y colaboración con diseñadores que utilizan diferentes plataformas.
+Para finalizar, tiene una amplia biblioteca de recursos y plugins que los diseñadores pueden utilizar para acelerar su flujo de trabajo y mejorar la calidad de sus diseños. Esto incluye iconos, kits de interfaz de usuario, plantillas predefinidas y mucho más.
 
-- URL: https://www.figma.com/
+URL: https://www.figma.com/
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/238.%20Figma.png)
 
 
-*UXPressia:* Es una plataforma multi colaborativa, la cual ayuda en el mapeo del viaje del cliente. Para facilitar las interacciones y los puntos de contacto.
+●	UXPressia: Es una plataforma en línea que ofrece soluciones para el mapeo y diseño de experiencias de usuario (UX) de manera colaborativa. Con una variedad de herramientas y plantillas, UXPressia se enfoca en ayudar a los profesionales de UX a visualizar, analizar y comunicar de manera efectiva las experiencias de usuario.
+Una de las características destacadas de UXPressia es su capacidad para crear mapas de empatía, customer journey maps, personas, diagramas de servicio y otros artefactos de UX. Estas herramientas permiten a los equipos de UX comprender mejor a los usuarios y sus necesidades, identificar oportunidades de mejora y diseñar soluciones centradas en el usuario.
+La plataforma de UXPressia también facilita la colaboración en tiempo real, lo que significa que los equipos pueden trabajar juntos en proyectos, realizar revisiones y comentarios, y mantenerse actualizados sobre los cambios realizados. Esto promueve una mayor eficiencia y mejora la comunicación entre los miembros del equipo, incluso si están geográficamente dispersos.
+Además, UXPressia ofrece integraciones con otras herramientas populares de diseño y colaboración, como Slack y Trello, lo que facilita la sincronización y el intercambio de datos entre diferentes plataformas.
 
-- URL: https://uxpressia.com/
+URL: https://uxpressia.com/
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/239.%20Uxpressia.png)
 
 
-*Adobe Illustrator:* Es un editor gráfico vectorial, el cual te permite crear logotipos, iconos, dibujos,etc. 
+●	Adobe Illustrator: Es una herramienta de diseño gráfico y creación de ilustraciones vectoriales ampliamente utilizada en la industria creativa. Es parte de la suite de software de Adobe Creative Cloud y se destaca por su amplia gama de herramientas y capacidades de diseño.
+Con Adobe Illustrator, los diseñadores pueden crear gráficos vectoriales escalables, lo que significa que las ilustraciones pueden ampliarse o reducirse sin perder calidad. Esto es especialmente útil para logotipos, iconos, ilustraciones y otros elementos gráficos que deben adaptarse a diferentes tamaños y resoluciones.
+La interfaz de Adobe Illustrator es intuitiva y ofrece una amplia gama de herramientas de dibujo, edición y manipulación de formas. Los diseñadores pueden crear formas personalizadas, aplicar gradientes, utilizar pinceles y trazos, agregar efectos y mucho más. También se pueden importar y editar imágenes y fotografías en Illustrator.
+Otra característica destacada de Adobe Illustrator es su capacidad para trabajar con capas, lo que permite a los diseñadores organizar y editar elementos de forma independiente. Esto facilita la manipulación y modificación de diseños complejos.
+Además, Adobe Illustrator es compatible con otros programas de Adobe, lo que permite una integración fluida con Adobe Photoshop, Adobe InDesign y otros productos de la suite de Creative Cloud.
 
-- URL: https://www.adobe.com/la/products/illustrator.html
+URL: https://www.adobe.com/la/products/illustrator.html
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/240.%20Illustrator.png)
 
@@ -3226,38 +3460,69 @@ ___
 
 **Software Development:**
 
-*IDE: Visual Studio Code:* Es un editor de código fuente desarrollado por Microsoft, open source y multiplataforma. Este cuenta con una buena integración con Git, cuenta con soporte para depuración de código, y dispone de un sinnúmero de extensiones. Es compatible con múltiples lenguajes, por ejemplo: C++, C#, etc. Gracias a esto nos permite desarrollar aplicaciones multiplataforma para dispositivos móviles y de escritorio.
+●	IDE: Visual Studio Code: Es un editor de código fuente desarrollado por Microsoft. Es una herramienta muy popular entre los desarrolladores debido a su gran versatilidad, extensibilidad y facilidad de uso.
+Este editor es bastante conocido por su amplia gama de características y extensiones, que permiten a los desarrolladores personalizar su experiencia de codificación de acuerdo a sus necesidades específicas.
+Una de las características destacadas de VS Code es el resaltado de sintaxis. Ofrece soporte para una amplia variedad de lenguajes de programación y proporciona resaltado de sintaxis para facilitar la lectura y comprensión del código. Además, VS Code ofrece autocompletado inteligente, lo que significa que sugiere código basado en el contexto, ayudando a los desarrolladores a escribir código más rápido y sin errores.
+La herramienta de depuración integrada es otra característica clave de VS Code. Permite a los desarrolladores ejecutar y depurar su código directamente desde el editor, lo que facilita la identificación y corrección de errores. VS Code también ofrece integración con control de versiones, como Git, lo que permite a los desarrolladores realizar seguimiento de cambios, realizar confirmaciones y fusiones, y colaborar en proyectos fácilmente. El editor también incluye una terminal integrada que permite ejecutar comandos y scripts directamente desde el editor, eliminando la necesidad de cambiar entre ventanas y herramientas.
+Una de las ventajas más destacadas de VS Code es su extensibilidad. Los desarrolladores pueden personalizar el editor agregando extensiones que proporcionan funcionalidades adicionales según sus necesidades específicas.
 
-- URL: https://code.visualstudio.com/ 
+URL: https://code.visualstudio.com/ 
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/241.%20Visual%20Code.jpg)
 
 
-*Framework AngularJS:* Es un framework de JavaScript desarrollado por Google que se utiliza para crear aplicaciones web de una sola página (SPA) de manera eficiente y estructurada.
+●	Framework AngularJS: Es  un framework de JavaScript desarrollado por Google que se utiliza para construir aplicaciones web de una sola página (SPA). Es ampliamente conocido por su capacidad para crear aplicaciones web dinámicas y altamente interactivas.
+Una de las características más destacadas de AngularJS es su enfoque en la arquitectura Model-View-Controller (MVC), que permite separar la lógica de negocio, la presentación y la manipulación de datos. Esto facilita la estructuración y el mantenimiento del código, lo que a su vez mejora la escalabilidad y la legibilidad del proyecto.
+AngularJS también utiliza el enlace de datos bidireccional, lo que significa que cualquier cambio en el modelo de datos se reflejará automáticamente en la vista y viceversa. Esto simplifica la manipulación y actualización de los datos en tiempo real, sin necesidad de escribir código adicional.
+Además, AngularJS proporciona una amplia gama de directivas predefinidas que permiten extender HTML y agregar funcionalidades adicionales a los elementos de la página. Estas directivas facilitan la implementación de interacciones complejas y la manipulación del DOM de una manera más declarativa. Otra característica clave de AngularJS es su sistema de inyección de dependencias. Permite a los desarrolladores definir y administrar las dependencias de manera eficiente, lo que facilita la reutilización del código y mejora la modularidad de la aplicación.
+AngularJS también ofrece capacidades de prueba integradas, lo que permite a los desarrolladores escribir y ejecutar pruebas unitarias y de integración para garantizar la calidad del código.
 
-- URL: https://angularjs.org/ 
+URL: https://angularjs.org/
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/242.%20Angular%20JS.png)
 
 
-*Html:* Es un lenguaje de etiquetas el cual sirve para el desarrollo de páginas web.
+●	Html: Es un lenguaje de marcado estándar utilizado para crear y estructurar el contenido de las páginas web. Es la base fundamental de cualquier sitio web y se utiliza para definir la estructura y el diseño de los elementos en una página.
+En HTML, los elementos se definen utilizando etiquetas, que están delimitadas por los símbolos "<" y ">". Cada etiqueta describe un elemento específico, como encabezados, párrafos, imágenes, enlaces, formularios, entre otros.
+Una de las características clave de HTML es su capacidad para organizar el contenido en una estructura jerárquica utilizando elementos de encabezado (h1, h2, h3, etc.) y párrafos (p). Esto ayuda a los motores de búsqueda y a los lectores de pantalla a comprender la jerarquía y la importancia del contenido.
+HTML también permite la inclusión de enlaces (a) para conectar diferentes páginas y recursos, imágenes (img) para mostrar gráficos y multimedia, y formularios (form) para recopilar información de los usuarios.
+Además, HTML proporciona una amplia gama de atributos que se pueden agregar a las etiquetas para controlar el comportamiento y la apariencia de los elementos. Algunos ejemplos de atributos comunes son el atributo "class" para aplicar estilos CSS, el atributo "id" para identificar elementos específicos, y el atributo "src" para especificar la ruta de una imagen o un archivo multimedia.
 
-- URL: https://html.com
+URL: https://html.com
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/243.%20HTML.png)
 
 
-*CSS:* Es un lenguaje de diseño gráfico, el cual permite animar y diseñar un documento escrito.
+●	CSS: Es un lenguaje utilizado para definir el aspecto y el diseño de los elementos en una página web. Se utiliza en conjunto con HTML para dar estilo y personalidad a los elementos y mejorar la apariencia visual de un sitio web.
+En CSS, se pueden aplicar estilos a los elementos HTML utilizando selectores. Los selectores permiten identificar los elementos a los que se les aplicará un estilo específico. Por ejemplo, el selector de etiqueta se utiliza para aplicar estilos a todos los elementos de una etiqueta específica, como "p" para párrafos o "h1" para encabezados de nivel 1.
+CSS ofrece una amplia variedad de propiedades para controlar el aspecto visual de los elementos. Algunas de las propiedades más comunes incluyen:
+●	Color: permite especificar el color del texto o del fondo de un elemento.
+●	Tamaño de fuente: permite definir el tamaño del texto.
+●	Margen y relleno: se utilizan para controlar los espacios alrededor de un elemento.
+●	Ancho y alto: se utilizan para establecer las dimensiones de un elemento.
+●	Posicionamiento: se utiliza para controlar la ubicación y el flujo de los elementos en la página.
+●	Fuentes: permite especificar el tipo de fuente a utilizar en el texto.
+●	Efectos visuales: se utilizan para aplicar sombras, bordes, transiciones y animaciones a los elementos.
+Además, CSS ofrece la posibilidad de agrupar selectores, utilizar reglas anidadas y aplicar estilos condicionales utilizando pseudo-clases y pseudo-elementos.
+Una de las ventajas de CSS es su capacidad para separar el contenido del diseño. Esto significa que los estilos se definen en un archivo CSS separado, lo que facilita la actualización y el mantenimiento del diseño sin afectar el contenido.
 
-- URL: -
+URL: https://lenguajecss.com/
+
   
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/244.%20CSS.png)
 
 
 
-*JavaScript:* Es un lenguaje de programación orientado a objetos. El cual está basado en prototipos, imperativo, débilmente tipado y dinámico.
+●	JavaScript: Es un lenguaje de programación orientado a objetos, utilizado principalmente para crear interactividad en páginas web. Es un lenguaje interpretado que se ejecuta en el lado del cliente, lo que significa que se ejecuta en el navegador web del usuario.
+Una de las características clave de JavaScript es su capacidad para manipular y modificar el contenido de una página web en tiempo real. Esto permite crear efectos visuales, validar formularios, realizar solicitudes a servidores y muchas otras interacciones dinámicas.
+JavaScript también es un lenguaje versátil que se puede utilizar tanto en el lado del cliente como en el lado del servidor. En el lado del cliente, se utiliza para interactuar con el DOM (Document Object Model) y manipular elementos HTML, CSS y eventos. En el lado del servidor, se utiliza con frameworks como Node.js para desarrollar aplicaciones web y APIs.
+Además, JavaScript es un lenguaje basado en eventos, lo que significa que se pueden definir acciones que se ejecutan en respuesta a eventos del usuario, como hacer clic en un botón o mover el mouse. Esto permite crear experiencias interactivas y mejorar la usabilidad de una página web.
+JavaScript también ofrece una amplia gama de funcionalidades y bibliotecas adicionales, lo que facilita el desarrollo de aplicaciones más complejas. Algunas de las bibliotecas y frameworks populares de JavaScript incluyen jQuery, React, Angular, Vue.js y Express.js.
 
-- URL: -
+URL: https://www.javascript.com/
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/245.%20JS.png)
 
@@ -3267,9 +3532,13 @@ ___
 
 **Software Testing:**
 
-*Lenguaje Gherkin:* Es un lenguaje específico de dominio “DSL”, el cual está diseñado para resolver problemas concretos. En este caso sería la comunicación entre perfiles.
+●	Lenguaje Gherkin: Es un lenguaje de especificación utilizado en el desarrollo de software para escribir escenarios de pruebas en un formato comprensible tanto para desarrolladores como para no técnicos. Con Gherkin, se busca promover la colaboración entre las partes interesadas y los equipos de desarrollo al describir el comportamiento esperado del sistema desde la perspectiva del usuario final.
+El formato de Gherkin se basa en escenarios escritos en lenguaje natural, que se dividen en pasos que describen las acciones y las expectativas. Estos pasos se organizan en estructuras como "Dado" (Given), "Cuando" (When) y "Entonces" (Then), que representan la configuración inicial, los eventos que ocurren y las salidas esperadas, respectivamente.
+Gherkin se utiliza comúnmente en el enfoque de Desarrollo Basado en Comportamiento (BDD), donde se busca alinear las necesidades del negocio con el desarrollo de software. Al utilizar Gherkin, los equipos pueden comunicarse de manera más efectiva, ya que el lenguaje natural y estructurado de Gherkin facilita la comprensión de los requisitos y las pruebas por parte de todos los involucrados.
+Además, Gherkin se puede integrar con herramientas de automatización de pruebas y frameworks de desarrollo, lo que permite ejecutar los escenarios de Gherkin como pruebas automatizadas y garantizar la calidad del software de manera continua.
 
-- URL: -
+URL: https://cucumber.io/
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/246.%20Gherkin.png)
 
@@ -3288,48 +3557,95 @@ ___
 |    Moreno Best, Michelle Francesca    |  u202110543@upc.edu.pe  |
 | Scerpella Zarkovic, Marcelo Alejandro |  u202110062@upc.edu.pe  |
 
+**Despliegues**
+URL Landing Page desplegada:
+https://si729-grupo2-ws52-open-source.github.io/Landing-Page/ 
 
-URL del repositorio de **Landing Page**
+URL Frontend desplegada:
+https://si729-grupo2-ws52-open-source.github.io/Frontend-Web-Applications/
 
-[https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications ](https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications 
-)
+**Repositorios**
+URL del repositorio de Landing Page
+https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications 
 
-URL del repositorio de **Web Services**
+URL del repositorio de Web Services
+https://github.com/SI729-Grupo2-WS52-Open-Source/Web-Services 
 
-[https://github.com/SI729-Grupo2-WS52-Open-Source/Web-Services ](https://github.com/SI729-Grupo2-WS52-Open-Source/Web-Services 
-)
-
-URL del repositorio de **Frontend Web Application**
-
-[https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications](https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications )
-
-<br><br>
-
-**Describir cómo implementaremos Gitflow**
-
-Como se puede apreciar en la imagen, en la versión 0.1 realizamos la creación del proyecto y aplicación. A partir de allí, creamos la rama “Develop” en el cual irán las nuevas características. Asimismo, creamos una rama llamada “Feature”, en el cual pondremos los features de nuestro proyecto.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/247.%20Gitflow.jpg)
-
-Link del GitFlow: [https://miro.com/app/board/uXjVPJUuizE=/?share_link_id=47144121041 ](https://miro.com/app/board/uXjVPJUuizE=/?share_link_id=47144121041 )
-
-
+URL del repositorio de Frontend Web Application
+https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications
 
 <br><br>
 
+**Implementación del Gitflow**
+![Alt text](img/image-113.png)
+https://miro.com/app/board/uXjVP9nKvvY=/?share_link_id=718024690492 
 
-**Capturas del Github Grupal**
+Git Flow es un modelo de flujo de trabajo para el control de versiones con el sistema de control de versiones Git. Para este proyecto, nuestra estructura de ramas está compuesta por tres branches: Master, Develop y Feature, que explicaremos a detalle a continuación.
+La rama Master alberga todas las versiones estables, funcionales y desplegables de Akira. Estas versiones ya han sido probadas y se ha comprobado la completa funcionalidad de estas posterior al despliegue. Utilizaremos etiquetas para marcar cada versión estable y desplegable, permitiéndonos realizar un seguimiento claro de las versiones y facilitar la gestión de futuras actualizaciones.
+La rama Develop contiene todas las versiones finales de Akira que aún no han sido probadas, pero sí desarrolladas al 100% y que sí contienen todas las funcionalidades que debería tener esa versión hasta el momento. Esta rama se utiliza para subir la versión y realizar pruebas finales para corregir cualquier problema antes del lanzamiento final a la rama Master.
+La rama feature alberga versiones a las cuales se agregaron nuevas funcionalidades o secciones. Por ejemplo, si deseamos implementar una función de registro de usuarios, crearemos una rama llamada "feature/user-registration" a partir de la rama "develop". Trabajaremos en esta rama para desarrollar y probar la funcionalidad. Una vez que hayamos completado el trabajo en una rama de características, crearemos un pull request en GitHub para fusionar los cambios con la rama "develop". Esto permitirá a otros miembros del equipo revisar y comentar los cambios antes de integrarlos con la rama principal. Los pull requests facilitan la colaboración y la revisión de código en equipo.
+La implementación de Git Flow en el proyecto nos proporcionará un flujo de trabajo estructurado y eficiente, facilitará la colaboración en equipo, la gestión de versiones y la entrega de un software estable y de calidad. Al utilizar las herramientas proporcionadas por GitHub, podremos mantener un registro claro de los cambios realizados, realizar revisiones de código y mejorar la eficiencia del desarrollo.
+
+
+
+
+
+
+
+
+<br><br>
+
+
+**Capturas del Github (Aplicando Gitflow)**
+
 
 Se crearon tres repositorios, Landing Page, Web Services y Frontend Web Applications
+![Alt text](img/image-123.png)
+ 
+Visualizamos la creación de las tres ramas por cada repositorio (master, develop y feature)
+![Alt text](img/image-121.png)
+![Alt text](img/image-122.png)
+![Alt text](img/image-120.png)
+   
+ 
+Ahora, procedemos a mostrar el control de versiones por cada rama y por cada repositorio, iniciando con el Lading Page Repository
+En la rama master, observamos una versión estable y desplegada.
+![Alt text](img/image-119.png)
+ 
+En la rama develop, mostramos dos versiones que fueron subidas y probadas, en donde la v1.0 contiene toda la estructura del Landing Page (navbar no funcional, los productos, secciones, aliados y footer), y la v1.1 contiene el la agregación de funcionalidad en el navbar (hamburger icon) y del hover de los productos, que muestra detalles de estos.
+![Alt text](img/image-118.png)
+ 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/248.%20Github%20repos.png)
+En la rama feature, se subió la v1.1, ya que aquí se presentó la agregación de una funcionalidad, la funcionalidad del navbar (hamburger icon) y la funcionalidad del hover en las imágenes de lo productos de Akira.
+![Alt text](img/image-117.png) 
+ 
+Continuamos mostrando el uso de Git Flow en Frontend Web Applications Repository:
+En la rama master, se visualizan las 4 versiones estables de Akira en cuanto a FrontEnd. La v1 se desarrolló la estructura básica del proyecto, la cual cuenta con un navbar, la ubicación responsive de los productos mostrados en home y el Login/Signup de usuarios. La v2 implementa la sección de búsqueda de productos. En la v3 se implementa la sección del carrito, órdenes y productos. En la v4, se implementan los estilos (css), el perfil de usuario, mejoras del navbar y despliegue de categorías (Hamburger icon en navbar).
+![Alt text](img/image-116.png)
+ 
+En cuanto a la rama develop, esta cuenta con 5 versiones, y cabe mencionar que la v1.0 contaba con fallas en el registro y login de usuario, fallas que se levantaron para la v1.1 (esta versión es la considerada v1 en la rama master). El resto de versiones ya fue explicado anteriormente.
+ ![Alt text](img/image-115.png)
+
+ 
+En la rama feature, se especifican las características y funcionalidades agregadas, mostrando que en la v1.1 se implementa la sección de Login/SignUp, el buscador y el carrito. En la v2.0 se corrige la funcionalidad de Login/SignUp. En la versión 3.0 se implementa la sección de órdenes y productos. Y en la v4.0 se implementa la sección de user profile y categorías.
+ 
+
+![Alt text](img/image-114.png)
+ 
 
 
-Asimismo, por cada repositoriom, creamos 3 ramas (branches) que son el main, feature/landing-page y develop y en ellos se pondrán los features y nuestro landing page.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/249.%20Branches%201.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/250.%20Branches%202.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3355,7 +3671,7 @@ ___
 - Se nos recomienda especificar el alt, ancho y altura para las imágenes. Siempre hay que definir el width y height de las imágenes para reducir el parpadeo.
 - Se nos recomienda no usar el espacio al momento de utilizar los signos porque es más fácil de leerlo de esta forma
 - Se recomienda evitar líneas de código largas, no agregar líneas en blanco, espacios o sangrías sin razón. Sin embargo, podemos utilizar las líneas en blanco para separar bloques de código grandes o lógicos. Adicionalmente, podemos agregar 2 espacios de sangría para facilitar la lectura sin utilizar la tabulación.
-- Nunca se debe omitir el elemento <title> porque el contenido del título de una página siempre es muy importante
+- Nunca se debe omitir el elemento title porque el contenido del título de una página siempre es muy importante
 - No omitir las etiquetas <html>, <body> y <cabeza>.
 - Se nos recomienda agregar el atributo lang dentro del atributo de la <html> etiqueta, para declarar el idioma de la página
 - Incluir siempre el elemento <meta> en todas las páginas para la configuración de la ventana gráfica.
@@ -3405,7 +3721,7 @@ Es un lenguaje de programación de alto nivel, interpretado y orientado a objeto
 - Evitar el uso de nombres de variables genéricos o ambiguos.
 - Utilizar comentarios para explicar el propósito y funcionalidad del código.
 - Utilizar indentación de 2 espacios para mejorar la legibilidad del código.
-- Utilizar operadores de comparación estricta (===) en lugar de la igualdad débil (==) cuando sea posible.
+- Utilizar operadores de comparación estricta (= ==) en lugar de la igualdad débil (= =) cuando sea posible.
 - Utilizar punto y coma al final de cada declaración.
 - Utilizar comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
 - Organizar el código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
@@ -3511,12 +3827,20 @@ ___
 
 ## 5.1.4. Software Deployment Configuration
 
-**Git** nos permitirá controlar las herramientas de nuestro software, vamos a guardar diferentes archivos o versiones a lo largo de las diferentes etapas en un proyecto. Esto nos permite como desarrolladores, hacer un seguimiento de lo que ya tenemos hecho y poder resolver algunos problemas o cambios que se decidan a lo largo del proyecto
+En este caso usaremos Git y github
+Git: Es un sistema de control de versiones distribuido ampliamente utilizado en el desarrollo de software. Fue creado por Linus Torvalds en 2005 y se ha convertido en una herramienta fundamental para el trabajo colaborativo y el seguimiento de cambios en proyectos de código abierto y privados. Una de las principales ventajas de Git es su capacidad para realizar un seguimiento de los cambios realizados en los archivos de un proyecto a lo largo del tiempo. Utilizando Git, los desarrolladores pueden crear ramas, realizar cambios en ellas y fusionarlos de manera eficiente. Esto permite que múltiples desarrolladores trabajen en diferentes aspectos del proyecto al mismo tiempo, sin interferir entre sí.
+Git utiliza un modelo de sistema distribuido, lo que significa que cada desarrollador tiene una copia completa del repositorio, incluyendo todo el historial de cambios. Esto proporciona una mayor flexibilidad y seguridad, ya que cada desarrollador puede trabajar de manera independiente y realizar cambios en su propia copia local sin afectar el trabajo de los demás. Los cambios se pueden compartir y sincronizar a través de repositorios remotos, como GitHub, que facilita la colaboración en equipo. Además, Git ofrece una serie de características y comandos que facilitan la gestión de versiones. Por ejemplo, se pueden crear ramas para trabajar en nuevas funcionalidades o corregir errores sin afectar la rama principal del proyecto. También se pueden realizar fusiones para combinar los cambios de diferentes ramas y mantener un flujo de trabajo coherente. Otra característica destacada de Git es su capacidad para revertir cambios y realizar seguimiento de versiones anteriores. Esto permite a los desarrolladores retroceder en el tiempo y recuperar versiones anteriores del código, lo que resulta útil en caso de errores o necesidad de realizar cambios retrospectivos.
+Su empleabilidad nos permitirá controlar las herramientas de nuestro software, vamos a guardar diferentes archivos o versiones a lo largo de las diferentes etapas en un proyecto. Esto nos permite como desarrolladores, hacer un seguimiento de lo que ya tenemos hecho y poder resolver algunos problemas o cambios que se decidan a lo largo del proyecto
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/251.%20Git.png)
 
 
-**Github** es una herramienta que nos facilitará la colaboración con git, esta es una plataforma que puede mantener repositorio de códigos en almacenamiento basado en la nube y facilita que varios trabajadores puedan trabajar en un solo proyecto pudiendo ver las ediciones propias de cada integrante mejorando el trabajo en equipo para los trabajos por hacer.
+Github: Es una plataforma de alojamiento y colaboración de código fuente basada en Git. Fue lanzada en 2008 y se ha convertido en uno de los principales servicios utilizados por desarrolladores de todo el mundo. En GitHub, los desarrolladores pueden crear repositorios para almacenar y gestionar su código fuente. Estos repositorios pueden ser públicos, lo que significa que cualquiera puede ver y contribuir al código, o privados, que son más adecuados para proyectos comerciales o privados.
+Una de las características más destacadas de GitHub es su capacidad para facilitar la colaboración en equipo. Varios desarrolladores pueden trabajar en el mismo repositorio al mismo tiempo, realizar cambios en diferentes ramas y fusionarlos de manera sencilla. Esto hace que sea más fácil para los equipos trabajar de manera conjunta y gestionar las diferentes contribuciones. Además de la gestión de código fuente, GitHub también ofrece una serie de herramientas adicionales. Los "issues" permiten realizar un seguimiento de tareas, errores o mejoras que deben abordarse en el proyecto. Los "pull requests" permiten solicitar revisiones y fusionar cambios realizados por colaboradores externos antes de incorporarlos al repositorio principal. Otra característica destacada de GitHub son las "actions", que permiten automatizar tareas y flujos de trabajo en el proyecto. Esto incluye la ejecución de pruebas, la generación de documentación o la implementación continua.
+GitHub también es conocido por su comunidad activa y su enfoque en el código abierto. Muchos proyectos de código abierto se alojan en GitHub, lo que facilita la colaboración y fomenta la transparencia en el desarrollo de software.
+Esta herramienta que nos facilitará la colaboración con git, esta es una plataforma que puede mantener repositorio de códigos en almacenamiento basado en la nube y facilita que varios trabajadores puedan trabajar en un solo proyecto pudiendo ver las ediciones propias de cada integrante mejorando el trabajo en equipo para los trabajos por hacer.
+
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/252.%20Github%20logo.png)
 
@@ -3531,20 +3855,9 @@ ___
 
 ## 5.2.1.1. Sprint Planning 1
 
-| Sprint #                    | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                       |
-|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| Sprint Planning Background  | Velocity:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                       |
-| Begin (Date)                | 2023-09-02                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                       |
-| Duration                    | 2023-09-04                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2023-09-11                            |
-| Point                       | (Virtual) Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | (Presencial) en la propia universidad |
-| Prepared by                 | Sánchez Ramírez, Diego Antonio                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                       |
-| Descripción                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                       |
-| Asistentes a la reunión     | Luis Enrique Aquije Quiroga, Gabriel Adrian Bernal Moreno,  Nirvana Gabriela García Vásquez, Michelle Francesca Moreno Best , Diego Antonio Sánchez Ramírez y Marcelo Alejandro Scerpella Zarkovic                                                                                                                                                                                                                                                                                        |                                       |
-| US y Metas para este Sprint |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                       |
-| Sprint 1 : Metas            | Para este primer Sprint, se tendrá las siguientes metas a cumplir:  Meta principal  - Desarrollar una aplicación web que cumpla con las necesidades básicas de nuestros usuarios (compradores y vendedores)  Metas específicas  - Desarrollar la funcion de busqueda y compra de productos en la página para segmento de compradores - Desarrollar la función de visualizar y modificar el perfil del usuario - Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios. |                                       |
-| Sprint 1 Velocity           | (12 Points)                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                       |
-| Sprint 1 Total US Points    | 12 Puntos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                       |
-
+![Alt text](img/image-219.png)
+![Alt text](img/image-220.png)
+![Alt text](img/image-221.png)
 
 
 
@@ -3555,262 +3868,12 @@ ___
 ## 5.2.1.2. Sprint Backlog 1
 
 Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
+![Alt text](img/image-124.png)
+![Alt text](img/image-125.png)
+![Alt text](img/image-126.png)
 
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="1">Sprint #</th>
-      <th colspan="7">Sprint 1</th>
-    </tr>
-    <tr>
-      <th colspan="2">User Story</th>
-      <th colspan="6">Work-Item / Task</th>
-    </tr>
-    <tr>
-      <th>ID</th>
-      <th>Title</th>
-      <th>ID</th>
-      <th>Title</th>
-      <th>Description</th>
-      <th>Estimation (Hours)</th>
-      <th>Assigned To</th>
-      <th>Status (To-Do/In Process.../Done!)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>#185942759</td>
-      <td>Iniciar Sesión</td>
-      <td>T-001</td>
-      <td>Crear la estructura de la página de login.</td>
-      <td>El desarrollador crea la primera página que el usuario va a acceder, la cual es el login(los campos de entrada).</td>
-      <td>6 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-002</td>
-      <td>Añadir diseños a la página de login.</td>
-      <td>El desarrollador diseña las entidades que se encuentran en la página de inicio de sesión.<br>Además de programar la funcionalidad del formulario.</td>
-      <td>12 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-003</td>
-      <td>Validación y limpieza del código.</td>
-      <td>Esta tarea consiste en revisar las validaciones para las entradas en el formulario. <br>De ser posible, realizar una limpieza de código.</td>
-      <td>6 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-004</td>
-      <td>Pruebas de Inicio de Sesión.</td>
-      <td>Realizar pruebas unitarias y de integración para asegurarse de que la función de inicio de sesión funciona correctamente.</td>
-      <td>6 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td>#185942759</td>
-      <td>Registro de usuario</td>
-      <td>T-005</td>
-      <td>Diseño de la Interfaz de Registro de Usuario.</td>
-      <td>Crear bocetos y prototipos de la página de registro de usuario.<br>Diseñar los campos necesarios para recopilar la información del usuario (nombre, correo electrónico, contraseña, etc.).<br>Agregar un botón de registro.</td>
-      <td>8 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-006</td>
-      <td>Implementación del Frontend de Registro de Usuario.</td>
-      <td>Crear las páginas HTML/CSS necesarias.<br>Programar la funcionalidad del formulario de registro de usuario.<br>Validar la entrada del usuario y mostrar mensajes de error si es necesario.</td>
-      <td>14 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-007</td>
-      <td>Implementación del Backend de Registro de Usuario.</td>
-      <td>Implementar la lógica de registro del usuario y su almacenamiento en una base de datos.</td>
-      <td>16 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td>#185943616</td>
-      <td>Búsqueda de productos por nombre</td>
-      <td>T-008</td>
-      <td>Estructura y diseño de la funcionalidad.</td>
-      <td>Se realiza el prototipo de la barra de búsqueda de productos.<br>Luego, se comienza a diseñar  la interfaz de resultados de búsqueda.</td>
-      <td>12 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-009</td>
-      <td>Programación de la funcionalidad y sus validaciones.</td>
-      <td>Se programa la funcionalidad de la búsqueda para enviar consultar.<br>Para ello, se comienza a programar la lógica de validaciones para la inserción de valores en la barra de búsqueda.</td>
-      <td>14 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-010</td>
-      <td>Implementación de las conexiones con el back-end.</td>
-      <td>Se realizan las conexiones con la base de datos, donde se contiene la información sobre los productos.</td>
-      <td>14 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-011</td>
-      <td>Pruebas de validación.</td>
-      <td>Se realizan pruebas para comprobar que la lógica del algoritmo de búsqueda funcione correctamente.</td>
-      <td>6 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td>#185927618</td>
-      <td>Descripción del producto</td>
-      <td>T-012</td>
-      <td>Estructura y diseño de la funcionalidad.</td>
-      <td>Se realiza el prototipo (en HTML) de como se mostrará en la página del producto deseado.<br>Luego, se comienza a diseñar dicha funcionalidad integrada.</td>
-      <td>7 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-013</td>
-      <td>Programar funcionalidad.</td>
-      <td>Como su nombre lo dice, es implementar la funcionalidad de cargar la información del producto elegido.</td>
-      <td>10 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-014</td>
-      <td>Respaldo por Backend.</td>
-      <td>Se realiza la función en el servidor de realizar un backup de la información del producto.</td>
-      <td>12 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-015</td>
-      <td>Pruebas de validación.</td>
-      <td>Se realizan pruebas para validar que la funcionalidad funcione correctamente.</td>
-      <td>7 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td>#185942565</td>
-      <td>Agregar un producto al carrito</td>
-      <td>T-016</td>
-      <td>Desarrolla estructura y Diseño de la Interfaz.</td>
-      <td>Se realiza la estructura de de la opción de agregar un producto al carrito de compras.<br>Luego, se le agrega el diseño correspondiente a los estilos y paleta de colores establecidos.</td>
-      <td>9 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-017</td>
-      <td>Implementación del Frontend.</td>
-      <td>Se comienza a programar la funcionalidad.<br>Finalmente se agrega el cambio a la página web.</td>
-      <td>12 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-018</td>
-      <td>Implementación del Backend.</td>
-      <td>Se configura la información del carrito de cada usuario para que no se pierda.<br>Además, de implementar una logia para agregar productos al carrito y mantener un seguimiento de la cantidad.</td>
-      <td>12 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-019</td>
-      <td>Pruebas de validación.</td>
-      <td>Finalmente, se realizan pruebas para asegurar que la función está correctamente programada.</td>
-      <td>11 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td>#185942843</td>
-      <td>Acceso al menú “Opciones de la cuenta”</td>
-      <td>T-020</td>
-      <td>Desarrollo de la  estructura y Diseño de la Interfaz.</td>
-      <td>Agregar un enlace o botón para acceder al menú de opciones de la cuenta en la interfaz principal.<br>Diseñar los elementos de dicho menú(Perfil, Carrito, etc).</td>
-      <td>7 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-021</td>
-      <td>Implementación del Frontend.</td>
-      <td>Programar la funcionalidad para mostrar el menú cuando se hace clic.</td>
-      <td>10 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-022</td>
-      <td>Implementación del Backend.</td>
-      <td>Si es necesario, configurar la lógica en el servidor para cargar la información y opciones de la cuenta del usuario.</td>
-      <td>12 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>T-023</td>
-      <td>Pruebas de validación.</td>
-      <td>Realizar pruebas de usuario para asegurarse de que el menú se muestre correctamente y que las opciones funcionen según lo previsto.</td>
-      <td>8 Horas</td>
-      <td></td>
-      <td>To-Do</td>
-    </tr>
-  </tbody>
-</table>
+
 
 <br><br>
 ___
@@ -3818,36 +3881,28 @@ ___
 
 ## 5.2.1.3. Development Evidence for Sprint Review
 
-**Repositorio Project Statement:**
-
-| Repository    | Branch       | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|---------------|--------------|-----------|----------------|---------------------|--------------------|
-| Project-Statement | main/README.md | 1    |    Initial commit     |     Creación del README.md      | 06/09/2023   |
-| Project-Statement | main/README.md | 2    |    commit Nirvana Garcia    |     Ingreso de contenido del informe desde carátula hasta Lean Ux Canvas.     | 09/09/2023   |
-| Project-Statement | main/README.md | 3    |    commit Gabriel Bernal    |    Ingreso de contenido del informe desde Segmento Objetivo hasta As-Is Scenario Mapping.     | 10/09/2023  |
-| Project-Statement | main/README.md | 4    |    commit Marcelo Scerpella    |     Ingreso de contenido del informe desde To-Be Scenario Mapping hasta Product Backlog.      | 10/09/2023  |
-| Project-Statement | main/README.md | 5    |    commit Michelle Moreno     |    Ingreso de contenido del informe desde Style Guidelines hasta Web Applications Prototyping.    | 10/09/2023  |
-| Project-Statement | main/README.md | 6    |    commit Luis Aquije    |     Ingreso de contenido del informe desde Domain-Driven Software Architecture hasta Bibliografía.     | 10/09/2023   |
-
-<BR><BR>
+En este primer Sprint, los avances en implementación sobre el producto (Landing Page) fueron satisfactorios, ya que se logró abordar las 8 US mencionadas en el Sprint Bakclog.
 
 **Repositorio Landing Page:**
 
-| Repository    | Branch       | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|---------------|--------------|-----------|----------------|---------------------|--------------------|
-| Landing-Page | main | 1    |    Initial commit     |   Creación del repositorio     | 06/09/2023   |
-| Landing-Page | main | 2    |    landing page   |   Subida de archivos de la primera versión del landing page.   | 10/09/2023   |
-| Landing-Page | main | 3    |    landing page v2  |   Subida de archivos de la segunda versión del landing page.     | 10/09/2023  |
+![Alt text](img/image-127.png)
+![Alt text](img/image-128.png)
 
 
 
-<br><br>
-___
-<br>
+<BR><BR>
 
-## 5.2.1.4. Testing Suite Evidence for Sprint Review
+**Repositorio Acceptance Test (Gherkin):**
 
-No se puede realizar debido a que aún no se pide implementación de Web Service.
+![Alt text](img/image-129.png)
+![Alt text](img/image-130.png)
+![Alt text](img/image-131.png)
+
+<BR><BR>
+
+**Repositorio Project Statement:**
+![Alt text](img/image-132.png)
+
 
 
 <br><br>
@@ -3856,81 +3911,75 @@ ___
 
 ## 5.2.1.5. Execution Evidence for Sprint Review
 
-En este Sprint (Sprint 1), se logró desarrollar una aplicación web que cumple con las necesidades básicas de nuestros usuarios (fanáticos del entretenimiento asiático y vendedores de productos del entretenimiento asiático). En esta primera versión de la plataforma web, observamos las siguientes funcionalidades relacionadas a nuestros User Stories y Product Backlog:
+En este Sprint (Sprint 1), se logró desarrollar el landing page de Lambers, el cual cuenta con el propósito de atraer a la clientela y mostrar de qué se trata nuestro startup y cuál es nuestro producto estrella.
 
-Desarrollar la función de búsqueda y compra de productos en la página para segmento de compradores 
+URL video evidencia implementación del sprint: [Video Producto Sprint 1](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/253.%20Execution%20Evidence.png)
+![Alt text](img/image-133.png)
+
+
+
 
 <br>
 
-Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios.
+**Evidencia de implementación por cada US#**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/254.%20Execution%20Evidence.png)
+US-01 Accesibilidad de la página: Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
-<br>
+Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
+![Alt text](img/image-145.png)
 
-Crear la estructura de la página de login
+ 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/255.%20Execution%20Evidence.png)
+US-02 Accesibilidad de la página: Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
-<br>
+Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
+![Alt text](img/image-146.png)
+![Alt text](img/image-147.png)
 
-Diseño de la Interfaz de Registro de Usuario
+  
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/256.%20Execution%20Evidence.png)
-
-<br>
-
-Diseño de implementación de envió a la página del producto para visualizar mayores detalles
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/257.%20Execution%20Evidence.png)
-
-<br>
-
-Implementación de carrito, perfil y categories en navbar
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/258.%20Execution%20Evidence.png)
-
-<br>
-
-Validación y limpieza del código
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/259.%20Execution%20Evidence.png)
-
-<br>
-
-Estructura y diseño de la funcionalidad
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/260.%20Execution%20Evidence.png)
-
-<br>
-
-Estructura responsive
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/261.%20Execution%20Evidence.png)
+US-03 Accesibilidad de la página: Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
+![Alt text](img/image-148.png)
+![Alt text](img/image-149.png)
+![Alt text](img/image-150.png)
 
 
-Diseño de Búsqueda de productos por nombre
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/262.%20Execution%20Evidence.png)
-
-
-<br><br>
+US-04 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
+Se logró implementar esta user story, desarrollando una sección promocionando Akira.
+![Alt text](img/image-151.png)
 
 
-*URL video evidencia implementación del sprint:*
+US-05 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
 
-[upc-pre-202302-si730-ws51-lambders-product-navigation-sprint-1.mp4
-](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D1%2Emp4&ga=1)
+Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
+ ![Alt text](img/image-137.png)
 
-<br><br>
-___
-<br>
+US-06 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
 
-## 5.2.1.6. Services Documentation Evidence for Sprint Review
+Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
+![Alt text](img/image-136.png)
+ 
 
-No se puede realizar debido a que aún no se pide implementación de Web Services.
+US-07 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
+
+Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
+![Alt text](img/image-135.png)
+ 
+**US-08 Accesibilidad de la página:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
+
+Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
+![Alt text](img/image-134.png)
+ 
+
+
+ 
+
+
+
+
+
+
 
 <br><br>
 ___
@@ -3938,64 +3987,66 @@ ___
 
 ## 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Durante este primer Sprint (Sprint #1), se ha realizado un Software Deployment dentro del repositorio de “Landing Page”.  Dentro de este, se desplegó la primera versión del landing page de AKIRA, el cual cuenta con las siguientes características mencionadas en el sprint:
-
+En este Sprint (Sprint 1), se logró desarrollar el landing page de Lambers, el cual cuenta con el propósito de atraer a la clientela y mostrar de qué se trata nuestro startup y cuál es nuestro producto estrella.
 Desarrollar la función de búsqueda y compra de productos en la página para segmento de compradores 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/253.%20Execution%20Evidence.png)
+En mención al Deployment de la landing page, empleamos Github Pages para su correcto despliegue.
+![Alt text](img/image-222.png)
+![Alt text](img/image-223.png)
+
 
 <br>
 
-Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios.
+**Implementación de los US Sprint 1**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/254.%20Execution%20Evidence.png)
+US-01 Accesibilidad de la página: Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
-<br>
+Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
+![Alt text](img/image-145.png)
 
-Crear la estructura de la página de login
+ 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/255.%20Execution%20Evidence.png)
+US-02 Accesibilidad de la página: Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
-<br>
+Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
+![Alt text](img/image-146.png)
+![Alt text](img/image-147.png)
 
-Diseño de la Interfaz de Registro de Usuario
+  
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/256.%20Execution%20Evidence.png)
-
-<br>
-
-Diseño de implementación de envió a la página del producto para visualizar mayores detalles
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/257.%20Execution%20Evidence.png)
-
-<br>
-
-Implementación de carrito, perfil y categories en navbar
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/258.%20Execution%20Evidence.png)
-
-<br>
-
-Validación y limpieza del código
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/259.%20Execution%20Evidence.png)
-
-<br>
-
-Estructura y diseño de la funcionalidad
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/260.%20Execution%20Evidence.png)
-
-<br>
-
-Estructura responsive
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/261.%20Execution%20Evidence.png)
+US-03 Accesibilidad de la página: Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
+![Alt text](img/image-148.png)
+![Alt text](img/image-149.png)
+![Alt text](img/image-150.png)
 
 
-Diseño de Búsqueda de productos por nombre
+US-04 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
+Se logró implementar esta user story, desarrollando una sección promocionando Akira.
+![Alt text](img/image-151.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/262.%20Execution%20Evidence.png)
+
+US-05 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
+
+Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
+ ![Alt text](img/image-137.png)
+
+US-06 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
+
+Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
+![Alt text](img/image-136.png)
+ 
+
+US-07 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
+
+Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
+![Alt text](img/image-135.png)
+ 
+**US-08 Accesibilidad de la página:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
+
+Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
+![Alt text](img/image-134.png)
+ 
+
 
 
 <br><br>
@@ -4004,92 +4055,513 @@ ___
 
 ## 5.2.1.8. Team Collaboration Insights during Sprint 
 
-Commits en Github: 
+En repositorio Landing Page
+a. Nirvana García
+Creé las carpetas para cada versión de Landing Page (en cada rama correspondiente) y en cada carpeta, subí nuestra versión desarrollada. La rama master alberga la V1, la rama feature tiene la v1.1 (donde se implementa la funcionalidad de navbar y hover en imagenes) 
+![Alt text](img/image-166.png)
+![Alt text](img/image-165.png)
+  
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/263.%20Commits.png)
+b. Michelle Moreno
+Subí la primera versión de landing page entregada en la TB1 del curso, posteriormente se resubió para colocarle la correcta nomenclatura de commits. El commit “clear” lo realicé para limpiar el repositorio y rehacerlo con la correcta nomenclatura de commits.
+ ![Alt text](img/image-164.png)
+
+
+
+
+ 
+En Acceptance Test (Gherkin) 
+a. Nirvana García
+Realicé el commit inicial del repositorio, el cual se general automáticamente.
+![Alt text](img/image-163.png)
+ 
+
+c. Marcelo Scerpella
+Realicé una limpieza de archivos erróneos en el repositorio.
+ ![Alt text](img/image-162.png)
+
+d. Michelle Moreno
+Agregué los archivos .feature de los US-01  al US-10, dentro de la rama master.
+![Alt text](img/image-161.png)
+ 
+ 
+d. Luis Aquije
+Agregué los archivos .feature de los US-11  al US-31, dentro de la rama master.
+![Alt text](img/image-159.png)
+![Alt text](img/image-160.png)
+
+  
+
+ 
+En Project Report
+a. Nirvana García
+Agregué contenido del informe
+![Alt text](img/image-157.png)
+ 
+
+b. Gabriel Bernal
+Agregué contenido del informe
+![Alt text](img/image-158.png)
+ 
+c. Marcelo Scerpella
+Agregué contenido del informe
+![Alt text](img/image-154.png)
+ 
+
+d. Michelle Moreno
+Agregué contenido del informe
+![Alt text](img/image-153.png)
+ 
+d. Luis Aquije
+Agregué contenido del informe
+![Alt text](img/image-152.png)
+
+
+
+<br><br>
+___
+<br>
+
+# 5.2.2 Sprint 2
+
+## 5.2.2.1. Sprint Planning 2
+![Alt text](img/image-167.png)
+![Alt text](img/image-168.png)
+![Alt text](img/image-169.png)
+![Alt text](img/image-170.png)
+![Alt text](img/image-171.png)
+
+
+<br><br>
+___
+<br>
+
+## 5.2.2.2. Sprint Backlog 2
+
+Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
+![Alt text](img/image-172.png)
+![Alt text](img/image-173.png)
+![Alt text](img/image-174.png)
+![Alt text](img/image-175.png)
+![Alt text](img/image-176.png)
+![Alt text](img/image-177.png)
+
+
+
+
+<br><br>
+___
+<br>
+
+## 5.2.2.3. Development Evidence for Sprint Review
+
+Mostramos los commits realizados para generar el producto de este Sprint 2 (Frontend Web Application).
+
+Repositorio Frontend Web Application:
+![Alt text](img/image-178.png)
+![Alt text](img/image-179.png)
+
+Repositorio Project Statement:
+![Alt text](img/image-180.png)
+
+
+
+
+<br><br>
+___
+<br>
+
+## 5.2.2.5. Execution Evidence for Sprint Review
+
+
+En este Sprint (Sprint 2), se logró desarrollar el frontend web application del e-commerce Akira, el cual cuenta con el propósito de ser un producto intuitivo, agradable y que satisfaga la demanda actual de consumidores de productos del entretenimiento asiático.
+
+URL video evidencia implementación del sprint: [Video Sprint 2](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1)
+
+![Alt text](img/image-181.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
-**En Sprint 1:**
+**Evidencia de implementación por cada US#**
 
-*a. Nirvana García*
+**US-10 Integración de sistema de registro/inicio de sesión**
+Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
+![Alt text](img/image-224.png)
 
-Creé en repositorio Project Statement, y dentro de este, el archivo markdown README.md que contiene el informe completo del proyecto. El commit de “Update README.md” tuvo la finalidad de ingresar el contenido del informe desde la carátula hasta el Lean Ux Canvas.
+  <br><br>
+**US-11 Integración de sistema de registro/inicio de sesión**
+Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
+![Alt text](img/image-225.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/264.%20Nirvana%20commit.png)
+  <br><br>
+**US-12 Implementación de perfil de usuario**
+Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
+![Alt text](img/image-226.png)
 
-
-Además, creé el repositorio Landing Page, el cual alberga las versiones del mismo.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/265.%20Nirvana%20commit.png)
-
-
-*En relación al sprint 1, logré lo siguiente:*
-
-- Crear la estructura de la página de login
-- Diseño de la Interfaz de Registro de Usuario
-- Estructura y diseño de las funcionalidades básicas de AKIRA
-- Diseño de implementación de envió a la página del producto para visualizar mayores detalles
-
-<br><br>
-
-*b. Gabriel Bernal*
-
-Agregué el contenido del informe desde Segmento Objetivo hasta As-Is Scenario Mapping, y además, eliminé un archivo no deseado dentro de la carpeta “img”, creada con el propósito de almacenar las imágenes que se albergan en nuestro informe.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/266.%20Gabriel%20commit.png)
+ <br><br>
 
 
-En relación al sprint 1, logré lo siguiente:
+**US-13 Implementación de perfil de usuario**
+Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
+![Alt text](img/image-227.png)
+ <br><br>
+ 
+**US-14 Implementación de perfil de usuario**
+Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
+![Alt text](img/image-228.png)
 
-- Diseño de Iniciar Sesión
-- Diseño de Registro de usuario
-- Desarrollar la función de búsqueda y compra de productos en la página para segmento de compradores 
+ <br><br>
+ 
+**US-15 Implementación de perfil de usuario**
+Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
+![Alt text](img/image-229.png)
+ 
+ <br><br>
 
-<br><br>
+**US-16 Implementación de perfil de usuario**
+Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.
+![Alt text](img/image-230.png)
 
+ <br><br>
+
+**US-17 Implementación de perfil de usuario**
+Como usuario, quiero poder ver mi historial de compras, pedidos pendientes y visualizar el estado de mis pedidos en mi perfil.
+![Alt text](img/image-231.png)
+
+ <br><br>
+
+**US-18 Implementación de perfil de usuario**
+Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.
+![Alt text](img/image-232.png)
+
+
+ <br><br>
+ 
+**US-19 Búsqueda de productos y filtrado**
+Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
+![Alt text](img/image-233.png)
+ 
+ <br><br>
+
+**US-20 Búsqueda de productos y filtrado**
+Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
+![Alt text](img/image-234.jpeg)
+
+
+
+ <br><br>
+
+**US-21 Categorización de productos**
+Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
+![Alt text](img/image-235.png)
+
+  <br><br>
+
+**US-22 Categorización de productos**
+Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
+![Alt text](img/image-236.png)
+
+ 
+ <br><br>
+
+**US-23 Proceso de compra**
+Como usuario, quiero poder agregar el producto a mi carrito de compras.
+![Alt text](img/image-237.png)
+
+
+ <br><br>
+
+**US-24 Proceso de compra**
+Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.
+![Alt text](img/image-238.png)
+
+ <br><br>
+
+**US-25 Proceso de compra**
+Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.
+![Alt text](img/image-239.png)
+
+ <br><br>
+
+**US-26 Proceso de compra**
+Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
+![Alt text](img/image-240.jpeg)
+
+ <br><br>
+
+**US-27 Proceso de compra**
+Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.
+![Alt text](img/image-241.png)
+
+ <br><br>
+
+**US-28 Proceso de compra**
+Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.
+![Alt text](img/image-242.png)
+
+ <br><br>
+
+**US-29 Proceso de compra**
+Como usuario, quiero recibir una confirmación de compra exitosa.
+![Alt text](img/image-243.png)
+
+ <br><br>
+
+**US-30 Proceso de compra**
+Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).
+![Alt text](img/image-244.png)
+
+ <br><br>
+
+**US-31 Proceso de compra**
+Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.
+![Alt text](img/image-245.png)
+
+ <br><br>
+
+**US-32 Contacto con Akira**
+Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.
+![Alt text](img/image-246.png)
+
+ <br><br>
+
+**US-33 Contacto con Akira**
+Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
+![Alt text](img/image-247.png)
+ 
+
+<br>
+<br>
+
+
+## 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En este Sprint (Sprint 2), se logró desarrollar el frontend web application del e-commerce Akira, el cual cuenta con el propósito de ser un producto intuitivo, agradable y que satisfaga la demanda actual de consumidores de productos del entretenimiento asiático.
+
+En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante Github Pages.
+![Alt text](img/image-248.png)
+![Alt text](img/image-249.png)
+
+**Evidencia de implementación por cada US#**
+
+**US-10 Integración de sistema de registro/inicio de sesión**
+Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
+![Alt text](img/image-224.png)
+
+  <br><br>
+**US-11 Integración de sistema de registro/inicio de sesión**
+Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
+![Alt text](img/image-225.png)
+
+  <br><br>
+**US-12 Implementación de perfil de usuario**
+Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
+![Alt text](img/image-226.png)
+
+ <br><br>
+
+
+**US-13 Implementación de perfil de usuario**
+Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
+![Alt text](img/image-227.png)
+ <br><br>
+ 
+**US-14 Implementación de perfil de usuario**
+Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
+![Alt text](img/image-228.png)
+
+ <br><br>
+ 
+**US-15 Implementación de perfil de usuario**
+Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
+![Alt text](img/image-229.png)
+ 
+ <br><br>
+
+**US-16 Implementación de perfil de usuario**
+Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.
+![Alt text](img/image-230.png)
+
+ <br><br>
+
+**US-17 Implementación de perfil de usuario**
+Como usuario, quiero poder ver mi historial de compras, pedidos pendientes y visualizar el estado de mis pedidos en mi perfil.
+![Alt text](img/image-231.png)
+
+ <br><br>
+
+**US-18 Implementación de perfil de usuario**
+Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.
+![Alt text](img/image-232.png)
+
+
+ <br><br>
+ 
+**US-19 Búsqueda de productos y filtrado**
+Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
+![Alt text](img/image-233.png)
+ 
+ <br><br>
+
+**US-20 Búsqueda de productos y filtrado**
+Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
+![Alt text](img/image-234.jpeg)
+
+
+
+ <br><br>
+
+**US-21 Categorización de productos**
+Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
+![Alt text](img/image-235.png)
+
+  <br><br>
+
+**US-22 Categorización de productos**
+Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
+![Alt text](img/image-236.png)
+
+ 
+ <br><br>
+
+**US-23 Proceso de compra**
+Como usuario, quiero poder agregar el producto a mi carrito de compras.
+![Alt text](img/image-237.png)
+
+
+ <br><br>
+
+**US-24 Proceso de compra**
+Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.
+![Alt text](img/image-238.png)
+
+ <br><br>
+
+**US-25 Proceso de compra**
+Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.
+![Alt text](img/image-239.png)
+
+ <br><br>
+
+**US-26 Proceso de compra**
+Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
+![Alt text](img/image-240.jpeg)
+
+ <br><br>
+
+**US-27 Proceso de compra**
+Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.
+![Alt text](img/image-241.png)
+
+ <br><br>
+
+**US-28 Proceso de compra**
+Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.
+![Alt text](img/image-242.png)
+
+ <br><br>
+
+**US-29 Proceso de compra**
+Como usuario, quiero recibir una confirmación de compra exitosa.
+![Alt text](img/image-243.png)
+
+ <br><br>
+
+**US-30 Proceso de compra**
+Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).
+![Alt text](img/image-244.png)
+
+ <br><br>
+
+**US-31 Proceso de compra**
+Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.
+![Alt text](img/image-245.png)
+
+ <br><br>
+
+**US-32 Contacto con Akira**
+Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.
+![Alt text](img/image-246.png)
+
+ <br><br>
+
+**US-33 Contacto con Akira**
+Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
+![Alt text](img/image-247.png)
+ 
+ 
+ <br><br>
+  <br><br>
+   <br><br>
+
+
+## 5.2.2.8. Team Collaboration Insights during Sprint 
+
+En FrontEnd Web Application
+
+a. Nirvana García
+Agregué las v1, v2 y v3 del frontend dentro de la rama master. Agregué la v1.0, v3.0 y v4.0 en la rama develop. Finalmente, agregué las nuevas secciones (4 en total) en la rama feature.
+![Alt text](img/image-202.png)
+![Alt text](img/image-203.png)
+![Alt text](img/image-204.png)   
+ 
+
+b. Gabriel Bernal
+Realicé un arreglo de cambio de interfaces en nuestra rama master.
+![Alt text](img/image-205.png)
+ 
+
+ 
 c. Marcelo Scerpella
-
-Agregué el contenido del informe desde To-Be Scenario Mapping hasta Product Backlog, encargándome de la creación de dichas tablas en formato markdown.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/267.%20Gabriel%20Commit.png)
-
-
-En relación al sprint 1, logré lo siguiente:
-- Diseño de Búsqueda de productos por nombre
-
-<br><br>
+Agregué la v2.0 y v1.1 de la rama develop, además de eliminar versiones erróneamente subidas en esta rama.
+![Alt text](img/image-206.png) 
 
 d. Michelle Moreno
+Agregué la v4 del frontend en la rama master y limpié archivos.
+![Alt text](img/image-207.png)
+  
+En Project Report
+a. Nirvana García
+Agregué contenido del informe
+![Alt text](img/image-208.png)
+ 
 
-Agregué el contenido del informe desde Style Guidelines hasta Web Applications Prototyping, enfocándome en linkear las imágenes del repositorio correspondiente a esta parte del informe que requería de un elevado número de imágenes.
+b. Gabriel Bernal
+Agregué contenido del informe
+![Alt text](img/image-209.png)
+ 
+c. Marcelo Scerpella
+Agregué contenido del informe
+![Alt text](img/image-210.png)
+ 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/268.%20Michelle%20Commit.png)
-
-
-Además, subí la primera versión del Landing Page de Akira dentro del repositorio de Landing Page.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/269.%20Michelle%20Commit.png)
-
-
-En relación al sprint 1, logré lo siguiente:
-
-- Añadir diseños a la página de login
-- Validación y limpieza del código
-- Implementación del Frontend de Registro de Usuario
-- Diseño de implementación de envió a la página del producto para visualizar mayores detalles
-
-<br><br>
-
-e. Luis Aquije
-
-Agregué el contenido del informe desde Domain-Driven Software Architecture hasta Bibliografía, tomando como reto la creación de tablas más complejas y la vinculación con imágenes dentro del informe.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/270.%20LuDi%20Commit.png)
+d. Michelle Moreno
+Agregué contenido del informe
+![Alt text](img/image-211.png)
+ 
+d. Luis Aquije
+Agregué contenido del informe
+ ![Alt text](img/image-212.png)
+ 
 
 
-En relación al sprint 1, logré lo siguiente:
-Diseño de Acceso al menú desplegable navbar
+
+
+
 
 <br><br>
 ___
@@ -4098,39 +4570,91 @@ ___
 # Conclusiones y recomendaciones 
 
 ## Conclusiones (TB1) 
-
 Como primera conclusión de esta etapa del proyecto AKIRA, hemos conseguido alcanzar los siguientes hitos:
 
-- Comprensión de la problemática a través de una investigación previa e identificaciones de los segmentos objetivos involucrados. 
+●	La realización de una exhaustiva investigación previa para comprender a fondo la problemática a abordar, identificando los segmentos objetivos involucrados y sus necesidades específicas nos permitió desarrollar una solución enfocada y relevante.
 
-- Refinamiento de nuestras ideas a través de la aplicación del proceso LEAN UX
+●	El refinamiento y mejora de nuestras ideas del proyecto al aplicar el proceso Lean UX, mediante ciclos de construcción, medición y aprendizaje nos permitió optimizar la experiencia del usuario y garantizar que nuestras soluciones fueran efectivas y satisfactorias.
 
-- Recopilación de datos verídicos de nuestros segmentos mediante el instrumento de la entrevista
+●	La recopilación de datos precisos y fiables mediante la realización de entrevistas con los segmentos objetivo  nos permitió obtener una comprensión profunda y empática de sus necesidades, deseos y preferencias, algo fundamental para el desarrollo de una solución adecuada.
 
-- Identificación de herramientas, lenguajes de programación, framework y marcadores hipertextuales para el desarrollo de nuestro proyecto.
+●	La identificación de correctas herramientas, lenguajes de programación, frameworks y marcadores hipertextuales más adecuados para el desarrollo de nuestro proyecto, garantizó la eficiencia y efectividad en la implementación de la solución.
 
-- Estructuración de las bases del repositorio con la herramienta Git y GitHub, además de diseñar el ciclo de vida del producto a base del proceso SCRUM.
+●	La estructuración de las bases del repositorio utilizando la herramienta Git y GitHub, nos permitió un control preciso de las versiones del proyecto, facilitando el trabajo colaborativo y asegurando la integridad del código fuente.
 
-**Resultados:**
+●	La implementación de Git Flow como flujo de trabajo ha demostrado ser efectiva en la gestión del desarrollo del proyecto, facilitando nuestra colaboración en equipo, la integración de nuevas características y cambios de manera controlada.
 
-- Como resultado de los LEAN UX Problems Statements, se destaca la oportunidad de negocio que existe para satisfacer la demanda de productos asiáticos en el mercado peruano y mejorar la experiencia de compra de los consumidores apasionados por la cultura asiática. Al abordar estos desafíos, una empresa local podría posicionarse como una opción atractiva y competitiva para los consumidores en busca de productos auténticos y una experiencia de compra más conveniente y satisfactoria.
+●	El diseño del ciclo de vida del producto basado en el marco de trabajo SCRUM nos proporcionó una estructura clara para la planificación, desarrollo, revisión y entrega del producto, permitiendo una gestión ágil y eficiente del proyecto.
 
-- Finalmente, luego de realizar una comparación con la información de nuestras entrevistadas con los LEAN UX Assumptions & Hypothesis Statements, se concluye lo siguiente:
 
-- No hubo mucha contrastación con los supuestos y las declaraciones hipotéticas con la información conseguida con las entrevistas, donde establecimos casos que el usuario se le otorga algún beneficio u oportunidad al usar nuestra aplicación web. Tomar estos casos como ejemplo a seguir; realmente nos beneficiaría en las ganancias y en la fructuosidad de este proyecto.
+●	La realización de las entrevistas a ambos segmentos objetivos nos permitió obtener una visión más completa y robusta sobre los fanáticos peruanos de la cultura asiática, específicamente en relación con el consumo de contenido de anime y Kpop, así como la adquisición de productos relacionados.
 
-<br>
+●	Los fanáticos se enfrentan a desafíos al adquirir productos en Perú, incluyendo la confirmación de autenticidad de los productos, precios inflados debido a monopolios locales, dificultades para encontrar ediciones limitadas y productos agotados rápidamente por la alta demanda y la poca cobertura de esta.
 
-## Recomendaciones (TB1) 
+●	Los fanáticos están dispuestos a invertir una cantidad considerable de dinero en la compra de productos de merch kpoper, anime y manga, inversión que puede incluir artículos como figuras, ropa, álbumes, photocards y accesorios relacionados.
+
+●	Los fanáticos recurren a diversas fuentes de adquisición, como tiendas físicas, compras en línea y la importación de productos del extranjero, también aprovechando las redes sociales y eventos relacionados para descubrir nuevas tiendas y promociones.
+
+●	Los vendedores de estos productos buscan promocionar sus productos y atraer a los fanáticos al ofrecer descuentos y ofertas especiales en momentos clave, como fiestas patrias y eventos temáticos.
+
+●	La calidad y el precio son factores importantes a considerar para los fanáticos al realizar sus compras. Buscan productos auténticos y de buena calidad, pero también están atentos a los precios y buscan obtener los mejores precios posibles, algo muy limitado en el mercado peruano actual relacionado a la cultura asiática.
+ 
+## Conclusiones (TP1) 
+
+Se desarrollaron las siguientes conclusiones relacionadas a esta segunda entrega:
+
+●	La adopción de Pivotal Tracker como herramienta de gestión de sprints demuestra una buena práctica en la metodología ágil, ya que el uso de esta herramienta ayudó mucho a organizar y priorizar las User Stories, facilitando la planificación y seguimiento del progreso del proyecto.
+
+●	La correcta estructuración de las User Stories y la asignación de Story Points demuestra un enfoque sólido hacia la estimación del esfuerzo requerido para completar cada tarea, permitiendo una mejor planificación y asignación de recursos en futuros sprints.
+
+●	El desarrollo y despliegue exitoso de una aplicación web frontend utilizando AngularJS es un logro significativo, ya que demuestra las habilidades técnicas del equipo de desarrollo y su capacidad para implementar soluciones funcionales utilizando tecnologías modernas.
+
+●	La evidencia de implementación de todas las User Stories muestra un cumplimiento exitoso de los requisitos planteados en el Product Backlog, debido a que esto indica que el equipo ha logrado abordar y completar todas las tareas planificadas para el sprint.
+
+●	La utilización de una nomenclatura clara y consistente para los commits en el repositorio de GitHub es una buena práctica de desarrollo colaborativo, facilita bastante la comprensión y el seguimiento de los cambios realizados en el código fuente y mejora la colaboración entre los miembros del equipo.
+
+●	El uso de AngularJS como tecnología principal para la frontend web application refleja la capacidad del equipo para adoptar y aprovechar tecnologías modernas, lo que puede resultar en una mejor experiencia para el usuario final.
+
+●	El cumplimiento exitoso de las tareas planificadas y la implementación de todas las User Stories indican un aumento en la productividad del equipo en comparación con entregas anteriores.
+ 
+## Recomendaciones (TB1)
 
 Como recomendaciones para esta primera fase del proyecto, se declaran las siguientes:
 
-- Seguir o moldear correctamente, dependiendo del transcurso del proyecto, el proceso SCRUM para un buen ciclo de vida de la aplicación Web.
-- Seguir patrones de diseño y convenciones establecidos para cada lenguaje o marcador de hipertexto. Esto asegurará una consistencia visual y una experiencia de usuario coherente.
-- Implementar revisiones regulares de retrospectiva, como reuniones al final de cada sprint para que el equipo de desarrollo pueda reflexionar sobre lo que salió bien y qué podría mejorarse en términos de procesos, colaboración y entregas.
-- Fomentar la motivación del equipo al darles la oportunidad de participar activamente en la toma de decisiones y en la evolución del proyecto.
- Realizar pruebas de usabilidad frecuentes en cada sprint para evaluar la experiencia del usuario en la plataforma.
-- Obtener retroalimentación directa de usuarios que interactúan con el sitio web con entrevistas. Estas retroalimentaciones ayudarán a identificar rápidamente cualquier problema de navegación, diseño o usabilidad que pueda afectar la satisfacción del cliente.
+●	Seguir o moldear correctamente, dependiendo del transcurso del proyecto, el proceso SCRUM para un buen ciclo de vida de la aplicación Web.
+
+●	Seguir patrones de diseño y convenciones establecidos para cada lenguaje o marcador de hipertexto. Esto asegurará una consistencia visual y una experiencia de usuario coherente.
+
+●	Implementar revisiones regulares de retrospectiva, como reuniones al final de cada sprint para que el equipo de desarrollo pueda reflexionar sobre lo que salió bien y qué podría mejorarse en términos de procesos, colaboración y entregas.
+
+●	Fomentar la motivación del equipo al darles la oportunidad de participar activamente en la toma de decisiones y en la evolución del proyecto.
+
+●	Realizar pruebas de usabilidad frecuentes en cada sprint para evaluar la experiencia del usuario en la plataforma.
+
+●	Obtener retroalimentación directa de usuarios que interactúan con el sitio web con entrevistas. Estas retroalimentaciones ayudarán a identificar rápidamente cualquier problema de navegación, diseño o usabilidad que pueda afectar la satisfacción del cliente.
+
+●	Es importante escuchar a distintos grupos de fanáticos de la cultura asiática, ya que cada uno cuenta con una experiencia distinta en cuanto a procesos de compra, dificultades en cuanto al comercio informal de estos productos, la inflación de precios por alta demanda, entre otros datos enriquecedores.
+
+●	Se debe manejar una buena base de programación empleando HTML, CSS, Javascript y frameworks sencillos como Bootstrap para agilizar el proceso de creación de una Landing Page, ya que conocimientos sólidos, el aprender desde cero retrasa mucho el proceso.
+
+ 
+## Recomendaciones (TP1)
+
+●	Mantener el uso de Pivotal Tracker como herramienta de gestión de sprints. Esta práctica ha demostrado ser efectiva para organizar y priorizar las User Stories, lo que facilita la planificación y el seguimiento del progreso del proyecto.
+
+●	Mantener una estructura clara de ramas en Gitflow, ya que al seguir la estructura de ramas propuesta por Gitflow, que incluye ramas principales como "master",  "develop" y “feature”, facilitará la colaboración entre los miembros del equipo y el seguimiento del flujo de trabajo del proyecto.
+
+●	Continuar estructurando correctamente las User Stories y asignando Story Points. Esta práctica sólida de estimación del esfuerzo necesario para cada tarea te permitirá planificar de manera más efectiva y asignar los recursos adecuados en futuros sprints.
+
+●	Seguir documentando los commits de manera clara y consistente. La nomenclatura coherente en el repositorio de GitHub mejora la colaboración y el seguimiento de los cambios en el código fuente, lo cual es fundamental para mantener un desarrollo colaborativo eficiente.
+
+●	Fomentar la colaboración y el intercambio de conocimientos. Establece espacios para compartir conocimientos, resolver dudas y apoyarse mutuamente. Esto fortalecerá la cohesión del equipo y mejorará la calidad de las soluciones implementadas.
+
+●	Mantener un enfoque ágil y adaptable. Sigue siendo flexible y adaptable a medida que evoluciona el proyecto. Abraza los cambios y desafíos que surjan, y ajusta tus planes y estrategias en consecuencia. La capacidad de adaptarse rápidamente a las necesidades cambiantes del proyecto es fundamental para el éxito a largo plazo.
+
+●	Mantener la actualización de AngularJS y Angular Material, ya que mbas tecnologías están en constante evolución, por lo que es importante mantenerse actualizado con las versiones más recientes. Esto te permitirá aprovechar nuevas características, mejoras de rendimiento y correcciones de errores, garantizando una mejor experiencia para los usuarios y facilitando el mantenimiento del código.
+
+
 
 
 <br><br>
@@ -4153,16 +4677,69 @@ Ponce, J. (26 de enero del 2022). Mangas: el fenómeno editorial que sigue creci
 ___
 <br>
 
+
 # Anexos
 
-**Anexos A: Gráficos y Tablas utilizadas**
+**Anexo A: Tabla con detalles de nuestros videos**
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/271.%20Anexo.png)
-
-
-Gráfica 1: https://trends.google.es/trends/explore?date=now%201-d&geo=PE&q=BTS,Ariana%20Grande&hl=es
+Carpeta con todos los videos en Microsoft Steam: [Open Source](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source&ga=1)
 
 
+| Sección                                    | Descripción del video                                   | URL del video en Steam                                |
+| ------------------------------------------ | ------------------------------------------------------- | ----------------------------------------------------- |
+| Needfinding Interviews                     | Video de Entrevistas a segmentos objetivos               | [upc-pre-202302-si729-ws52-lambders-needfinding-sprint-1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1) |
+| Prototypes Navigation / Product Navigation | Video Prototipo Web Akira (Sprint 1)                    | [upc-pre-202302-si729-ws52-lambders-web-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dweb%2Dprototype%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1) |
+| Prototypes Navigation / Product Navigation | Video Prototipo Mobile Akira (Sprint 1)                 | [upc-pre-202302-si729-ws52-lambders-mobile-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dmobile%2Dprototype%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1) |
+| Prototypes Navigation / Product Navigation | Video Producto Landing Page (Sprint 1)                  | [upc-pre-202302-si729-ws52-lambders-product-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIuNzh9fQ%3D%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIuNzh9fQ==&ga=1) |
+| Prototypes Navigation / Product Navigation | Video Producto Frontend Web App (Sprint 2)              | [upc-pre-202302-si729-ws52-lambders-product-navigation-sprint-2.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1) |
+| Exposición                                 | Video Exposición TB1                                    | [upc-pre-202302-si729-ws52-lambders-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1)       |
+| Exposición                                 | Video Exposición TP1                                    | [upc-pre-202302-si729-ws52-lambders-expo-tp1.mp4]()       |
 
 
 
+<br><br>
+___
+<br>
+
+**Anexo B: URL´s dentro del Trabajo**
+
+
+| Sección     | Descripción del URL                 | URL del video en Steam                                               |
+|-------------|-------------------------------------|----------------------------------------------------------------------|
+| Despliegue  | Landing Page desplegada             | [https://si729-grupo2-ws52-open-source.github.io/Landing-Page/](https://si729-grupo2-ws52-open-source.github.io/Landing-Page/)       |
+| Despliegue  | Frontend Web app desplegado         | https://si729-grupo2-ws52-open-source.github.io/Frontend-Web-Applications/   |
+| Prototipado | Figma Akira                         | [https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design](https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design) |
+| Github      | Organización Grupo 2 en Github      | [https://github.com/orgs/SI729-Grupo2-WS52-Open-Source/repositories](https://github.com/orgs/SI729-Grupo2-WS52-Open-Source/repositories)   |
+| Pivotal Tracker      | Product Backlog, Epics y User Stories      | [https://www.pivotaltracker.com/n/projects/2678604](https://www.pivotaltracker.com/n/projects/2678604)   |
+
+
+
+
+<br><br>
+___
+<br>
+
+**Anexo C: Gráfica How Much**
+
+Nota: Información del 21 de septiembre del 2022. De “Ingresos de la industria japonesa de animación procedentes de las emisiones de televisión entre 2002 y 2020”. Statista, 2022. (https://es.statista.com/estadisticas/592763/ingresos-de-las-series-televisivas-de-anime-japones/#:~:text=Esta%20estad%C3%ADstica%20refleja%20la%20evoluci%C3%B3n,millones%20de%20yenes%20en%202020.)
+![Alt text](img/image-213.png)
+
+
+<br><br>
+___
+<br>
+
+**Anexo D: Gráfica How Much**
+Comparación entre BTS y Ariana Grande a través de Google Trends
+![Alt text](img/image-214.png)
+
+
+<br><br>
+___
+<br>
+
+**Anexo E: User Journey Mapping**
+
+Url para mejor visualización: 
+https://drive.google.com/file/d/13KpXZZPZRLUD8ieEOCAHu6t4qbogwjdp/view
+![Alt text](img/image-215.png)
