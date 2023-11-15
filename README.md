@@ -4541,11 +4541,120 @@ d. Diego Sanchez
 Agregué contenido del informe
  ![Alt text](img/image-212.png)
  
+<br><br>
+___
+<br>
 
+# 5.2.3 Sprint 3
+<br>
+___
+<br>
 
+## 5.2.3.1. Sprint Planning 3
 
+![Spring Planning 3](img/tb2_sprint_planning_3.png)
+![Spring Planning 3](img/tb2_sprint_planning_3-2.png)
+![Spring Planning 3](img/tb2_sprint_planning_3-3.png)
 
+<br>
+  
+## 5.2.3.2. Sprint Backlog 3
 
+Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story.
+
+![Spring Backlog 3](img/tb2_sprint_product_backlog.png)
+![Spring Backlog 3](img/tb2_sprint_product_backlog_3-2.png)
+
+## Development Evidence for Sprint Review
+
+### Repositorio Web Services: 
+
+### Repositorio Acceptance-Tests:
+
+### Repositorio Project Statement:
+
+### Repositorio Landing Page:
+
+## 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+Incluimos el código de los .feature Files, explicando con qué User Stories de nuestro Sprint 3 se relacionan. 
+
+Iniciamos realizando los .features en Visual Studio Code, con el lenguaje Gherkin. En particular, realizamos esto para los user stories 34, 35 y 36.
+
+![]()
+
+![]()
+
+![]()
+
+Posteriormente, realizamos un git pull a estos .feature en su Repository correspondiente, el cual se llama “Acceptance Test (Gherkin)”.
+
+![]()
+
+Podemos visualizar la correcta subida de los archivos .feature en el repository a continuación:
+
+![]()
+
+![]()
+
+![]()
+
+## 5.2.3.5. Execution Evidence for Sprint Review 
+
+En este Sprint (Sprint 3), se logró desarrollar el Web Services del e-commerce Akira, el cual cuenta con el propósito de procesar y gestionar los datos dentro de Akira, logrando manejar la lógica de la plataforma, interactuar con la base de datos, autenticar usuarios, realizar operaciones CRUD (crear, leer, actualizar, eliminar) y proporcionar servicios y APIs para que el frontend, realizado en vue JS, pueda comunicarse con él.
+
+![]()
+
+[URL Video de evidencia de la implementación del Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EWVfRz0Zb-lPiLJXwAbUlBAB7rT_pw4HyQyATQanuezd0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Wsok6K)
+
+### Evidencia de implementación por cada US#
+
+**US-34 Visualización de la estructura adecuada de packages de backend con java**
+Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).
+
+![]()
+![]()
+![]()
+
+**US-35 Correcto modelado de las clases en C#**
+Como desarrollador, quiero que las clases de C#dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
+
+![]()
+![]()
+![]()
+
+**US-36 Comunicación con el Frontend de Akira**
+Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
+
+![]()
+
+## 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se incluye la relación de Endpoints documentados, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint. Debe elaborarse una tabla en la que se incluya, para cada Endpoint, la indicación de acciones implementadas, junto con los enlaces correspondientes a la documentación desplegada (o URL local en Sprints previos al despliegue de Web Services). Indicar las acciones soportadas incluyendo para cada acción el verbo http (get, post, put, delete, patch), sintaxis de llamada, especificación de posibles parámetros, así como ejemplo y explicación del response. Adicionalmente, debe incluirse y explicarse capturas en imágenes de la interacción, utilizando datos de muestra, con la documentación elaborada. Debe incluirse el URL del repositorio de Web Services, junto con los id de los commits relacionados con Documentación para este Sprint. 
+
+**Detalles de Endpoints**
+
+Tabla de Endpoints, en donde visualizamos todos los métodos que podemos realizar en nuestro Backend.
+
+| Método    | Endpoint                                     |  Description                    |
+|-----------|----------------------------------------------|-------------------------------|
+|GET|(http://20.55.32.254:8080/products/popular/anime)||
+|GET|(http://20.55.32.254:8080/products/popular/kpop )||
+|GET|(http://20.55.32.254:8080/products/popular/lectura  )||
+|GET|(http://20.55.32.254:8080/products/popular)||
+|POST|(http://20.55.32.254:8080/products/{data} )||
+|GET|()||
+|DELETE|(http://20.55.32.254:8080/products )||
+|POST|(http://20.55.32.254:8080/products/{id} )||
+|POST|(http://20.55.32.254:8080/shipping?= )||
+|GET|(http://20.55.32.254:8080/users?= )||
+|GET|(http://20.55.32.254:8080/users?= )||
+|DELETE|(http://20.55.32.254:8080/orders?= )||
+|DELETE|()||
+|POST|||
+|PUT|()||
+|DELETE|()||
+|PUT|()||
 
 <br><br>
 ___
