@@ -4687,6 +4687,22 @@ directorios y archivos.
 ___
 <br>
 
+# Video About the Team
+
+Realizamos nuestro video About the team, primero iniciando con un breve resumen de
+los productos realizados a lo largo de estos Sprints (1, 2 y 3). Posteriormente, se
+muestran pequeñas reuniones de trabajo entre los diferentes integrantes del equipo,
+desarrollando el codigo del proyecto. Finalmente, cada integrante explica sus tareas
+realizadas a lo largo del proyecto, sus logros y aprendizajes.
+
+![alt text](img/tb2_about-the-team.png)
+
+[Video About the Team](upc-pre-202302-si730-ws51-lambders-aboutthe-team-sprint-3.mp4)
+
+<br><br>
+___
+<br>
+
 # Bibliografía 
 
 Chavez, L. (30 de mayo del 2023) Anime: El boom de este fenómeno en Perú. Punto Seguido - UPC. [https://puntoseguido.upc.edu.pe/anime-el-boom-de-este-fenomeno-en-el-peru/] 
