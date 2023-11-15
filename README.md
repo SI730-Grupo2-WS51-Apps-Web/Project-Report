@@ -4736,8 +4736,9 @@ Carpeta con todos los videos en Microsoft Steam: [Apps Web](https://upcedupe-my.
 | Prototypes Navigation / Product Navigation | Video Producto Frontend Web App (Sprint 2)              | [upc-pre-202302-si730-ws51-lambders-product-navigation-sprint-2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EXe6c6zPjgNMoH1PZcBz0PQBZ3ygYyzZNhH1vLXAcPYdkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=rKUeUc) |
 | Exposición                                 | Video Exposición TB1                                    | [upc-pre-202302-si730-ws51-lambders-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/Eb6CyFBz8gBCh7Ig3CwrHx4BZrMBltBAOKyVm8k_WHPB_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=RI4xIp)       |
 | Exposición                                 | Video Exposición TP1                                    | [upc-pre-202302-si730-ws51-lambders-expo-tp1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EYLgEJALWalGi9FgtZwLPKcBeOMX5iLi37ojxxK9Wl1GJw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=dOJw21)       |
-
-
+| Exposición                                 | Video Exposición TB2   | [upc-pre-202302-si730-ws51-lambders-expo-tb2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EegBMZ0wb6FHjWBddHDjOegB0Kd_7qfjjkLnV6bh1UQb1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Licrvs)       |
+| About the Product                          | Video Promocional (TB2)  | [upc-pre-202302-si730-ws51-lambders-aboutthe-product-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EbYyEN5ur4BJnBuhR8uzqLYB0UJ9lcXM3X2jmq2hu9Ne0g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=lTHieE) |
+| About the Team                             | Video del equipo y trabajo realizado (Sprint 3) | [upc-pre-202302-si730-ws51-lambders-about-the-team-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EUo0c561lWFDj00Uep2WNe0Boqm19-0mzWvLLn78WMCU6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=iwQqrk)|
 
 <br><br>
 ___
@@ -4748,11 +4749,12 @@ ___
 
 | Sección     | Descripción del URL                 | URL del video en Steam                                               |
 |-------------|-------------------------------------|----------------------------------------------------------------------|
-| Despliegue  | Landing Page desplegada             | [https://si729-grupo2-ws52-open-source.github.io/Landing-Page/](https://si729-grupo2-ws52-open-source.github.io/Landing-Page/)       |
-| Despliegue  | Frontend Web app desplegado         | https://akirasandbox-e9b09.web.app/store   |
-| Prototipado | Figma Akira                         | [https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design](https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design) |
-| Github      | Organización Grupo 2 en Github      | https://github.com/orgs/SI730-Grupo2-WS51-Apps-Web/repositories   |
-| Pivotal Tracker      | Product Backlog, Epics y User Stories      | [https://www.pivotaltracker.com/n/projects/2678604](https://www.pivotaltracker.com/n/projects/2678604)   |
+| Despliegue  | Landing Page desplegada             | [Landing page Deployment](https://si729-grupo2-ws52-open-source.github.io/Landing-Page/)       |
+| Despliegue  | Frontend Web app desplegado         | [Front-end Deployment](https://akira-ecommerce.netlify.app/)|
+| Web Service | Web Service desplegado              | [SwaggerUI for Akira](http://20.55.32.254:8080/swagger-ui/index.html#/)|
+| Prototipado | Figma Akira                         | [Design Models for Web Applications with Figma](https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design) |
+| Github      | Organización Grupo 2 en Github      | [Akira´s Github repository](https://github.com/orgs/SI730-Grupo2-WS51-Apps-Web/repositories)   |
+| Pivotal Tracker      | Product Backlog, Epics y User Stories      | [Product Backlog](https://www.pivotaltracker.com/n/projects/2678604)   |
 
 
 
