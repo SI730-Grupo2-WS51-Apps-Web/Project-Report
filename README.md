@@ -4637,25 +4637,217 @@ En esta sección se incluye la relación de Endpoints documentados, relacionados
 Tabla de Endpoints, en donde visualizamos todos los métodos que podemos realizar en nuestro Backend.
 
 | Método    | Endpoint                                     |  Description                    |
-|-----------|----------------------------------------------|-------------------------------|
-|GET|(http://20.55.32.254:8080/products/popular/anime)||
-|GET|(http://20.55.32.254:8080/products/popular/kpop )||
-|GET|(http://20.55.32.254:8080/products/popular/lectura  )||
-|GET|(http://20.55.32.254:8080/products/popular)||
-|POST|(http://20.55.32.254:8080/products/{data} )||
-|GET|()||
-|DELETE|(http://20.55.32.254:8080/products )||
-|POST|(http://20.55.32.254:8080/products/{id} )||
-|POST|(http://20.55.32.254:8080/shipping?= )||
-|GET|(http://20.55.32.254:8080/users?= )||
-|GET|(http://20.55.32.254:8080/users?= )||
-|DELETE|(http://20.55.32.254:8080/orders?= )||
-|DELETE|()||
-|POST|||
-|PUT|()||
-|DELETE|()||
-|PUT|()||
+|----------|-----------------------------------------------|-------------------------------|
+|GET|(http://20.55.32.254:8080/products/popular/anime)|Obtenemos todos los productos populares del rubro anime|
+|GET|(http://20.55.32.254:8080/products/popular/kpop)|Obtenemos todos los productos populares del rubro kpop|
+|GET|(http://20.55.32.254:8080/products/popular/lectura)|Obtenemos todos los productos populares del rubro lectura|
+|GET|(http://20.55.32.254:8080/products/popular)|Obtenemos todos los productos populares|
+|POST|(http://20.55.32.254:8080/products/{data})|Publicamos las data de los productos|
+|GET|(http://20.55.32.254:8080/products)|Obtenemos todos los productos|
+|DELETE|(http://20.55.32.254:8080/products/{id})|Eliminamos un producto por id|
+|POST|(http://20.55.32.254:8080/shipping?=)|Posteamos el shipping|
+|POST|(http://20.55.32.254:8080/users?=)|Posteamos la información de un nuevo usuario|
+|GET|(http://20.55.32.254:8080/users?=)|Obtenemos todos los usuarios|
+|GET|(http://20.55.32.254:8080/orders?=)|Obtenemos todas las órdenes|
+|DELETE|(http://20.55.32.254:8080/cart/{cartId})|Eliminamos un carrito por su id|
+|DELETE|(http://20.55.32.254:8080/orders/{orderId})|Eliminamos una orden por su id|
+|POST|(http://20.55.32.254:8080/cart?= )|Posteamos un carrito|
+|PUT|(http://20.55.32.254:8080/users/${userId})|Reemplazamos los datos de usuario por user id|
+|DELETE|(http://20.55.32.254:8080/users/${userId})|Eliminamos un usuario por su usuario id|
+|PUT|(http://20.55.32.254:8080/shipping/${idShipping})|Reemplazamos los datos de shipping por el id del shipping|
 
+**Postman**
+Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products], y la acción GET.
+
+![Postman Get](img/tb2_postman.png)
+
+Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/popular/anime], y la acción GET.
+
+![Postman Get](img/tb2_postman-2.png)
+
+Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/popular/kpop], y la acción GET.
+
+![Postman Get](img/tb2_postman-3.png)
+
+Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/products/popular], y la acción GET.
+
+![Postman Get](img/tb2_postman-4.png)
+
+Visualizamos la creación de nuestra base de datos desde la consola de Linux, mostrando las respectivas tablas.
+
+**Tabla de Productos:**
+![Tabla de Productos](img/tb2_tables_linux.png)
+![Tabla de Productos](img/tb2_tables_linux-2.png)
+
+**Tabla de Usuarios:**
+![Tabla de Usuarios](img/tb2_tables_linux-3.png)
+
+**Swagger**
+
+Mostramos el uso de Swagger en el Backend
+![user-controller](img/tb2_swaggerUI.png)
+![product-controller](img/tb2_swaggerUI-2.png)
+![order-controller](img/tb2_swaggerUI-3.png)
+![shipping-controller](img/tb2_swaggerUI-4.png)
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este Sprint (Sprint 3), se logró desarrollar el Web Services del e-commerce Akira, el cual cuenta con el propósito de procesar y gestionar los datos dentro de Akira, logrando manejar la lógica de la plataforma, interactuar con la base de datos, autenticar usuarios, realizar operaciones CRUD (crear, leer, actualizar, eliminar) y proporcionar servicios y APIs para que el frontend, realizado en vue JS, pueda comunicarse con él.
+
+
+En cuanto al Deployment de este producto para el Sprint 3, se desplegó nuestro Frontend mediante Github Pages y el Backend mediante Microsoft Azure y Sprint Boot.
+
+![Netlify](img/tb2_netlify.png.jpg) ![Microsoft Azure](img/tb2_azure.png)
+  ![ASP.Net](img/tb2_aspnet.png)
+
+Empleo de ASP.NET para la creación de la estructura de backend. 
+
+![ASP.NET Evidence](img/tb2_deployment_evidence_aspnet.png)
+
+Utilizamos Microsoft Azure para el despliegue del Backend.
+
+![Microsoft Azure Evidence](img/tb2_deployment_evidence_azure.png)
+
+Por otro lado, empleamos Netlify para el despliegue del Frontend
+
+![Netlify Evidence](img/tb2_deployment_evidence_netlify.png)
+
+***Evidencia de implementación por cada User Story***
+
+***US-34 Visualización de la estructura adecuada de packages de backend con java***
+Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).
+
+![]()
+![]()
+![]()
+
+***US-35 Correcto modelado de las clases en C#***
+Como desarrollador, quiero que las clases de C#dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
+
+![]()
+![]()
+![]()
+
+***US-36 Comunicación con el Frontend de Akira***
+Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
+
+![]()
+
+## 5.2.3.8. Team Collaboration Insights during Sprint
+
+### END Project Report
+
+***a. Nirvana García***
+Agregué el apartado de Heurísticas en el informe, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
+![]()
+
+Agregué el apartado de video about the product dentro del Landing Page. (feature branch)
+![]()
+
+Agregué la versión 3.1 dentro del Landing Page. (develop branch)
+![]()
+
+Agregue la versión 3 del Landing Page (release branch)
+![]()
+
+
+***b. Gabriel Bernal***
+Agregué el backend de Akira (main branch)
+![]()
+
+***c. Michelle Moreno***
+Agregué el apartado de Sprint 3, Sprint Backlog 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
+![]()
+
+Agregué la versión 3.1 completa dentro del Landing Page. (feature branch)
+![]()
+
+Agregué la versión 3.1 dentro del Landing Page. (develop branch)
+![]()
+
+***d. Marcelo Scerpella***
+Agregué el apartado de Diseño de entrevistas y Análisis de Entrevistas en Sprint 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
+![]()
+
+***e. Diego Sanchez***
+Agregué los .feature para los US-34. US-35 y US-36 (master branch)
+![]()
+![]()
+![]()
+
+## 5.3 Validation Interviews
+
+## 5.3.1 Diseño de Entrevistas
+
+Para esta validación se incluirán los siguientes productos:
+
+***Landing Page***
+![]()
+
+***Front-end Web Application**
+![]()
+
+
+User Flows a validar (En Landing Page)
+
+f. User Flow Diagram F: Contactar con AKIRA
+
+
+User Flows a validar (En Frontend Web Application)
+
+a. User Flow Diagram A: Inicio de Sesión
+b. User Flow Diagram B: Visualizar Cuenta
+c. User Flow Diagram C: Buscar productos, artistas o géneros
+d. User Flow Diagram D: Filtrar búsqueda
+f. User Flow Diagram F: Contactar con AKIRA
+
+Preguntas a realizar para ambos Segmentos Objetivos
+
+a. ¿Qué tal te pareció la usabilidad de nuestros productos?
+b. ¿Lograste visualizar el apartado de contacto con el startup en ambos productos? ¿Qué tal te pareció el apartado?
+c. ¿Lograste visualizar el inicio de sesión en la página web de nuestra tienda virtual? ¿Qué tal te pareció el apartado?
+d. ¿Lograste visualizar la cuenta de usuario en la página web de nuestra tienda virtual? ¿Qué tal te pareció el apartado?
+e. ¿Lograste visualizar la funcionalidad de búsqueda y filtrado en la página web de nuestra tienda virtual? ¿Qué tal te pareció el apartado?
+f. ¿Nos podrías mencionar qué apartado o funcionalidad de nuestra tienda consideras que podría ser mejorada?
+
+## 5.3.2. Registro de Entrevistas
+
+Video de las entrevistas: 
+[upc-pre-202302-si729-ws52-lambders- needfinding-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/Eeec5BPHF8BAgd0-MRJft-MBcYjShGBtbhYuB0Ei0fbsPA?e=3gvvLu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Realizamos 6 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el Landing Page como el Frontend Web Application.
+
+![]()
+
+***Entrevista N°1 (Fanática del entretenimiento asiático)***
+![]()
+
+Entrevistador: Nirvana García Vásquez
+Entrevistada: Fiorella Tamariz Pantoja
+Tiempo en el video: [00:00:00] - [00:11:21]
+
+En esta entrevista se contactó con una fanática de Kpop, la cual se encontraba muy interesada en conocer nuestro Startup y producto principal, Akira. Junto a ella, navegamos entre nuestros dos productos generados en los tres primeros Sprints, el Landing Page y el Frontend Web Application. Luego de que Fiorella interactúe con todas las opciones, selecciones y funcionalidades disponibles, nos brindó un feedback, expresando de que le gustó mucho la estética de ambos productos, notó siempre la correcta funcionalidad de los apartados existentes, se impresionó con el uso de la barra de búsqueda para encontrar los productos vendidos en tienda. Como principal recomendación a mejorar, nos mencionó que al buscar productos, algunos productos tenían una inusual desproporción de tamaño de imagen, problema que como startup, pasamos por alto.
+
+***Entrevista N°2 (Vendedor de productos del entretenimiento asiático)***
+![]()
+
+Entrevistador: Nirvana García Vásquez
+Entrevistado: Sebastian Delgado Del Castillo
+Tiempo en el video: [00:11:22] - [00:23:21]
+
+En esta entrevista, contactamos con un vendedor de productos del entretenimiento asiático, el cual nos comenta que es parte de una tienda de productos de anime y kpop en el centro comercial Arenales, ubicado en Lima, Perú. Junto a él, navegamos por los diferentes apartados de los productos desarrollados en las tres primeras entregas del curso, tanto el Landing Page como el Frontend Web Application. Cuando Sebastian terminó de interactuar con todas las funcionalidades y apartados de ambos productos mostrados, decidí consultarle qué tal le había parecido la experiencia. Él nos comenta que le gustó bastante la estética de ambas páginas, la tipografia, gama de colores limpia y homogenea, y que el fondo claro con los toques de color rojo lo hacian sentir como si estuviese leyendo un Manga.Tambien, aportó con una recomendación acerca de lo que podemos mejorar, la cual se enfocó en agregar algun modal cuando la edición de los datos dentro de la cuenta de usuario sea exitosa, ya que solo se actualiza de manera automática, sin dar algun aviso de que se cambió exitosamente.
+
+***Entrevista N°3 (Vendedor de productos del entretenimiento asiático)***
+![]()
+
+Entrevistador: Michelle Moreno Best
+Entrevistada: Flavia Delgado Polo
+Tiempo en el video: [00:23:22] - [00:37:38]
+
+En la entrevista realizada, la entrevistada considera que las páginas web mostradas (landing page y frontend) tienen un diseño atractivo, sencillo y directo. Resalta como punto positivo que se puedan usar tanto para clientes como vendedores. Verifica que el apartado de contacto brinda varias opciones para comunicarse como correo, teléfono y redes sociales. Además. menciona que el proceso de registro y login es sencillo y fácil de usar, al igual que otras páginas web. Lo que le ha gustado de las páginas es que en el perfil de usuario, está toda la información y órdenes centralizada, facilitando la actualización de datos. Señala que la barra de búsqueda permite encontrar productos de forma rápida y sencilla. Sin embargo, nos menciona un error en la página del front end que es sobre la cancelación de una orden, y nos recomienda mejorar ese apartado ya que al actualizar la página recién se borra el producto visualmente, sugiere que el  informe de órdenes del perfil se cancele cuando se toque el botón correspondiente.
+
+***Entrevista N°4 (Vendedor de productos del entretenimiento asiático)***
+![]()
 <br><br>
 ___
 <br>
