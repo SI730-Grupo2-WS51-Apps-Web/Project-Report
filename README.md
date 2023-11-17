@@ -3828,8 +3828,7 @@ Esta herramienta que nos facilitará la colaboración con git, esta es una plata
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/252.%20Github%20logo.png)
 
-
-<br><br>
+<br>
 ___
 <br>
 
@@ -4541,11 +4540,12 @@ d. Diego Sanchez
 Agregué contenido del informe
  ![Alt text](img/image-212.png)
  
-<br><br>
+<br>
 ___
 <br>
 
 # 5.2.3 Sprint 3
+
 <br>
 ___
 <br>
@@ -4569,11 +4569,19 @@ Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el 
 
 ### Repositorio Web Services: 
 
+![Web Services](img/tb2_deployment_evidence_repo_web_services.png)
+
 ### Repositorio Acceptance-Tests:
+
+![Acceptance Tests](img/tb2_deployment_evidence_repo_acceptance_tests.png)
 
 ### Repositorio Project Statement:
 
+![Project Statement](img/tb2_deployment_evidence_repo_acceptance_tests.png)
+
 ### Repositorio Landing Page:
+
+![Landing Page](img/tb2_deployment_evidence_repo_landing_page.png)
 
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -4581,29 +4589,30 @@ Incluimos el código de los .feature Files, explicando con qué User Stories de 
 
 Iniciamos realizando los .features en Visual Studio Code, con el lenguaje Gherkin. En particular, realizamos esto para los user stories 34, 35 y 36.
 
-![]()
+![Test created](img/tb2_testing_create_us34.png)
 
-![]()
+![Test created](img/tb2_testing_create_us35.png)
 
-![]()
+![Test created](img/tb2_testing_create_us36.png)
 
 Posteriormente, realizamos un git pull a estos .feature en su Repository correspondiente, el cual se llama “Acceptance Test (Gherkin)”.
 
-![]()
+![Tests created](img/tb2_testing_all_us.png)
 
 Podemos visualizar la correcta subida de los archivos .feature en el repository a continuación:
 
-![]()
+![Test](img/tb2_testing_us34.png)
 
-![]()
+![Test](img/tb2_testing_us35.png)
 
-![]()
+![Test](img/tb2_testing_us36.png)
+
 
 ## 5.2.3.5. Execution Evidence for Sprint Review 
 
 En este Sprint (Sprint 3), se logró desarrollar el Web Services del e-commerce Akira, el cual cuenta con el propósito de procesar y gestionar los datos dentro de Akira, logrando manejar la lógica de la plataforma, interactuar con la base de datos, autenticar usuarios, realizar operaciones CRUD (crear, leer, actualizar, eliminar) y proporcionar servicios y APIs para que el frontend, realizado en vue JS, pueda comunicarse con él.
 
-![]()
+![Sprint 3 Execution Evidence](img/tb2_execution_evidence.png)
 
 [URL Video de evidencia de la implementación del Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EWVfRz0Zb-lPiLJXwAbUlBAB7rT_pw4HyQyATQanuezd0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Wsok6K)
 
@@ -4612,21 +4621,21 @@ En este Sprint (Sprint 3), se logró desarrollar el Web Services del e-commerce 
 **US-34 Visualización de la estructura adecuada de packages de backend con java**
 Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).
 
-![]()
-![]()
-![]()
+![US-34](img/tb2_evidence_us34_implementation.png)
+![US-34](img/tb2_evidence_us34_implementation-2.png)
+![US-34](img/tb2_evidence_us34_implementation-3.png)
 
 **US-35 Correcto modelado de las clases en C#**
 Como desarrollador, quiero que las clases de C#dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
 
-![]()
-![]()
-![]()
+![US-35](img/tb2_evidence_us35_implementation.png)
+![US-35](img/tb2_evidence_us35_implementation-2.png)
+![](img/tb2_evidence_us35_implementation-3.png)
 
 **US-36 Comunicación con el Frontend de Akira**
 Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
 
-![]()
+![US-36](img/tb2_evidence_us36_implementation.png)
 
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -4717,21 +4726,21 @@ Por otro lado, empleamos Netlify para el despliegue del Frontend
 ***US-34 Visualización de la estructura adecuada de packages de backend con java***
 Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).
 
-![]()
-![]()
-![]()
+![US-34](img/tb2_implements_u34.png)
+![US-34](img/tb2_implements_u34-2.png)
+![US-34](img/tb2_implements_u34-3.png)
 
 ***US-35 Correcto modelado de las clases en C#***
 Como desarrollador, quiero que las clases de C#dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
 
-![]()
-![]()
-![]()
+![US-35](img/tb2_implements_u35.png)
+![US-35](img/tb2_implements_u35-2.png)
+![US-35](img/tb2_implements_u35-3.png)
 
 ***US-36 Comunicación con el Frontend de Akira***
 Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
 
-![]()
+![US-36](img/tb2_implements_u36.png)
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -4739,61 +4748,64 @@ Como desarrollador, quiero establecer una comunicación eficiente y confiable en
 
 ***a. Nirvana García***
 Agregué el apartado de Heurísticas en el informe, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
-![]()
+![](img/tb2_team_collaboration_nirvana.png)
 
 Agregué el apartado de video about the product dentro del Landing Page. (feature branch)
-![]()
+![](img/tb2_team_collaboration_nirvana-2.png)
 
 Agregué la versión 3.1 dentro del Landing Page. (develop branch)
-![]()
+![](img/tb2_team_collaboration_nirvana-2.png)
 
 Agregue la versión 3 del Landing Page (release branch)
-![]()
+![](img/tb2_team_collaboration_nirvana-2.png)
 
 
 ***b. Gabriel Bernal***
 Agregué el backend de Akira (main branch)
-![]()
+![](img/tb2_team_collaboration_gabriel.png)
 
 ***c. Michelle Moreno***
 Agregué el apartado de Sprint 3, Sprint Backlog 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
-![]()
+![Michelle](img/tb2_team_collaboration_michelle.png)
 
 Agregué la versión 3.1 completa dentro del Landing Page. (feature branch)
-![]()
+![Michelle](img/tb2_team_collaboration_michelle-2.png)
 
 Agregué la versión 3.1 dentro del Landing Page. (develop branch)
-![]()
+![Michelle](img/tb2_team_collaboration_michelle-3.png)
 
 ***d. Marcelo Scerpella***
 Agregué el apartado de Diseño de entrevistas y Análisis de Entrevistas en Sprint 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
-![]()
+![Marcello](img/tb2_team_collaboration_marcello.png)
 
 ***e. Diego Sanchez***
 Agregué los .feature para los US-34. US-35 y US-36 (master branch)
-![]()
-![]()
-![]()
+![Diego](img/tb2_team_collaboration_diego.png)
+![Diego](img/tb2_team_collaboration_diego-2.png)
+![Diego](img/tb2_team_collaboration_diego-3.png)
 
 ## 5.3 Validation Interviews
 
-## 5.3.1 Diseño de Entrevistas
+<br>
+___
+<br>
+### 5.3.1 Diseño de Entrevistas
 
 Para esta validación se incluirán los siguientes productos:
 
 ***Landing Page***
-![]()
+![Landing Page](img/tb2_validation_landing.png)
 
 ***Front-end Web Application**
-![]()
+![Front-end Page](img/tb2_validation_front_end.png)
 
 
-User Flows a validar (En Landing Page)
+***User Flows a validar (En Landing Page)***
 
 f. User Flow Diagram F: Contactar con AKIRA
 
 
-User Flows a validar (En Frontend Web Application)
+***User Flows a validar (En Frontend Web Application)***
 
 a. User Flow Diagram A: Inicio de Sesión
 b. User Flow Diagram B: Visualizar Cuenta
@@ -4801,7 +4813,7 @@ c. User Flow Diagram C: Buscar productos, artistas o géneros
 d. User Flow Diagram D: Filtrar búsqueda
 f. User Flow Diagram F: Contactar con AKIRA
 
-Preguntas a realizar para ambos Segmentos Objetivos
+***Preguntas a realizar para ambos Segmentos Objetivos***
 
 a. ¿Qué tal te pareció la usabilidad de nuestros productos?
 b. ¿Lograste visualizar el apartado de contacto con el startup en ambos productos? ¿Qué tal te pareció el apartado?
@@ -4817,10 +4829,10 @@ Video de las entrevistas:
 
 Realizamos 6 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el Landing Page como el Frontend Web Application.
 
-![]()
+![Registro de Entrevistas](img/tb2_interviews_register_all.png)
 
 ***Entrevista N°1 (Fanática del entretenimiento asiático)***
-![]()
+![Entrevista 1](img/tb2_interview_1.png)
 
 Entrevistador: Nirvana García Vásquez
 Entrevistada: Fiorella Tamariz Pantoja
@@ -4829,7 +4841,7 @@ Tiempo en el video: [00:00:00] - [00:11:21]
 En esta entrevista se contactó con una fanática de Kpop, la cual se encontraba muy interesada en conocer nuestro Startup y producto principal, Akira. Junto a ella, navegamos entre nuestros dos productos generados en los tres primeros Sprints, el Landing Page y el Frontend Web Application. Luego de que Fiorella interactúe con todas las opciones, selecciones y funcionalidades disponibles, nos brindó un feedback, expresando de que le gustó mucho la estética de ambos productos, notó siempre la correcta funcionalidad de los apartados existentes, se impresionó con el uso de la barra de búsqueda para encontrar los productos vendidos en tienda. Como principal recomendación a mejorar, nos mencionó que al buscar productos, algunos productos tenían una inusual desproporción de tamaño de imagen, problema que como startup, pasamos por alto.
 
 ***Entrevista N°2 (Vendedor de productos del entretenimiento asiático)***
-![]()
+![Entrevista 2](img/tb2_interview_2.png)
 
 Entrevistador: Nirvana García Vásquez
 Entrevistado: Sebastian Delgado Del Castillo
@@ -4838,7 +4850,7 @@ Tiempo en el video: [00:11:22] - [00:23:21]
 En esta entrevista, contactamos con un vendedor de productos del entretenimiento asiático, el cual nos comenta que es parte de una tienda de productos de anime y kpop en el centro comercial Arenales, ubicado en Lima, Perú. Junto a él, navegamos por los diferentes apartados de los productos desarrollados en las tres primeras entregas del curso, tanto el Landing Page como el Frontend Web Application. Cuando Sebastian terminó de interactuar con todas las funcionalidades y apartados de ambos productos mostrados, decidí consultarle qué tal le había parecido la experiencia. Él nos comenta que le gustó bastante la estética de ambas páginas, la tipografia, gama de colores limpia y homogenea, y que el fondo claro con los toques de color rojo lo hacian sentir como si estuviese leyendo un Manga.Tambien, aportó con una recomendación acerca de lo que podemos mejorar, la cual se enfocó en agregar algun modal cuando la edición de los datos dentro de la cuenta de usuario sea exitosa, ya que solo se actualiza de manera automática, sin dar algun aviso de que se cambió exitosamente.
 
 ***Entrevista N°3 (Vendedor de productos del entretenimiento asiático)***
-![]()
+![Entrevista 3](img/tb2_interview_3.png)
 
 Entrevistador: Michelle Moreno Best
 Entrevistada: Flavia Delgado Polo
@@ -4847,7 +4859,7 @@ Tiempo en el video: [00:23:22] - [00:37:38]
 En la entrevista realizada, la entrevistada considera que las páginas web mostradas (landing page y frontend) tienen un diseño atractivo, sencillo y directo. Resalta como punto positivo que se puedan usar tanto para clientes como vendedores. Verifica que el apartado de contacto brinda varias opciones para comunicarse como correo, teléfono y redes sociales. Además. menciona que el proceso de registro y login es sencillo y fácil de usar, al igual que otras páginas web. Lo que le ha gustado de las páginas es que en el perfil de usuario, está toda la información y órdenes centralizada, facilitando la actualización de datos. Señala que la barra de búsqueda permite encontrar productos de forma rápida y sencilla. Sin embargo, nos menciona un error en la página del front end que es sobre la cancelación de una orden, y nos recomienda mejorar ese apartado ya que al actualizar la página recién se borra el producto visualmente, sugiere que el  informe de órdenes del perfil se cancele cuando se toque el botón correspondiente.
 
 ***Entrevista N°4 (Vendedor de productos del entretenimiento asiático)***
-![]()
+![Entrevista 4](img/tb2_interview_4.png)
 
 Entrevistador: Marcelo Scerpella Zarkovic
 Entrevistado: Fernando Díaz Silva
@@ -4861,7 +4873,7 @@ Señala que la sección de categorías es una implementación bastante buena, po
 Antes de finalizar la entrevista, menciona que el único inconveniente que tuvo con la página que le causó una molestia fué que la imagen de uno de los productos no cargó como debería, y menciona que es importante corregir este error antes de publicar la aplicación web.
 
 ***Entrevista N°5 (Fanático del entretenimiento asiático)***
-![]()
+![Entrevista 5](img/tb2_interview_5.png)
 
 Entrevistador: Diego Sánchez Ramírez
 Entrevistado: Manuel Castro
@@ -4870,7 +4882,7 @@ Tiempo en el video: [00:46:59] - [00:54:35]
 En esta entrevista, se muestran los artefactos de software como es el landing page y el apartado del front-end de nuestra página principal al entrevistado llamado Manuel Castro, fanatico de la cultura asiática, sobre todo las mangas y manhwas. Su edad es de 19 años y reside en Lima. Durante la entrevista, mostró diferentes puntos de vista y una en especial que es la del diseño responsivo de las imágenes, las cuales tomaremos en cuenta en un futuro sprint.
 
 ***Entrevista N°6 (Fanático del entretenimiento asiático)***
-![]()
+![Entrevista 6](img/tb2_interview_6.png)
 
 Entrevistador: Diego Sánchez Ramírez
 Entrevistado: José Alberto Ponte
@@ -4943,7 +4955,7 @@ Heurística violada: Usability: Usabilidad y control del usuario
 ***Problema:*** 
 Al momento de eliminar el producto en el perfil de “mis órdenes”, visualmente se queda pero cuando se actualiza la página, ya se ve que se ha borrado por completo por lo que ese es un problema para los usuarios que no saben qué hacer en esas situaciones.
 
-![]()
+![Problema 1](img/tb2_heuristic_ux_1.png)
 
 ***Recomendación:*** 
 Lo mejor para solucionar este problema es revisar el json donde se guarda la información y ver como solucionar ese problema para que el usuario al presionar el botón de “cancelar orden”, pueda ver que si se está cancelando y no tenga que recargar la pagina para ver si en verdad se ha borrado,
@@ -4957,7 +4969,7 @@ Heurística violada: Usability: Consistencia y estándares
 ***Problema:*** 
 Cuando el usuario le da click al botón de buscar, luego de haber ingresado un valor dentro de la barra de búsqueda, cuando aparece la lista de resultados de búsqueda, las imágenes de los productos no siguen un estándar en cuanto a tamaños, y la manera en la que se presentan está desorganizada.
 
-![]()
+![Problema 2](img/tb2_heuristic_ux_2.png)
 
 ***Recomendación:*** 
 Lo más adecuado para solucionar este inconveniente es modificar el tamaño de la imagen de los productos, a un estándar, y estilar mejor los resultados de búsqueda.
@@ -4971,7 +4983,7 @@ Heurística violada: Inclusive Design: Proporciona experiencias comparables
 ***Problema:*** 
 Al momento de editar datos dentro de los campos de información personal o dirección de envío, el usuario debe presionar el botón en forma de lápiz para editar algún dato en particular. El problema recae en que cuando se modifican datos y se presiona el botón de actualizar, no aparece ninguna confirmación de guardado de datos exitoso, por lo que el usuario podría quedar con la duda de si sus modificaciones se guardaron.
 
-![]()
+![Problema 3](img/tb2_heuristic_ux_3.png)
 
 ***Recomendación:*** 
 Para solucionar este problema de diseño inclusivo, debemos agregar un modal o notificación que le confirme al usuario que sus datos han sido modificados satisfactoriamente.
@@ -4987,7 +4999,7 @@ Heurística violada: Inclusive Design: Adaptación y escalado de imágenes
 
 Al momento de visualizar las imágenes en el lobby principal del front-end, se puede visualizar un desperfecto en el tamaño de las imágenes contenidas en los marcos que las contienen.
 
-![]()
+![Problema 4](img/tb2_heuristic_ux_4.png)
 
 ***Recomendación:***  Configurar propiedades para las imágenes que permitan definir su tamaño o proporcionar URL's de diferentes tamaños de la misma imagen, dependiendo del dispositivo. Además,utilizar la etiqueta <img> de Vue para mostrar las imágenes. Añade los atributos “width” y “height” con valores relativos (porcentajes, vw o vh en CSS) para que las imágenes se ajustan dinámicamente al tamaño del contenedor o la pantalla.
 
@@ -5002,7 +5014,7 @@ Heurística violada: Information Architecture: Is it usable?
 
 Esta heurística se centra en cómo la información se organiza y se presenta para el usuario. Proporciona directrices sobre cómo organizar los contenidos de manera lógica y clara para facilitar la navegación y la identificación de la información por parte del usuario.
 
-![]()
+![Problema 5](img/tb2_heuristic_ux_5.png)
 
 ***Recomendaciones:*** 
 
@@ -5020,18 +5032,20 @@ Heurística violada: Inclusive Design: Proporciona experiencias comparables
 ***Problema:*** 
 Al momento de mostrar el producto “Nikaido & Cai Escala 1/8”, la imagen del producto no se mostró como debería haberlo hecho, lo que ocasionó que se mostrara el ícono de “Imagen no encontrada”, seguido por el texto “Products_images”. El problema recae en que cuando se carga la página, la imagen de ese producto específicamente no es mostrada, por lo que el usuario podría perder confianza en la aplicación, y pensar que no está funcionando correctamente
 
-![]()
+![Problema 6](img/tb2_heuristic_ux_6.png)
 
 ***Recomendación:*** 
 Para solucionar este problema de diseño inclusivo, debemos agregar una imagen que se muestre por defecto en caso la imagen en cuestión no logre cargarse correctamente, o asegurarnos que todas las imágenes de todos los productos se muestran apropiadamente antes de enviar la aplicación a producción.
 
 ### 5.4. Video About the Product
-
+<br>
+___
+<br>
 Presentamos nuestro Video About the Product para el Sprint 3, el cual busca promocionar el producto que el Startup Lambders ha desarrollado, Akira.
 
 [Video en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EbYyEN5ur4BJnBuhR8uzqLYB0UJ9lcXM3X2jmq2hu9Ne0g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Kis5Wn)
 
-![]()
+![About-the-Product](img/tb2_validation_landing.png)
 
 [Video en YouTube](https://youtu.be/jZVbVFD9XBs)
 <br><br>
