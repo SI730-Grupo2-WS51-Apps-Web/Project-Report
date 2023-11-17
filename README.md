@@ -258,17 +258,39 @@ Student Outcome
    
     5.2.2.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-Conclusiones y recomendaciones 
+    5.2.3. [Sprint 3](#523-sprint-3)
 
-Conclusiones 
+    5.2.3.1. [Sprint Planning 3](#5211-sprint-planning-1)
 
-Recomendaciones
+    5.2.3.2. [Sprint Backlog 3](#5232-sprint-backlog-3)
+    
+    5.2.3.3. [Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
 
-Video About-the-Team
+    5.2.3.4. [Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
 
-Bibliografía 
+    5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
 
-Anexos
+    5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+
+    5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+
+    5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+    5.3 [Validation Interviews](#53-validation-interviews)
+
+    5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas)
+
+    5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+
+    5.4. [Video About the Product](#54-video-about-the-product)
+
+    [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+    
+    [Video About the Team](#video-about-the-team)
+
+    [Bibliografía](#bibliografía)
+
+    [Anexos](#anexos)
 
 <br><br>
 ___
@@ -4565,7 +4587,7 @@ Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el 
 ![Spring Backlog 3](img/tb2_sprint_product_backlog.png)
 ![Spring Backlog 3](img/tb2_sprint_product_backlog_3-2.png)
 
-## Development Evidence for Sprint Review
+## 5.2.3.3. Development Evidence for Sprint Review
 
 ### Repositorio Web Services: 
 
@@ -4789,7 +4811,8 @@ Agregué los .feature para los US-34. US-35 y US-36 (master branch)
 <br>
 ___
 <br>
-### 5.3.1 Diseño de Entrevistas
+
+## 5.3.1 Diseño de Entrevistas
 
 Para esta validación se incluirán los siguientes productos:
 
@@ -4890,7 +4913,7 @@ Tiempo en el video: [00:54:35] - [01:04:12]
 
 Jose Alberto Ponte Avan, es un estudiante de 4to ciclo de la carrera de Ingeniería Industrial, residente del Callao. El es consumidor de la cultura del anime, sobre todo los animes de genero shounen. Durante la entrevista, navegó a través del Landing Page y el frontend de nuestro proyecto y le agrade el apartado minimalista y las alianzas que tendremos para ofrecer una gran variedad de productos en la startup.El muestra un gran interés en la misión de la startup y ofrece un feedback importante para mejorar el frontend en un siguiente sprint o ciclo de vida del artefacto de software.
 
-### 5.3.3. Evaluaciones según heurísticas
+## 5.3.3. Evaluaciones según heurísticas
 
 ### <p align="center">UX Heuristics & Principles Evaluation</p>
 ### <p align="center">Usability – Inclusive Design – Information Architecture</p>
@@ -5037,8 +5060,8 @@ Al momento de mostrar el producto “Nikaido & Cai Escala 1/8”, la imagen del 
 ***Recomendación:*** 
 Para solucionar este problema de diseño inclusivo, debemos agregar una imagen que se muestre por defecto en caso la imagen en cuestión no logre cargarse correctamente, o asegurarnos que todas las imágenes de todos los productos se muestran apropiadamente antes de enviar la aplicación a producción.
 
-### 5.4. Video About the Product
-<br>
+## 5.4. Video About the Product
+<br><br>
 ___
 <br>
 Presentamos nuestro Video About the Product para el Sprint 3, el cual busca promocionar el producto que el Startup Lambders ha desarrollado, Akira.
