@@ -4848,6 +4848,192 @@ En la entrevista realizada, la entrevistada considera que las páginas web mostr
 
 ***Entrevista N°4 (Vendedor de productos del entretenimiento asiático)***
 ![]()
+
+Entrevistador: Marcelo Scerpella Zarkovic
+Entrevistado: Fernando Díaz Silva
+Tiempo en el video: [00:37:38] - [00:46:58]
+
+En la entrevista realizada, el entrevistado considera que, tanto la landing page como el frontend, tienen un diseño atractivo, sencillo y directo. Resalta como punto positivo en el landing page que es bueno saber que la aplicación tiene aliados, porque le da más confianza saber que hay otras empresas respaldando la página web. 
+Verifica que el apartado de contacto brinda varias opciones para comunicarse como correo, teléfono y redes sociales. Sugiere que también sería bueno que se le agregara la opción de dejar un mensaje desde la propia página web.
+Menciona que el proceso de registro y login es sencillo, y que tiene la información justa y necesaria para hacer una compra, al igual que otras páginas web de compras. 
+Considera que la página de perfil de usuario está muy bien. También menciona que sería interesante que le permitiera subir una foto para reemplazar la imagen de perfil por defecto.
+Señala que la sección de categorías es una implementación bastante buena, porque permite filtrar de forma rápida y sencilla entre las diferentes categorías que existen. 
+Antes de finalizar la entrevista, menciona que el único inconveniente que tuvo con la página que le causó una molestia fué que la imagen de uno de los productos no cargó como debería, y menciona que es importante corregir este error antes de publicar la aplicación web.
+
+***Entrevista N°5 (Fanático del entretenimiento asiático)***
+![]()
+
+Entrevistador: Diego Sánchez Ramírez
+Entrevistado: Manuel Castro
+Tiempo en el video: [00:46:59] - [00:54:35]
+
+En esta entrevista, se muestran los artefactos de software como es el landing page y el apartado del front-end de nuestra página principal al entrevistado llamado Manuel Castro, fanatico de la cultura asiática, sobre todo las mangas y manhwas. Su edad es de 19 años y reside en Lima. Durante la entrevista, mostró diferentes puntos de vista y una en especial que es la del diseño responsivo de las imágenes, las cuales tomaremos en cuenta en un futuro sprint.
+
+***Entrevista N°6 (Fanático del entretenimiento asiático)***
+![]()
+
+Entrevistador: Diego Sánchez Ramírez
+Entrevistado: José Alberto Ponte
+Tiempo en el video: [00:54:35] - [01:04:12]
+
+Jose Alberto Ponte Avan, es un estudiante de 4to ciclo de la carrera de Ingeniería Industrial, residente del Callao. El es consumidor de la cultura del anime, sobre todo los animes de genero shounen. Durante la entrevista, navegó a través del Landing Page y el frontend de nuestro proyecto y le agrade el apartado minimalista y las alianzas que tendremos para ofrecer una gran variedad de productos en la startup.El muestra un gran interés en la misión de la startup y ofrece un feedback importante para mejorar el frontend en un siguiente sprint o ciclo de vida del artefacto de software.
+
+### 5.3.3. Evaluaciones según heurísticas
+
+### <p align="center">UX Heuristics & Principles Evaluation</p>
+### <p align="center">Usability – Inclusive Design – Information Architecture</p>
+### <p align="center">______________________________</p>
+
+***CARRERA*** : Ingeniería de Software
+***CURSO*** : Desarrollo de Aplicaciones Web
+***SECCIÓN*** : WS52
+***PROFESORES*** : Todos
+***AUDITOR*** : Lambders
+***CLIENTE(S)*** : Fiorella Tamariz, Sebastian Delgado, Flavia Delgado, Manuel Castro, José Alberto Ponte, Fernando Díaz Silva
+
+***SITE o APP A EVALUAR:*** 
+AKIRA
+
+***TAREAS A EVALUAR:***
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas: 
+- Iniciar sesión en Akira
+- Edición de datos de cuenta de usuario
+- Búsqueda de productos en la barra de búsqueda
+- Agregar/Eliminar productos al carrito
+- Realizar compra
+- Visualización de Contacto con Lambders/Akira
+
+
+
+
+***No están incluidas en esta versión de la evaluación las siguientes tareas:***
+
+- Todas las tareas han sido incluidas y evaluadas
+
+***ESCALA DE SEVERIDAD:***
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel| Descripción del Nivel                                     |
+|-----|---------------------------------------------------------- |
+|1    | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+| 2   | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+| 3   | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+| 4   | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento|
+
+***TABLA RESUMEN (Problemas):***
+
+| #   | Problema | Escala de severidad | Heurística/Principio violada(o)|
+|-----|-------------------------------------|----------|------------------------|
+|1|Problema con la eliminación de productos de “mis órdenes” ya que si se borran pero cuando actualizas la página|3|Usability: Usabilidad y control del usuario| 
+|2|Desnivelación de tamaños con imágenes mostradas en apartados de bùsqueda de productos|2|Usability: Consistencia y estándares| 
+|3|Falta de modal de confirmación a cambios de edición de datos en cuenta de usuario|1|Inclusive Design: Proporciona experiencias comparables| 
+|4|Falta de adaptación de las imágenes, en relación al tamaño de la pantalla del dispositivo|1|Inclusive Design: Adaptación y escalado de imágenes| 
+|5|Falta de subcategorías en el menu hamburguer de la izquierda|2|Information Architecture: Is it usable?| 
+|6|Error al mostrar una de las imágenes de uno de los productos en la aplicación|1|Inclusive Design: Proporciona experiencias comparables|
+|7|Claridad en las Opciones de Acceso y Funcionalidad|1|Inclusive Design: Proporciona experiencias comparables|
+
+***DESCRIPCIÓN DE PROBLEMAS:***
+
+***PROBLEMA #1:***
+Problema con la eliminación de productos de “mis órdenes” ya que si se borran pero cuando actualizas la página
+
+***Severidad:*** 3 
+Heurística violada: Usability: Usabilidad y control del usuario
+
+***Problema:*** 
+Al momento de eliminar el producto en el perfil de “mis órdenes”, visualmente se queda pero cuando se actualiza la página, ya se ve que se ha borrado por completo por lo que ese es un problema para los usuarios que no saben qué hacer en esas situaciones.
+
+![]()
+
+***Recomendación:*** 
+Lo mejor para solucionar este problema es revisar el json donde se guarda la información y ver como solucionar ese problema para que el usuario al presionar el botón de “cancelar orden”, pueda ver que si se está cancelando y no tenga que recargar la pagina para ver si en verdad se ha borrado,
+
+***PROBLEMA #2:***
+Desnivelación de tamaños con imágenes mostradas en apartados de bùsqueda de productos
+
+***Severidad:*** 2 
+Heurística violada: Usability: Consistencia y estándares
+
+***Problema:*** 
+Cuando el usuario le da click al botón de buscar, luego de haber ingresado un valor dentro de la barra de búsqueda, cuando aparece la lista de resultados de búsqueda, las imágenes de los productos no siguen un estándar en cuanto a tamaños, y la manera en la que se presentan está desorganizada.
+
+![]()
+
+***Recomendación:*** 
+Lo más adecuado para solucionar este inconveniente es modificar el tamaño de la imagen de los productos, a un estándar, y estilar mejor los resultados de búsqueda.
+
+***PROBLEMA #3:***
+Falta de modal de confirmación a cambios de edición de datos en cuenta de usuario
+
+***Severidad:*** 1 
+Heurística violada: Inclusive Design: Proporciona experiencias comparables
+
+***Problema:*** 
+Al momento de editar datos dentro de los campos de información personal o dirección de envío, el usuario debe presionar el botón en forma de lápiz para editar algún dato en particular. El problema recae en que cuando se modifican datos y se presiona el botón de actualizar, no aparece ninguna confirmación de guardado de datos exitoso, por lo que el usuario podría quedar con la duda de si sus modificaciones se guardaron.
+
+![]()
+
+***Recomendación:*** 
+Para solucionar este problema de diseño inclusivo, debemos agregar un modal o notificación que le confirme al usuario que sus datos han sido modificados satisfactoriamente.
+
+
+***PROBLEMA #4:***
+Falta de adaptación de las imágenes, en relación al tamaño de la pantalla del dispositivo
+
+***Severidad:*** 1 
+Heurística violada: Inclusive Design: Adaptación y escalado de imágenes
+
+**Problema:*** Falta de adaptación de las imágenes, en relación al tamaño de la pantalla del dispositivo
+
+Al momento de visualizar las imágenes en el lobby principal del front-end, se puede visualizar un desperfecto en el tamaño de las imágenes contenidas en los marcos que las contienen.
+
+![]()
+
+***Recomendación:***  Configurar propiedades para las imágenes que permitan definir su tamaño o proporcionar URL's de diferentes tamaños de la misma imagen, dependiendo del dispositivo. Además,utilizar la etiqueta <img> de Vue para mostrar las imágenes. Añade los atributos “width” y “height” con valores relativos (porcentajes, vw o vh en CSS) para que las imágenes se ajustan dinámicamente al tamaño del contenedor o la pantalla.
+
+***PROBLEMA #5:***
+Falta de subcategorías en el menu hamburger de la izquierda
+
+***Severidad:*** 2
+Heurística violada: Information Architecture: Is it usable?
+
+
+***Problema:*** Falta de subcategorías en el menu hamburger de la izquierda
+
+Esta heurística se centra en cómo la información se organiza y se presenta para el usuario. Proporciona directrices sobre cómo organizar los contenidos de manera lógica y clara para facilitar la navegación y la identificación de la información por parte del usuario.
+
+![]()
+
+***Recomendaciones:*** 
+
+Etiquetas descriptivas: Utiliza etiquetas claras para indicar los tipos de contenido en cada sección del menú.
+
+Facilidad de navegación: Asegúrate de que la organización del menú facilite la navegación, permitiendo a los usuarios encontrar rápidamente lo que buscan.
+
+
+***PROBLEMA #6:***
+Error al mostrar una de las imágenes de uno de los productos en la aplicación
+
+***Severidad:*** 1 
+Heurística violada: Inclusive Design: Proporciona experiencias comparables
+
+***Problema:*** 
+Al momento de mostrar el producto “Nikaido & Cai Escala 1/8”, la imagen del producto no se mostró como debería haberlo hecho, lo que ocasionó que se mostrara el ícono de “Imagen no encontrada”, seguido por el texto “Products_images”. El problema recae en que cuando se carga la página, la imagen de ese producto específicamente no es mostrada, por lo que el usuario podría perder confianza en la aplicación, y pensar que no está funcionando correctamente
+
+![]()
+
+***Recomendación:*** 
+Para solucionar este problema de diseño inclusivo, debemos agregar una imagen que se muestre por defecto en caso la imagen en cuestión no logre cargarse correctamente, o asegurarnos que todas las imágenes de todos los productos se muestran apropiadamente antes de enviar la aplicación a producción.
+
+### 5.4. Video About the Product
+
+Presentamos nuestro Video About the Product para el Sprint 3, el cual busca promocionar el producto que el Startup Lambders ha desarrollado, Akira.
+
+[Video en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EbYyEN5ur4BJnBuhR8uzqLYB0UJ9lcXM3X2jmq2hu9Ne0g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Kis5Wn)
+
+![]()
+
+[Video en YouTube](https://youtu.be/jZVbVFD9XBs)
 <br><br>
 ___
 <br>
