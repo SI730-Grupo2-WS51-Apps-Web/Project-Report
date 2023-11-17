@@ -4755,14 +4755,14 @@ Como desarrollador, quiero visualizar correctamente la estructura convencional d
 ***US-35 Correcto modelado de las clases en C#***
 Como desarrollador, quiero que las clases de C#dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
 
-![US-35](img/tb2_implements_u35.png)
-![US-35](img/tb2_implements_u35-2.png)
-![US-35](img/tb2_implements_u35-3.png)
+![US-35](img/tb2_implements_us35.png)
+![US-35](img/tb2_implements_us35-2.png)
+![US-35](img/tb2_implements_us35-3.png)
 
 ***US-36 Comunicación con el Frontend de Akira***
 Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
 
-![US-36](img/tb2_implements_u36.png)
+![US-36](img/tb2_implements_us36.png)
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -4864,7 +4864,7 @@ Tiempo en el video: [00:00:00] - [00:11:21]
 En esta entrevista se contactó con una fanática de Kpop, la cual se encontraba muy interesada en conocer nuestro Startup y producto principal, Akira. Junto a ella, navegamos entre nuestros dos productos generados en los tres primeros Sprints, el Landing Page y el Frontend Web Application. Luego de que Fiorella interactúe con todas las opciones, selecciones y funcionalidades disponibles, nos brindó un feedback, expresando de que le gustó mucho la estética de ambos productos, notó siempre la correcta funcionalidad de los apartados existentes, se impresionó con el uso de la barra de búsqueda para encontrar los productos vendidos en tienda. Como principal recomendación a mejorar, nos mencionó que al buscar productos, algunos productos tenían una inusual desproporción de tamaño de imagen, problema que como startup, pasamos por alto.
 
 ***Entrevista N°2 (Vendedor de productos del entretenimiento asiático)***
-![Entrevista 2](img/tb2_interview_2.png)
+![Entrevista 2](img/tb2_interview_2.png.jpg)
 
 Entrevistador: Nirvana García Vásquez
 Entrevistado: Sebastian Delgado Del Castillo
@@ -4873,7 +4873,7 @@ Tiempo en el video: [00:11:22] - [00:23:21]
 En esta entrevista, contactamos con un vendedor de productos del entretenimiento asiático, el cual nos comenta que es parte de una tienda de productos de anime y kpop en el centro comercial Arenales, ubicado en Lima, Perú. Junto a él, navegamos por los diferentes apartados de los productos desarrollados en las tres primeras entregas del curso, tanto el Landing Page como el Frontend Web Application. Cuando Sebastian terminó de interactuar con todas las funcionalidades y apartados de ambos productos mostrados, decidí consultarle qué tal le había parecido la experiencia. Él nos comenta que le gustó bastante la estética de ambas páginas, la tipografia, gama de colores limpia y homogenea, y que el fondo claro con los toques de color rojo lo hacian sentir como si estuviese leyendo un Manga.Tambien, aportó con una recomendación acerca de lo que podemos mejorar, la cual se enfocó en agregar algun modal cuando la edición de los datos dentro de la cuenta de usuario sea exitosa, ya que solo se actualiza de manera automática, sin dar algun aviso de que se cambió exitosamente.
 
 ***Entrevista N°3 (Vendedor de productos del entretenimiento asiático)***
-![Entrevista 3](img/tb2_interview_3.png)
+![Entrevista 3](img/tb2_interview_3.jpg.png)
 
 Entrevistador: Michelle Moreno Best
 Entrevistada: Flavia Delgado Polo
