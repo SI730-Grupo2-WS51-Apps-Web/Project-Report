@@ -4770,21 +4770,21 @@ Como desarrollador, quiero establecer una comunicación eficiente y confiable en
 
 ***a. Nirvana García***
 Agregué el apartado de Heurísticas en el informe, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
-![](img/tb2_team_collaboration_nirvana.png)
+![Nirvana](img/tb2_team_collaboration_nirvana.png)
 
 Agregué el apartado de video about the product dentro del Landing Page. (feature branch)
-![](img/tb2_team_collaboration_nirvana-2.png)
+![Nirvana](img/tb2_team_collaboration_nirvana-2.png)
 
 Agregué la versión 3.1 dentro del Landing Page. (develop branch)
-![](img/tb2_team_collaboration_nirvana-2.png)
+![Nirvana](img/tb2_team_collaboration_nirvana-2.png)
 
 Agregue la versión 3 del Landing Page (release branch)
-![](img/tb2_team_collaboration_nirvana-2.png)
+![Nirvana](img/tb2_team_collaboration_nirvana-2.png)
 
 
 ***b. Gabriel Bernal***
 Agregué el backend de Akira (main branch)
-![](img/tb2_team_collaboration_gabriel.png)
+![Gabriel](img/tb2_team_collaboration_gabriel.png)
 
 ***c. Michelle Moreno***
 Agregué el apartado de Sprint 3, Sprint Backlog 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
@@ -4803,14 +4803,8 @@ Agregué el apartado de Diseño de entrevistas y Análisis de Entrevistas en Spr
 ***e. Diego Sanchez***
 Agregué los .feature para los US-34. US-35 y US-36 (master branch)
 ![Diego](img/tb2_team_collaboration_diego.png)
-![Diego](img/tb2_team_collaboration_diego-2.png)
-![Diego](img/tb2_team_collaboration_diego-3.png)
 
 ## 5.3 Validation Interviews
-
-<br>
-___
-<br>
 
 ## 5.3.1 Diseño de Entrevistas
 
