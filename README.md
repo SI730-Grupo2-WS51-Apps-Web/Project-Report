@@ -300,7 +300,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 3.
 | Criterio Específico                                                                                                                                                                    | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería|**TB1**<br>Gabriel Bernal: Comunicación de ideas para:<br>● Startup Profile<br>● Solution Profile<br>● Antecedentes y problemática <br>● Lean UX<br>● Segmentos objetivo<br>● Software Architecture Context Diagram<br>● Software Architecture Container Diagrams<br>Nirvana García: Comunicación de ideas para:<br>● Web Style Guidelines<br>● Information Architecture<br>● Organization Systems<br>● Labeling Systems<br>●<br> SEO Tags and Meta Tags <br>● Searching Systems<br>● Navigation Systems<br>● Landing Page Wireframes<br>● Landing Page Mock-up<br>● Database Diagram<br>● Web Applications Wireflow Diagrams<br>Michelle Moreno: Comunicación de ideas para:<br>● Competidores<br>● Análisis competitivo <br>● Estrategias y tácticas frente a competidores<br>● Needfinding<br>● User Personas<br>● User Task Matrix <br>● User Journey Mapping<br>● Empathy Mapping<br>● As-is Scenario Mapping<br>● Web Applications Wireframes<br>● Web Applications Mock-ups<br>● Class Dictionary<br>Marcelo Scerpella: Comunicación de ideas para:<br>● Web Applications Prototyping<br>● Class Diagrams<br>● Software Configuration Management<br>● Software Development Environment Configuration<br>● Sprint Planning 1<br>● Sprint Backlog 1<br>Diego Sanchez: Comunicación de ideas para:<br>● To-Be Scenario Mapping <br>● User Stories <br>● Impact Mapping <br>● Product Backlog<br>● Source Code Management<br>● Source Code Style Guide & Conventions<br>● Software Deployment Configuration<br>● Software Architecture Components Diagrams<br><br>TP1<br>Gabriel Bernal: Comunicación de ideas para:<br>● Execution Evidence for Sprint Review<br>Nirvana García: Comunicación de ideas para:<br>● Sprint 2<br>● Sprint Planning 2<br>● Sprint Backlog 2<br>Michelle Moreno: Comunicación de ideas para:<br>● Execution Evidence for Sprint Review<br>Marcelo Scerpella: Comunicación de ideas para:<br>● Execution Evidence for Sprint Review<br><br>TB2<br>Diego Sánchez: Comunicación de ideas para:<br>●Sprint 3<br>●Sprint Planning 3<br>●Sprint Backlog 3<br>Gabriel Bernal: Comunicación de ideas para:<br>●Execution Evidence for Sprint Review<br>Nirvana García: Comunicación de ideas para:<br>●Sprint 3<br>●Sprint Planning 3<br>●Sprint Backlog 3<br>Michelle Moreno: <br>●Comunicación de ideas para:<br>●Execution Evidence for Sprint Review<br>Marcelo Scerpella: Comunicación de ideas para:<br>●Execution Evidence for Sprint Review<br><br>TF1<br>Diego Sánchez: Comunicación de ideas para:<br>●Sprint 3<br>●Sprint Planning 3<br>●Sprint Backlog 3<br>Gabriel Bernal: Comunicación de ideas para:<br>●Execution Evidence for Sprint Review<br>Nirvana García: Comunicación de ideas para:<br>●Sprint 3<br>●Sprint Planning 3<br>●Sprint Backlog 3<br>Michelle Moreno: <br>●Comunicación de ideas para:<br>●Execution Evidence for Sprint Review<br>Marcelo Scerpella: Comunicación de ideas para:<br>●Execution Evidence for Sprint Review| Conclusión 1:<br>Como equipo, hemos llevado a cabo una serie de acciones que demuestran nuestro compromiso con la comunicación efectiva y objetiva dentro del proyecto. Cada miembro ha contribuido con tareas de redacción y documentación que abarcan desde perfiles de inicio y solución, hasta antecedentes y problemáticas, así como segmentos objetivo y metodologías como Lean UX. Estas actividades demuestran una comprensión profunda y una capacidad para comunicar claramente los aspectos clave del proyecto a diferentes audiencias, ya que se ha empleado la comunicación oral entre los integrantes para saber si sus planteamientos, de cada punto de las rúbricas, eran los correctos.<br>Conclusión 2:<br>El equipo ha demostrado habilidades de comunicación efectiva al presentar sus ideas y resultados a audiencias de diferentes especialidades y niveles jerárquicos. Durante la presentación del proyecto, cada miembro pudo explicar de manera clara y concisa los aspectos técnicos y conceptuales del proyecto, utilizando un lenguaje comprensible para todos los participantes. Además, se evidenció la capacidad de adaptación del equipo al nivel de conocimiento de cada audiencia, lo que permitió una comunicación efectiva y una comprensión mutua.<br>Conclusión 3:<br>La comunicación oral dentro del equipo ha sido fundamental para el éxito del proyecto. Los miembros del equipo hemos desarrollado habilidades de escucha activa y hemos fomentado un ambiente de respeto y apertura para la discusión y el intercambio de ideas. Esto ha permitido una colaboración efectiva, donde las ideas y opiniones de cada miembro fueron consideradas y debatidas de manera constructiva. La comunicación oral también ha sido utilizada para resolver conflictos y tomar decisiones en equipo, lo que ha fortalecido la cohesión y el compromiso del grupo.<br>Conclusión 4:<br>Reconocimos la importancia de adaptar su comunicación a diferentes audiencias. Durante el desarrollo del proyecto, se llevaron a cabo presentaciones a stakeholders de diferentes especialidades y niveles jerárquicos. Como equipo, pudimos ajustar nuestro lenguaje y enfoque según las necesidades de cada audiencia, lo que permitió una comunicación efectiva y una comprensión clara de los aspectos clave del proyecto. Esta habilidad de adaptación demostrada por el equipo es fundamental para asegurar que la información se transmita de manera clara y que se logren los objetivos de comunicación establecidos.<br><br>Conclusión 5:<br>La comunicación oral efectiva ha sido un factor clave en el éxito del proyecto. La capacidad del equipo para comunicar sus ideas y resultados de manera objetiva ha facilitado la comprensión y el consenso entre los miembros del equipo y las diferentes audiencias involucradas en el proyecto. Esto ha permitido una toma de decisiones informada y una implementación eficiente de las soluciones propuestas. La comunicación oral efectiva también ha contribuido a la construcción de relaciones sólidas con los stakeholders y ha generado confianza en el equipo y en el proyecto en general.  |
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.| TB1<br>Gabriel Bernal: Redacción de:<br>●<br> Startup Profile<br>●<br> Solution Profile<br>●<br> Antecedentes y problemática <br>●<br> Lean UX<br>●<br> Segmentos objetivo<br>●<br> Software Architecture Context Diagram<br>●<br> Software Architecture Container Diagrams<br>Nirvana García: Redacción de:<br>●<br> Web Style Guidelines<br>●<br> Information Architecture<br>●<br> Organization Systems<br>●<br> Labeling Systems<br>●<br> SEO Tags and Meta Tags <br>●<br> Searching Systems<br>●<br> Navigation Systems<br>●<br> Landing Page Wireframes<br>●<br> Landing Page Mock-up<br>●<br> Database Diagram<br>●<br> Web Applications Wireflow Diagrams<br>Michelle Moreno: Redacción de:<br>●<br> Competidores<br>●<br> Análisis competitivo <br>●<br> Estrategias y tácticas frente a competidores<br>●<br> Needfinding<br>●<br> User Personas<br>●<br> User Task Matrix <br>●<br> User Journey Mapping<br>●<br> Empathy Mapping<br>●<br> As-is Scenario Mapping<br>●<br> Web Applications Wireframes<br>●<br> Web Applications Mock-ups<br>●<br> Class Dictionary<br>Marcelo Scerpella: Redacción de:<br>●<br> Web Applications Prototyping<br>●<br> Class Diagrams<br>●<br> Software Configuration Management<br>●<br> Software Development Environment Configuration<br>●<br> Sprint Planning 1<br>●<br> Sprint Backlog 1<br>Diego Sanchez: Redacción de:<br>●<br> To-Be Scenario Mapping <br>●<br> User Stories <br>●<br> Impact Mapping <br>●<br> Product Backlog<br>●<br> Source Code Management<br>●<br> Source Code Style Guide & Conventions<br>●<br> Software Deployment Configuration<br>●<br> Software Architecture Components Diagrams<br>TP1<br>Gabriel Bernal: Redacción de:<br>●<br> Development Evidence for Sprint Review<br>Nirvana García: Redacción de:<br>●<br> Sprint Planning 2<br>●<br> Sprint Backlog 2<br>●<br> Development Evidence for Sprint Review<br>●<br> Team Collaboration Insights during Sprint<br>Michelle Moreno: Redacción de:<br>●<br> Development Evidence for Sprint Review<br>●<br> Software Deployment Evidence for Sprint Review<br>Marcelo Scerpella:Redacción de:<br>●<br> Development Evidence for Sprint Review<br>●<br> Software Deployment Evidence for Sprint Review<br>Diego Sanchez: Redacción de:<br>●<br> Team Collaboration Insights during Sprint<br><br>**TB2**<br>Gabriel Bernal:Redacción de:<br>●Development Evidence for Sprint Review<br>Nirvana García: Redacción de:<br>●Sprint Planning 3<br>●Sprint Backlog 3<br>●Development Evidence for Sprint Review<br>●Team Collaboration Insights during Sprint<br>Michelle Moreno: Redacción de:<br>●Development Evidence for Sprint Review<br>●Software Deployment Evidence for Sprint Review<br>Marcelo Scerpella:Redacción de:<br>●Development Evidence for Sprint Review<br>●Software Deployment Evidence for Sprint Review<br>Diego Sanchez: Redacción de:<br>●Team Collaboration Insights during Sprint<br><br>**TF1**<br>Gabriel Bernal: Redacción de:●Development Evidence for Sprint Review<br>Nirvana García: Redacción de:<br>●Sprint Planning 4<br>Sprint Backlog 4<br>●Development Evidence for Sprint Review<br>●Team Collaboration Insights during Sprint<br>Michelle Moreno: Redacción de:<br>●Development Evidence for Sprint Review<br>●Software Deployment Evidence for Sprint Review<br>Marcelo Scerpella:Redacción de:<br>●Development Evidence for Sprint Review<br>●Software Deployment Evidence for Sprint Review<br>Diego Sanchez: Redacción de:<br>●Team Collaboration Insights during Sprint<br>| Conclusión 1:<br>Como equipo, se ha logrado realizar un trabajo destacado en la comunicación escrita de ideas y resultados relacionados con el proyecto de ingeniería. Cada miembro ha contribuido con tareas de redacción y documentación dentro del informe, para desarrollar este proyecto de ingeniería.<br>Conclusión 2:<br>El equipo ha demostrado habilidades sólidas de comunicación escrita al redactar informes y documentación relacionada con el proyecto de ingeniería. Cada miembro ha sido capaz de expresar de manera clara y objetiva las ideas y los resultados obtenidos durante el desarrollo del proyecto. Esto ha permitido una fácil comprensión por parte de audiencias de diferentes especialidades y niveles jerárquicos.<br>Conclusión 3:<br>La comunicación escrita dentro del equipo ha sido fundamental para documentar y compartir de manera efectiva los hallazgos y avances del proyecto. Los informes y documentos elaborados han sido exhaustivos, bien estructurados y claros en su contenido. Esto ha permitido que las personas involucradas en el proyecto, independientemente de su especialidad, comprendan fácilmente las ideas y los resultados presentados.<br>Conclusión 4:<br>El equipo ha demostrado una habilidad destacada para adaptar su comunicación escrita a diferentes audiencias. La redacción utilizada en los informes y documentos ha sido adecuada para el público objetivo, evitando jergas técnicas excesivas y utilizando un lenguaje claro y conciso. Esta adaptabilidad ha facilitado la comprensión y la colaboración entre los miembros del equipo y las partes interesadas externas.<br>Conclusión 5:<br>La comunicación escrita efectiva ha sido un factor clave en el éxito del proyecto. Gracias a la objetividad y claridad en la redacción, se ha logrado transmitir de manera efectiva las ideas y los resultados del proyecto a diferentes especialidades y niveles jerárquicos. Esto ha permitido una toma de decisiones informada, una mejor colaboración entre los equipos y una implementación exitosa de las soluciones propuestas. |                                                                                                                                                                                                                                                                                         | 
 
@@ -1030,7 +1030,7 @@ ___
 
 ### **2.2.2. Registro de entrevistas**
 
-Video de las entrevistas: [Needfingind Interview](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1)
+Video de las entrevistas: [Needfingind Interview](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 
 ![Alt text](img/image-45.png)
@@ -1112,13 +1112,14 @@ Realizamos la entrevista a un vendedor especializado dentro del rubro de los man
 
 ![Alt text](img/image-51.png)
 
-Entrevistador: Diego  Aquije Quiroga
+Entrevistador: Diego Sánchez Ramirez
 
-Entrevistado: Geremy Alexandro Esquivel Janampa
+Entrevistado: Anderson Alvarado Cespedes
 
-Tiempo en el video: [00:41:47] - [00:47:09]
+Tiempo en el video: [00:41:47] - [00:47:22]
 
-El entrevistado fue Geremy Alexandro Esquivel Janampa, un entusiasta universitario apasionado por la cultura asiática, especialmente el anime y los mangas. Geremy compartió su pasión por los shonen como One Piece y Dragon Ball consumiendo de vez en cuando comedias románticas. Los productos que consume son mangas, dvds, figuras, ropa, accesorios, implementos para el hogar, etc. La frecuencia con la que compra merch oscila entre 1 vez por semana o 1 vez cada dos semanas. El dinero que invirtió en ello se aproxima entre los 3000-4000 soles y su adquisición  más cara relacionada al anime fue una figura de 250 soles. La suma más alta que él contempla gastar en este tipo de producto es de 250 soles. El considera que su obtención es complicada ya que debe esperar varios meses para conseguirlos y su disponibilidad es limitada . Su prioridad es la calidad a la hora de obtener un producto.  
+
+El entrevistado fue Anderson Alvarado Cespedes, un entusiasta universitario apasionado por la cultura asiática, especialmente el anime y los mangas. Anderson compartió su pasión por los shonen como One Piece y Dragon Ball consumiendo de vez en cuando comedias románticas. Los productos que consume son mangas, dvds, figuras, ropa, accesorios, implementos para el hogar, etc. La frecuencia con la que compra merch oscila entre 1 vez por semana o 1 vez cada dos semanas. El dinero que invirtió en ello se aproxima entre los 3000-4000 soles y su adquisición  más cara relacionada al anime fue una figura de 250 soles. La suma más alta que él contempla gastar en este tipo de producto es de 250 soles. El considera que su obtención es complicada ya que debe esperar varios meses para conseguirlos y su disponibilidad es limitada . Su prioridad es la calidad a la hora de obtener un producto.  
 
 
 ---
@@ -5049,17 +5050,135 @@ Al momento de mostrar el producto “Nikaido & Cai Escala 1/8”, la imagen del 
 ***Recomendación:*** 
 Para solucionar este problema de diseño inclusivo, debemos agregar una imagen que se muestre por defecto en caso la imagen en cuestión no logre cargarse correctamente, o asegurarnos que todas las imágenes de todos los productos se muestran apropiadamente antes de enviar la aplicación a producción.
 
+<br>
+___
+<br>
+
+# 5.2.4 Sprint 4
+
+<br>
+___
+<br>
+
+## 5.2.4.1. Sprint Planning 4
+
+![Spring Planning 4](img/tb2_sprint_planning_3.png)
+
+
+<br>
+  
+## 5.2.4.2. Sprint Backlog 4
+
+Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story.
+
+![Spring Backlog 4](img/tb2_sprint_product_backlog.png)
+
+
+## 5.2.4.3. Development Evidence for Sprint Review
+
+### Repositorio Web Services: 
+
+![Web Services](img/tb2_deployment_evidence_repo_web_services.png)
+
+### Repositorio Acceptance-Tests:
+
+![Acceptance Tests](img/tb2_deployment_evidence_repo_acceptance_tests.png)
+
+### Repositorio Project Statement:
+
+![Project Statement](img/tb2_deployment_evidence_repo_acceptance_tests.png)
+
+### Repositorio Landing Page:
+
+![Landing Page](img/tb2_deployment_evidence_repo_landing_page.png)
+
+## 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+
+
+![Test created](img/tb2_testing_create_us34.png)
+
+
+
+
+![Tests created](img/tb2_testing_all_us.png)
+
+
+
+![Test](img/tb2_testing_us34.png)
+
+
+
+
+## 5.2.3.5. Execution Evidence for Sprint Review 
+
+
+
+![Sprint 4 Execution Evidence](img/tb2_execution_evidence.png)
+
+[URL Video de evidencia de la implementación del Sprint 4]()
+
+### Evidencia de implementación por cada US#
+
+
+
+
+![US-##](img/tb2_evidence_us34_implementation.png)
+!
+
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+**Detalles de Endpoints**
+
+
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+***Evidencia de implementación por cada User Story***
+
+
+## 5.2.4.8. Team Collaboration Insights during Sprint
+
+### END Project Report
+
+***a. Nirvana García***
+
+![Nirvana](img/tb2_team_collaboration_nirvana.png)
+
+
+
+***b. Gabriel Bernal***
+
+![Gabriel](img/tb2_team_collaboration_gabriel.png)
+
+***c. Michelle Moreno***
+
+![Michelle](img/tb2_team_collaboration_michelle.png)
+
+
+***d. Marcelo Scerpella***
+
+![Marcello](img/tb2_team_collaboration_marcello.png)
+
+***e. Diego Sanchez***
+
+![Diego](img/tb2_team_collaboration_diego.png)
+
+
 ## 5.4. Video About the Product
 <br><br>
 ___
 <br>
 Presentamos nuestro Video About the Product para el Sprint 3, el cual busca promocionar el producto que el Startup Lambders ha desarrollado, Akira.
 
-[Video en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EbYyEN5ur4BJnBuhR8uzqLYB0UJ9lcXM3X2jmq2hu9Ne0g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Kis5Wn)
+[Video en Microsoft Stream]()
 
-![About-the-Product](img/tb2_validation_landing.png)
+![About-the-Product]()
 
-[Video en YouTube](https://youtu.be/jZVbVFD9XBs)
+[Video en YouTube]()
 <br><br>
 ___
 <br>
@@ -5124,6 +5243,9 @@ requieren mejoras en el diseño y la experiencia del usuario.
 
 ● Organizar tu código siguiendo el patrón MVC para separar las preocupaciones y mejorar la mantenibilidad. Además, la buena práctica de utilizar el patrón de
 diseño Repository para la jerarquía de carpetas.
+
+## Conclusiones (TF1)
+
 
 ## Recomendaciones (TB1)
 
@@ -5203,14 +5325,14 @@ ___
 # Video About the Team
 
 Realizamos nuestro video About the team, primero iniciando con un breve resumen de
-los productos realizados a lo largo de estos Sprints (1, 2 y 3). Posteriormente, se
+los productos realizados a lo largo de estos Sprints. Posteriormente, se
 muestran pequeñas reuniones de trabajo entre los diferentes integrantes del equipo,
 desarrollando el codigo del proyecto. Finalmente, cada integrante explica sus tareas
 realizadas a lo largo del proyecto, sus logros y aprendizajes.
 
-![alt text](img/tb2_about-the-team.png)
+![alt text]()
 
-[Video About the Team](upc-pre-202302-si730-ws51-lambders-aboutthe-team-sprint-3.mp4)
+[Video About the Team]()
 
 <br><br>
 ___
@@ -5243,14 +5365,17 @@ Carpeta con todos los videos en Microsoft Steam: [Apps Web](https://upcedupe-my.
 | Sección                                    | Descripción del video                                   | URL del video en Steam                                |
 | ------------------------------------------ | ------------------------------------------------------- | ----------------------------------------------------- |
 | Needfinding Interviews                     | Video de Entrevistas a segmentos objetivos               | [upc-pre-202302-si730-ws51-lambders-needfinding-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EbkJfNMFfABAlw4V276IgnsBp3S4LGWH09Ibpua08rM_Gg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=nNIpFD) |
+| Needfinding Interviews                     | Video de Entrevistas a segmentos objetivos               | [upc-pre-202302-si730-ws51-lambders-needfinding-sprint-3.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) |
 | Prototypes Navigation / Product Navigation | Video Prototipo Web Akira (Sprint 1)                    | [upc-pre-202302-si730-ws51-lambders-web-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EbogrAh4NiRFhZZ6vJUNuE8BgQZvdRJvaKHRfRF09X5eyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=zpddmY) |
 | Prototypes Navigation / Product Navigation | Video Prototipo Mobile Akira (Sprint 1)                 | [upc-pre-202302-si730-ws51-lambders-mobile-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EfHlbHCIQadMqJm_4Rl1MyoBs1kqBjrtq38BhWpNe-nr8w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=TVddif) |
 | Prototypes Navigation / Product Navigation | Video Producto Landing Page (Sprint 1)                  | [upc-pre-202302-si730-ws51-lambders-product-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EYyBgDXqs09FvcrW214fvwQBlFva_Gym5vBdBpdmZeoUBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=BHHRs5) |
 | Prototypes Navigation / Product Navigation | Video Producto Frontend Web App (Sprint 2)              | [upc-pre-202302-si730-ws51-lambders-product-navigation-sprint-2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EXe6c6zPjgNMoH1PZcBz0PQBZ3ygYyzZNhH1vLXAcPYdkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=rKUeUc) |
+| Prototypes Navigation / Product Navigation | Video Producto Frontend Web App (Sprint 3)              | [upc-pre-202302-si730-ws51-lambders-product-navigation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) |
 | Exposición                                 | Video Exposición TB1                                    | [upc-pre-202302-si730-ws51-lambders-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/Eb6CyFBz8gBCh7Ig3CwrHx4BZrMBltBAOKyVm8k_WHPB_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=RI4xIp)       |
 | Exposición                                 | Video Exposición TP1                                    | [upc-pre-202302-si730-ws51-lambders-expo-tp1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EYLgEJALWalGi9FgtZwLPKcBeOMX5iLi37ojxxK9Wl1GJw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=dOJw21)       |
 | Exposición                                 | Video Exposición TB2   | [upc-pre-202302-si730-ws51-lambders-expo-tb2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EegBMZ0wb6FHjWBddHDjOegB0Kd_7qfjjkLnV6bh1UQb1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Licrvs)       |
-| About the Product                          | Video Promocional (TB2)  | [upc-pre-202302-si730-ws51-lambders-aboutthe-product-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EbYyEN5ur4BJnBuhR8uzqLYB0UJ9lcXM3X2jmq2hu9Ne0g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=lTHieE) |
+| Exposición                                 | Video Exposición TF1   | [upc-pre-202302-si730-ws51-lambders-expo-tf1.mp4]()       |
+| About the Product                          | Video Promocional (TB2)  | [upc-pre-202302-si730-ws51-lambders-aboutthe-product-sprint-4.mp4]() |
 | About the Team                             | Video del equipo y trabajo realizado (Sprint 3) | [upc-pre-202302-si730-ws51-lambders-about-the-team-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EUo0c561lWFDj00Uep2WNe0Boqm19-0mzWvLLn78WMCU6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=iwQqrk)|
 
 <br><br>
