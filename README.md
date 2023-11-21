@@ -279,13 +279,13 @@ Student Outcome
 
     5.4. [Video About the Product](#54-video-about-the-product)
 
-    [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
     
-    [Video About the Team](#video-about-the-team)
+  [Video About the Team](#video-about-the-team)
 
-    [Bibliografía](#bibliografía)
+  [Bibliografía](#bibliografía)
 
-    [Anexos](#anexos)
+  [Anexos](#anexos)
 
 <br><br>
 ___
