@@ -30,7 +30,9 @@ https://github.com/SI730-Grupo2-WS51-Apps-Web/Project-Report
 
 **Commits en Github en Project-Report**
 
-(Falta)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/imagen401_commits1.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/imagen402_commits.png)
 
 <br>
 
@@ -39,36 +41,11 @@ https://github.com/SI730-Grupo2-WS51-Apps-Web/Project-Report
 
 Repositorio Project Report (Capstone):
 
-(Falta)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/imagen403_statics%20Commits.png)
  
 <br>
 
-**Explicación de los commits - (TF1)**
 
-En esta sección, se describa los aportes que los integrantes del equipo han realizado en el repositorio:
-
-a. Nirvana García
-
-(Falta)
-
-
-b. Gabriel Bernal
-
-
- 
-c. Marcelo Scerpella
-
-(Falta)
-
-d. Michelle Moreno
-
-
-
- 
-d. Diego Sanchez
-
-(Falta)
- 
 
 
 <br><br>
@@ -1567,7 +1544,7 @@ ___
 
 Product Backlog en Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2678604 
 
-Visualizamos la creación de nuestros 7 Epics y 33 User Stories.
+Visualizamos la creación de nuestros 7 Epics y 36 User Stories.
 ![Alt text](img/image-79.png)
 
 
@@ -1575,7 +1552,7 @@ Con el transcurso del desarollo de los sprints, se fueron iniciando todos los us
 ![Alt text](img/image-80.png)
 
 
-Para finalmente culminar con la implementación de todo nuestro Product Backlog (sprint 1 y 2).
+Para finalmente culminar con la implementación de todo nuestro Product Backlog (sprint 1, 2, 3 y 4).
 ![Alt text](img/image-81.png)
 
 Vemos un total de 71 Story Points y un velocity aproximado de 10 pts (Lambders tiene la capacidad de desarrollar 10 story points por sprint).
@@ -1620,7 +1597,10 @@ Se muestra la tabla generada de Product Backlog:
 | 32    | US-32        | Contacto con Akira                              | Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono. | 2            |
 | 33    | US-33        | Contacto con Akira                              | Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.                                                            | 1            |
 
-
+| EP-08<br>(##5187299) 	| US-34 	| Visualización de la estructura adecuada de packages de backend con java 	| Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).                       	| Escenario 1: Navegar por la estructura Dado que soy un desarrollador trabajando en un proyecto backend con Java<br>Cuando abro el proyecto en un IDE como JetBrains IntelliJ IDEA <br>Entonces puedo ver la correcta estructura de packages en la ventana del proyecto<br>Y puedo examinar el código fuente de las clases para comprender su funcionalidad y relaciones.                                                                	|
+|----------------------	|-------	|-------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| EP-08<br>(##5187299) 	| US-35 	| Correcto modelado de las clases en Java                                 	| Como desarrollador, quiero que las clases de java dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.           	| Escenario 1: Organización de clases en el package "model"<br><br>Dado que soy un desarrollador trabajando en un proyecto backend con Java<br>Cuando abro el proyecto en JetBrains IntelliJ IDEA<br>Entonces puedo ver que todas las clases dentro del package "model" están correctamente estructuradas<br>Y puedo identificar claramente la organización de los datos en cada una de las clases.                                       	|
+| EP-08<br>(##5187299) 	| US-36 	| Comunicación con el Frontend de Akira                                   	| Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación. 	| Escenario 1: Configuración de la comunicación entre el backend y el frontend de Akira<br><br>Dado que soy un desarrollador trabajando en el proyecto de backend de Akira con tecnologías como Node.js y Express,<br>Cuando abro el código fuente en JetBrains WebStorm<br>Entonces puedo verificar que se han configurado correctamente las rutas y controladores en el backend para manejar las solicitudes provenientes del frontend. 	|
 
 
 
@@ -3474,15 +3454,18 @@ URL: https://code.visualstudio.com/
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/241.%20Visual%20Code.jpg)
 
 
-● Framework AngularJS: Es  un framework de JavaScript desarrollado por Google que se utiliza para construir aplicaciones web de una sola página (SPA). Es ampliamente conocido por su capacidad para crear aplicaciones web dinámicas y altamente interactivas.
-Una de las características más destacadas de AngularJS es su enfoque en la arquitectura Model-View-Controller (MVC), que permite separar la lógica de negocio, la presentación y la manipulación de datos. Esto facilita la estructuración y el mantenimiento del código, lo que a su vez mejora la escalabilidad y la legibilidad del proyecto.
-AngularJS también utiliza el enlace de datos bidireccional, lo que significa que cualquier cambio en el modelo de datos se reflejará automáticamente en la vista y viceversa. Esto simplifica la manipulación y actualización de los datos en tiempo real, sin necesidad de escribir código adicional.
-Además, AngularJS proporciona una amplia gama de directivas predefinidas que permiten extender HTML y agregar funcionalidades adicionales a los elementos de la página. Estas directivas facilitan la implementación de interacciones complejas y la manipulación del DOM de una manera más declarativa. Otra característica clave de AngularJS es su sistema de inyección de dependencias. Permite a los desarrolladores definir y administrar las dependencias de manera eficiente, lo que facilita la reutilización del código y mejora la modularidad de la aplicación.
-AngularJS también ofrece capacidades de prueba integradas, lo que permite a los desarrolladores escribir y ejecutar pruebas unitarias y de integración para garantizar la calidad del código.
+●	Framework VueJs: Vue.js es un framework de JavaScript de código abierto utilizado para construir interfaces de usuario interactivas y reactivas. Fue creado por Evan You y se lanzó por primera vez en 2014. Vue.js se basa en el modelo de vista de modelo de vista (MVVM) y se centra en la capa de vista de una aplicación web.
 
-URL: https://angularjs.org/
+Algunas de las características clave de Vue.js son:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/242.%20Angular%20JS.png)
+Reactividad: Vue.js utiliza un sistema de reactividad que permite enlazar automáticamente los datos del modelo de vista con la capa de vista. Esto significa que cuando los datos cambian, la vista se actualiza automáticamente sin necesidad de manipular el DOM directamente.
+Componentes: Vue.js se basa en un sistema de componentes, lo que significa que puedes crear componentes reutilizables y componerlos para construir interfaces de usuario complejas. Los componentes de Vue.js encapsulan su lógica y su vista, lo que facilita la reutilización y el mantenimiento del código.
+Directivas: Vue.js proporciona un conjunto de directivas incorporadas que te permiten manipular el DOM de manera declarativa. Algunas de las directivas más comunes son v-if, v-for, v-bind y v-on.
+
+URL: https://vuejs.org/ 
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/imagen415_Vue.png)
 
 
 ● Html: Es un lenguaje de marcado estándar utilizado para crear y estructurar el contenido de las páginas web. Es la base fundamental de cualquier sitio web y se utiliza para definir la estructura y el diseño de los elementos en una página.
@@ -4800,6 +4783,163 @@ Agregué el apartado de Diseño de entrevistas y Análisis de Entrevistas en Spr
 Agregué los .feature para los US-34. US-35 y US-36 (master branch)
 ![Diego](img/tb2_team_collaboration_diego.png)
 
+<br>
+___
+<br>
+
+# 5.2.4 Sprint 4
+
+<br>
+___
+<br>
+
+## 5.2.4.1. Sprint Planning 4
+
+![Spring Planning 4](img/tb2_sprint_planning_3.png)
+
+
+<br>
+  
+## 5.2.4.2. Sprint Backlog 4
+
+Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story.
+
+![Spring Backlog 4](img/tb2_sprint_product_backlog.png)
+
+
+## 5.2.4.3. Development Evidence for Sprint Review
+
+### Repositorio Web Services: 
+
+![Web Services](img/tb2_deployment_evidence_repo_web_services.png)
+
+### Repositorio Acceptance-Tests:
+
+![Acceptance Tests](img/tb2_deployment_evidence_repo_acceptance_tests.png)
+
+### Repositorio Project Statement:
+
+![Project Statement](img/tb2_deployment_evidence_repo_acceptance_tests.png)
+
+### Repositorio Landing Page:
+
+![Landing Page](img/tb2_deployment_evidence_repo_landing_page.png)
+
+## 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+
+
+![Test created](img/tb2_testing_create_us34.png)
+
+
+
+
+![Tests created](img/tb2_testing_all_us.png)
+
+
+
+![Test](img/tb2_testing_us34.png)
+
+
+
+
+## 5.2.3.5. Execution Evidence for Sprint Review 
+
+
+
+![Sprint 4 Execution Evidence](img/tb2_execution_evidence.png)
+
+[URL Video de evidencia de la implementación del Sprint 4]()
+
+### Evidencia de implementación por cada US#
+
+
+
+
+![US-##](img/tb2_evidence_us34_implementation.png)
+!
+
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+**Detalles de Endpoints**
+
+
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En este Sprint (Sprint 4), recalcamos nuestro logro de desarrollar el Web Services del e-commerce Akira, el cual cuenta con el propósito de procesar y gestionar los datos dentro de Akira, logrando manejar la lógica de la plataforma, interactuar con la base de datos, autenticar usuarios, realizar operaciones CRUD (crear, leer, actualizar, eliminar) y proporcionar servicios y APIs para que el frontend, realizado en vue JS, pueda comunicarse con él.
+
+
+En cuanto al Deployment, se desplegó nuestro Frontend mediante Github Pages y el Backend mediante Microsoft Azure y Sprint Boot.
+
+![Netlify](img/tb2_netlify.png.jpg) ![Microsoft Azure](img/tb2_azure.png)
+  ![ASP.Net](img/tb2_aspnet.png)
+
+Empleo de ASP.NET para la creación de la estructura de backend. 
+
+![ASP.NET Evidence](img/tb2_deployment_evidence_aspnet.png)
+
+Utilizamos Microsoft Azure para el despliegue del Backend.
+
+![Microsoft Azure Evidence](img/tb2_deployment_evidence_azure.png)
+
+Por otro lado, empleamos Netlify para el despliegue del Frontend
+
+![Netlify Evidence](img/tb2_deployment_evidence_netlify.png)
+
+
+Evidencia de despliegue de Akira usando Netlify:
+
+![Netlify Evidence](https://github.com/nirvagarcia/PruebaMd/blob/main/img/imagen408_SuccesfullDeployment.png)
+
+
+Visualización de la ruta
+
+![Netlify Evidence](https://github.com/nirvagarcia/PruebaMd/blob/main/img/imagen409_VerificacionPathcorrecto.png)
+
+
+Evidencia de despliegue de Akira usando Netlify, otra pantalla:
+
+![Netlify Evidence](https://github.com/nirvagarcia/PruebaMd/blob/main/img/imagen410_SuccesfullDeployment.png)
+
+
+<br><br>
+_________
+<br><br>
+
+
+## 5.2.4.8. Team Collaboration Insights during Sprint
+
+### En Web Service
+
+***a. Marcelo Scerpella***
+
+Agregué las modificaciones finales del Backend en el repositorio
+
+![Nirvana](https://github.com/nirvagarcia/PruebaMd/blob/main/img/imagen411_CommitMejoraBack.png)
+
+### En Project Report 
+
+***a. Marcelo Scerpella***
+
+Realizamos la integración del Sprint 4
+
+![Nirvana](https://github.com/nirvagarcia/PruebaMd/blob/main/img/imagen412_CommitsReport.png)
+
+
+
+<br><br><br>
+
+
+
+
+
+
+
+
 ## 5.3 Validation Interviews
 
 ## 5.3.1 Diseño de Entrevistas
@@ -5050,123 +5190,7 @@ Al momento de mostrar el producto “Nikaido & Cai Escala 1/8”, la imagen del 
 ***Recomendación:*** 
 Para solucionar este problema de diseño inclusivo, debemos agregar una imagen que se muestre por defecto en caso la imagen en cuestión no logre cargarse correctamente, o asegurarnos que todas las imágenes de todos los productos se muestran apropiadamente antes de enviar la aplicación a producción.
 
-<br>
-___
-<br>
-
-# 5.2.4 Sprint 4
-
-<br>
-___
-<br>
-
-## 5.2.4.1. Sprint Planning 4
-
-![Spring Planning 4](img/tb2_sprint_planning_3.png)
-
-
-<br>
-  
-## 5.2.4.2. Sprint Backlog 4
-
-Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story.
-
-![Spring Backlog 4](img/tb2_sprint_product_backlog.png)
-
-
-## 5.2.4.3. Development Evidence for Sprint Review
-
-### Repositorio Web Services: 
-
-![Web Services](img/tb2_deployment_evidence_repo_web_services.png)
-
-### Repositorio Acceptance-Tests:
-
-![Acceptance Tests](img/tb2_deployment_evidence_repo_acceptance_tests.png)
-
-### Repositorio Project Statement:
-
-![Project Statement](img/tb2_deployment_evidence_repo_acceptance_tests.png)
-
-### Repositorio Landing Page:
-
-![Landing Page](img/tb2_deployment_evidence_repo_landing_page.png)
-
-## 5.2.4.4. Testing Suite Evidence for Sprint Review
-
-
-
-![Test created](img/tb2_testing_create_us34.png)
-
-
-
-
-![Tests created](img/tb2_testing_all_us.png)
-
-
-
-![Test](img/tb2_testing_us34.png)
-
-
-
-
-## 5.2.3.5. Execution Evidence for Sprint Review 
-
-
-
-![Sprint 4 Execution Evidence](img/tb2_execution_evidence.png)
-
-[URL Video de evidencia de la implementación del Sprint 4]()
-
-### Evidencia de implementación por cada US#
-
-
-
-
-![US-##](img/tb2_evidence_us34_implementation.png)
-!
-
-
-## 5.2.4.6. Services Documentation Evidence for Sprint Review
-
-
-
-**Detalles de Endpoints**
-
-
-
-## 5.2.4.7. Software Deployment Evidence for Sprint Review
-
-***Evidencia de implementación por cada User Story***
-
-
-## 5.2.4.8. Team Collaboration Insights during Sprint
-
-### END Project Report
-
-***a. Nirvana García***
-
-![Nirvana](img/tb2_team_collaboration_nirvana.png)
-
-
-
-***b. Gabriel Bernal***
-
-![Gabriel](img/tb2_team_collaboration_gabriel.png)
-
-***c. Michelle Moreno***
-
-![Michelle](img/tb2_team_collaboration_michelle.png)
-
-
-***d. Marcelo Scerpella***
-
-![Marcello](img/tb2_team_collaboration_marcello.png)
-
-***e. Diego Sanchez***
-
-![Diego](img/tb2_team_collaboration_diego.png)
-
+<br><br><br>
 
 ## 5.4. Video About the Product
 <br><br>
@@ -5174,11 +5198,12 @@ ___
 <br>
 Presentamos nuestro Video About the Product para el Sprint 3, el cual busca promocionar el producto que el Startup Lambders ha desarrollado, Akira.
 
-[Video en Microsoft Stream]()
+![Problema 6](https://github.com/nirvagarcia/PruebaMd/blob/main/img/imagen413_NuevoVideoAboutThrProduct.png)
 
-![About-the-Product]()
 
-[Video en YouTube]()
+[Video en Microsoft Stream](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2Dexpo%2Dtf1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+[Video en YouTube](https://youtu.be/DwIVZzneJ2s )
 <br><br>
 ___
 <br>
@@ -5319,6 +5344,33 @@ establecidos, como naming conventions, indentación y organización de
 directorios y archivos.
 
 <br><br>
+
+
+
+**Recomendaciones (TF1)**
+
+Como recomendaciones para esta primera fase del proyecto, se declaran las siguientes:
+
+●	Seguir o moldear correctamente, dependiendo del transcurso del proyecto, el proceso SCRUM para un buen ciclo de vida de la aplicación Web.
+
+●	Seguir patrones de diseño y convenciones establecidos para cada lenguaje o marcador de hipertexto. Esto asegurará una consistencia visual y una experiencia de usuario coherente.
+
+●	Implementar revisiones regulares de retrospectiva, como reuniones al final de cada sprint para que el equipo de desarrollo pueda reflexionar sobre lo que salió bien y qué podría mejorarse en términos de procesos, colaboración y entregas.
+
+●	Fomentar la motivación del equipo al darles la oportunidad de participar activamente en la toma de decisiones y en la evolución del proyecto.
+
+●	Realizar pruebas de usabilidad frecuentes en cada sprint para evaluar la experiencia del usuario en la plataforma.
+
+●	Obtener retroalimentación directa de usuarios que interactúan con el sitio web con entrevistas. Estas retroalimentaciones ayudarán a identificar rápidamente cualquier problema de navegación, diseño o usabilidad que pueda afectar la satisfacción del cliente.
+
+●	Es importante escuchar a distintos grupos de fanáticos de la cultura asiática, ya que cada uno cuenta con una experiencia distinta en cuanto a procesos de compra, dificultades en cuanto al comercio informal de estos productos, la inflación de precios por alta demanda, entre otros datos enriquecedores.
+
+●	Se debe manejar una buena base de programación empleando HTML, CSS, Javascript y frameworks sencillos como Bootstrap para agilizar el proceso de creación de una Landing Page, ya que conocimientos sólidos, el aprender desde cero retrasa mucho el proceso.
+
+
+
+
+
 ___
 <br>
 
@@ -5374,8 +5426,8 @@ Carpeta con todos los videos en Microsoft Steam: [Apps Web](https://upcedupe-my.
 | Exposición                                 | Video Exposición TB1                                    | [upc-pre-202302-si730-ws51-lambders-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/Eb6CyFBz8gBCh7Ig3CwrHx4BZrMBltBAOKyVm8k_WHPB_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=RI4xIp)       |
 | Exposición                                 | Video Exposición TP1                                    | [upc-pre-202302-si730-ws51-lambders-expo-tp1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EYLgEJALWalGi9FgtZwLPKcBeOMX5iLi37ojxxK9Wl1GJw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=dOJw21)       |
 | Exposición                                 | Video Exposición TB2   | [upc-pre-202302-si730-ws51-lambders-expo-tb2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EegBMZ0wb6FHjWBddHDjOegB0Kd_7qfjjkLnV6bh1UQb1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Licrvs)       |
-| Exposición                                 | Video Exposición TF1   | [upc-pre-202302-si730-ws51-lambders-expo-tf1.mp4]()       |
-| About the Product                          | Video Promocional (TB2)  | [upc-pre-202302-si730-ws51-lambders-aboutthe-product-sprint-4.mp4]() |
+| Exposición                                 | Video Exposición TF1   | [upc-pre-202302-si730-ws51-lambders-expo-tf1.mp4](upc-pre-202302-si730-ws51-lambders-expo-tf1.mp4 (sharepoint.com))       |
+| About the Product                          | Video Promocional (TB2)  | [upc-pre-202302-si730-ws51-lambders-aboutthe-product-sprint-4.mp4](upc-pre-202302-si730-ws51-lambders-about-the-product-sprint-4.mp4 (sharepoint.com)) |
 | About the Team                             | Video del equipo y trabajo realizado (Sprint 3) | [upc-pre-202302-si730-ws51-lambders-about-the-team-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EUo0c561lWFDj00Uep2WNe0Boqm19-0mzWvLLn78WMCU6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=iwQqrk)|
 
 <br><br>
@@ -5385,16 +5437,14 @@ ___
 **Anexo B: URL´s dentro del Trabajo**
 
 
-| Sección     | Descripción del URL                 | URL del video en Steam                                               |
-|-------------|-------------------------------------|----------------------------------------------------------------------|
-| Despliegue  | Landing Page desplegada             | [Landing page Deployment](https://si729-grupo2-ws52-open-source.github.io/Landing-Page/)       |
-| Despliegue  | Frontend Web app desplegado         | [Front-end Deployment](https://akira-ecommerce.netlify.app/)|
-| Web Service | Web Service desplegado              | [SwaggerUI for Akira](http://20.55.32.254:8080/swagger-ui/index.html#/)|
-| Prototipado | Figma Akira                         | [Design Models for Web Applications with Figma](https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design) |
-| Github      | Organización Grupo 2 en Github      | [Akira´s Github repository](https://github.com/orgs/SI730-Grupo2-WS51-Apps-Web/repositories)   |
-| Pivotal Tracker      | Product Backlog, Epics y User Stories      | [Product Backlog](https://www.pivotaltracker.com/n/projects/2678604)   |
-
-
+| Sección         	| Descripción del URL                   	| URL del video en Steam                                                                         	|
+|-----------------	|---------------------------------------	|------------------------------------------------------------------------------------------------	|
+| Github          	| Organización Grupo 2 en Github        	| https://github.com/SI730-Grupo2-WS51-Apps-Web                                                  	|
+| Pivotal Tracker 	| Product Backlog, Epics y User Stories 	| https://www.pivotaltracker.com/n/projects/2678604                                              	|
+| Prototipado     	| Figma Akira                           	| https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design 	|
+| Despliegue      	| Landing Page desplegada               	| https://si729-grupo2-ws52-open-source.github.io/Landing-Page/                                  	|
+| Despliegue      	| Frontend Web app desplegado           	| https://akira-ecommerce.netlify.app/                                                           	|
+| Despliegue      	| Web Service desplegado                	| http://20.55.32.254:8080/swagger-ui/index.html#/                                               	|
 
 
 <br><br>
